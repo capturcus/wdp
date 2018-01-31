@@ -45,6 +45,8 @@ with open("pytania.txt") as f:
 questionsAsked = 0
 questionsCorrect = 0
 
+BOLD = '\033[1m'
+
 while True:
     randomQuestion = random.choice(questions)
     whatQuestion = [
@@ -59,17 +61,20 @@ while True:
     questionsAsked += 1
 
     answers = prompt(whatQuestion)
-    goodAns = ""
-    for q in randomQuestion["options"]:
-        if q[1]:
-            goodAns = q[0]
+    good = False
     for q in randomQuestion["options"]:
         if breakPrompt(q[0]) == answers['question']:
-            if q[1]:
-                print(Fore.GREEN + 'DOBRZE' + Style.RESET_ALL)
-                questionsCorrect += 1
+            good = q[1]
+    if good:
+        questionsCorrect += 1
+        print(Fore.GREEN + "DOBRZE" + Style.RESET_ALL)
+    else:
+        print(Fore.RED + "ŹLE" + Style.RESET_ALL)
+        for option in randomQuestion["options"]:
+            if option[1]:
+                print(BOLD + option[0] + Style.RESET_ALL)
             else:
-                print(Fore.RED + 'ŹLE' + Style.RESET_ALL+"\ndobra odpowiedź: "+goodAns)
+                print(option[0])
     print("\n"+str(questionsCorrect)+"/"+str(questionsAsked)+"\n")
     if answers == {}:
         break
