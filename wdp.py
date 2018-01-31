@@ -48,7 +48,8 @@ questionsCorrect = 0
 BOLD = '\033[1m'
 
 while True:
-    randomQuestion = random.choice(questions)
+    randNum = random.randint(0, len(questions))
+    randomQuestion = questions[randNum]
     whatQuestion = [
         {
         'type': 'list',
@@ -75,6 +76,9 @@ while True:
                 print(BOLD + option[0] + Style.RESET_ALL)
             else:
                 print(option[0])
-    print("\n"+str(questionsCorrect)+"/"+str(questionsAsked)+"\n")
+    print("\n"+str(questionsCorrect)+"/"+str(questionsAsked)+", zostało: "+str(len(questions))+"\n")
+
+    del questions[randNum]
+
     if answers == {}:
         break
