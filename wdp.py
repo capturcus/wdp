@@ -48,7 +48,7 @@ questionsCorrect = 0
 BOLD = '\033[1m'
 
 while True:
-    randNum = random.randint(0, len(questions))
+    randNum = random.randint(0, len(questions)-1)
     randomQuestion = questions[randNum]
     whatQuestion = [
         {
