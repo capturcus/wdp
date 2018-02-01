@@ -2,12 +2,13 @@
 # -*- coding: utf-8 -*-
 
 import json, sys, random
-from whaaaaat import prompt, print_json
+from whaaaaat import prompt
 from colorama import Fore, Back, Style
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
 questions = []
+badQuestions = []
 
 LINE = 80
 
@@ -46,9 +47,17 @@ questionsAsked = 0
 questionsCorrect = 0
 
 BOLD = '\033[1m'
+BAD_CHANCE = 0.2
 
 while True:
-    randomQuestion = random.choice(questions)
+    randNum = random.randint(0, len(questions)-1) if len(questions) != 0 else -1
+    randomQuestion = questions[randNum] if randNum != -1 else None
+    badQuestion = False
+    if len(badQuestions) > 0 and (random.random() < BAD_CHANCE or len(questions) == 0):
+        randNum = random.randint(0, len(badQuestions)-1)
+        randomQuestion = badQuestions[randNum]
+        badQuestion = True
+    
     whatQuestion = [
         {
         'type': 'list',
@@ -61,6 +70,8 @@ while True:
     questionsAsked += 1
 
     answers = prompt(whatQuestion)
+    if answers == {}:
+        break
     good = False
     for q in randomQuestion["options"]:
         if breakPrompt(q[0]) == answers['question']:
@@ -75,6 +86,10 @@ while True:
                 print(BOLD + option[0] + Style.RESET_ALL)
             else:
                 print(option[0])
-    print("\n"+str(questionsCorrect)+"/"+str(questionsAsked)+"\n")
-    if answers == {}:
-        break
+        badQuestions.append(randomQuestion)
+    print("\n"+str(questionsCorrect)+"/"+str(questionsAsked)+", zostało: "+str(len(questions)+len(badQuestions))+"\n")
+
+    if not badQuestion:
+        del questions[randNum]
+    else:
+        del badQuestions[randNum]
