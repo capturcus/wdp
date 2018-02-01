@@ -50,10 +50,10 @@ BOLD = '\033[1m'
 BAD_CHANCE = 0.2
 
 while True:
-    randNum = random.randint(0, len(questions)-1)
-    randomQuestion = questions[randNum]
+    randNum = random.randint(0, len(questions)-1) if len(questions) != 0 else -1
+    randomQuestion = questions[randNum] if randNum != -1 else None
     badQuestion = False
-    if len(badQuestions) > 0 and random.random() < BAD_CHANCE:
+    if len(badQuestions) > 0 and (random.random() < BAD_CHANCE or len(questions) == 0):
         randNum = random.randint(0, len(badQuestions)-1)
         randomQuestion = badQuestions[randNum]
         badQuestion = True
