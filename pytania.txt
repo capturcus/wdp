@@ -1294,6 +1294,7 @@ Obniżanie progu wrażliwości na monotonię
 Obniżanie progu reaktywności na niezmienność bodźców
 __________________________________________________________________________________________
 Systematyczne odczulanie w wyobraźni:
+
 To terapia awersyjna
 To terapia oparta na warunkowaniu sprawczym
 To terapia zanurzająca 
