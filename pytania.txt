@@ -14,7 +14,7 @@ Filozofia
 __________________________________________________________________________________________
 Która z wymienionych książek mogłaby być napisana przez Titchenera?
 
-Introspekcja odkrywa tajemnice umysłu x
+Introspekcja odkrywa tajemnice umysłux
 Tryumf funkcjonalizmu 
 Celowy charakter aktów zachowania 
 Niebezpieczeństwa redukcjonizmu 
@@ -46,7 +46,7 @@ opracowanie procedur zapewniających obiektywność badań
 utworzenie pierwszego uniwersyteckiego laboratorium psychologicznegox
 wykształcenie Sigmunda Freuda
 sformułowanie poglądu, że procesy umysłowe kontrolują zachowanie
----
+__________________________________________________________________________________________
 Które z poniższych sformułowań jest czymś więcej niż opisem zachowania?
 
 Karolina rzuciła piłkę tak aby ją potem złapać
@@ -67,7 +67,77 @@ opisywanie zachowania
 wyjaśnianie zachowania
 kierowanie zachowaniemx
 przewidywanie zachowania
----
+__________________________________________________________________________________________
+Który z poniższych współczynników korelacji został błędnie wyliczony?
+
+0,7
+0,0
+1,0
+2,4x
+__________________________________________________________________________________________
+Twój przyjaciel cieszy się bardzo, że udało mu się zdobyć cudowną taśmę z podprogowymi nagraniami, które pomogą mu rzucić palenie. Wiedząc o wynikach badań nad skutecznością tego typu materiałów powinieneś mu powiedzieć, że
+
+cieszysz się, że nareszcie znalazł rozwiązanie swojego problemu. 
+prawdopodobnie stracił pieniądze.x
+taśma ta nie pomoże mu przestać palić, ale pomoże mu schudnąć. 
+wszystko co przeczytałeś o taśmach podprogowych potwierdza trafność jego postępowania.
+__________________________________________________________________________________________
+Nauczyciel chciałby się dowiedzieć jaką część lekcji uczeń spędza zaangażowany w pracę nad zadaniami, a jaką poświęca na aktywność pozazadaniową. Według ciebie nauczyciel powinien użyć do badania
+
+kwestionariusza. 
+miary samoopisowej. 
+miary behawioralnej.x
+wywiadu.
+__________________________________________________________________________________________
+Pewien badacz poszukiwał najlepszego sposobu zapobiegania panice. Jako elementy procedury badawczej zaplanował zamknięcie badanych bez uprzedzenia, wpompowanie dymu pod drzwi i włączenie alarmu przeciwpożarowego. W jaki sposób powinien rozwiązać kwestię wprowadzenia osób badanych w błąd?
+
+powiedzieć badanym o wszystkim co planuje. 
+uzyskać zgodę badanych na uczestnictwo i robić potem dowolne rzeczy. 
+nie wspominać o wprowadzaniu w błąd. 
+rozważyć alternatywne sposoby postępowania i zredukować potencjalne ryzyko.x
+__________________________________________________________________________________________
+Recenzent badań wykonanych przez profesora Kleksa sugeruje, że ich rezultaty mogą być wyjaśnione w kategoriach tendencyjności spowodowanej oczekiwaniami. Najsilniejszy kontrargument, jaki profesor K. może wysunąć na swoja obronę to powiedzenie że
+
+zastosował podwójnie ślepą kontrolęx
+zoperacjonalizował wszystkie zmienne 
+użył planu A - B – A 
+zminimalizował działanie zmiennych zakłócających
+__________________________________________________________________________________________
+Karolina chciałaby określić tendencję centralną dla wieku w jej rodzinie. Pięciu członków tej rodziny ma: 12, 15, 23, 50 i 55 lat. W rodzinie Karoliny ............ jest wyższa niż .............
+
+średnia; zakres zmienności
+mediana; średnia
+mediana; zakres zmienności
+średnia; medianax
+__________________________________________________________________________________________
+Pani Jones sądzi, że jej syn był najlepszym aktorem w szkolnym przedstawieniu. Psycholog mógłby powiedzieć, że opinia pani Jones jest efektem:
+
+nacisków środowiskowych 
+tendencyjności obserwatorax
+standardyzacji
+publicznej weryfikacji
+__________________________________________________________________________________________
+Ewa otrzymuje zadanie wykonania obserwacji naturalnej. Która z niżej wymienionych będzie adekwatna?
+
+Ewa odwiedza pasaż handlowy, aby przekonać się ile osób kupuje samotnie, a ile w towarzystwie innych osóbx
+Ewa inicjuje zabawę z dziećmi w parku, aby sprawdzić jak reagują na obcą osobę 
+Ewa przeprowadza wywiady z kolegami na temat ich ulubionych wykładów 
+Ewa wykonuje sondaż na temat jakości potraw w szkolnej stołówce 
+__________________________________________________________________________________________
+Wyobraź sobie, że jesteś niedoświadczonym nauczycielem i chcesz zbadać wpływ nagród na poziom nauczania. Jako definicję operacyjną zmiennej zależnej wybierzesz:
+
+liczbę ocen bardzo dobrych, jaką otrzymuje każdy uczeńx 
+wiek każdego z uczniów w momencie rozpoczynania badań 
+liczbę rodzeństwa każdego z uczniów
+postawę innych nauczycieli w stosunku do nagradzania
+__________________________________________________________________________________________
+Tomek twierdzi, że nie wierzy w zasadę determinizmu. Które z poniższych twierdzeń wyraża najlepiej jego stanowisko?
+
+Czasem ludzie nie zdają sobie sprawy z jaką determinacją dążą do sukcesu.
+Poczucie anonimowości powoduje wzrost liczby zachowań agresywnych u dzieci. 
+Introspekcja nie może być podstawą rzetelnej wiedzy o świadomości człowieka. 
+Niektóre zachowania pojawiają się bez specyficznych przyczyn.x
+__________________________________________________________________________________________
 Reżyser filmowy przeprowadza casting w poszukiwaniu aktora o twarzy kryminalisty. Potencjalni wykonawcy tej roli interesują go z punktu widzenia:
 
 ewolucji kulturowej
@@ -95,7 +165,7 @@ Peruka na głowie reprezentująca kolbki synaptyczne.x
 Podkoszulek reprezentujący ciało komórki z jądrem namalowanym pośrodku.
 Ramiona przedstawiające dendryty.
 Komórki receptorowe namalowane na palcach.
----
+__________________________________________________________________________________________
 Jeżeli nie odziedziczyłaś chromosomu Y po ojcu to urodziłaś się:
 
 z cechami płci żeńskiej.x
@@ -137,14 +207,14 @@ ciemieniowym.
 potylicznym.
 skroniowym.x
 czołowym.
----
+__________________________________________________________________________________________
 Osoba, która uprawia medytację minimalizuje dopływ bodźców zewnętrznych w celu:
 
 uniknięcia halucynacji.
 wyeliminowania procesów nieświadomych.
 poprawienia automatycznego myślenia.
 zwiększenia samowiedzy.x
----
+__________________________________________________________________________________________
 Według Freuda masz do czynienia z procesem nieświadomym kiedy:
 
 machasz ręką na widok przyjaciela po drugiej stronie ulicy.
@@ -192,8 +262,8 @@ Używanie leków modyfikujących percepcje rzeczywistości
 zaczęło się wkrótce po zakończeniu I Wojny Światowej.
 zostało zainspirowane utworem Williama Blake'a „The Marriage of Heaven and Hell"
 sięga głębokiej starożytności.x
-zostało zainspirowane książką Aldousa Huxleya, The Doors of Perception.
----
+zostało zainspirowane książką Aldousa Huksleya, The Doors of Perception.
+__________________________________________________________________________________________
 Pewien mężczyzna skarży się na straszną bezsenność, przez którą w ogóle nie śpi. Jego żona twierdzi, że śpi on w zasadzie normalnie tylko przeszkadza mu stałe chrapanie, a zatem cierpi on na:
 
 katapleksję.
@@ -207,13 +277,13 @@ człowiek niezdolny do samokontroli.x
 osoba głęboko uśpiona.
 osoba nadzwyczaj odpowiedzialna.
 człowiek skrajnie napięty i zdenerwowany
----
+__________________________________________________________________________________________
 Kolega prosi cię abyś zgadł ile dokładnie lat ma jego kilkuletnia siostra Ewa. Które z poniższych pytań nawiązujących do teorii Piageta pozwoli ci rozstrzygnąć ten problem?
 
 Czy w zachowaniu i myśleniu Ewy pojawia się asymilacja?
 Czy w zachowaniu i myśleniu Ewy pojawia się akomodacja? 
 Czy Ewa posługuje się schematami sensoryczno motorycznymi?
-Czy u Ewy można zaobserwować centrację? x
+Czy u Ewy można zaobserwować centrację?x
 __________________________________________________________________________________________
 Który z kryzysów rozwoju psychospołecznego według Eriksona zaczyna się wraz z początkiem używania mowy i eksplorowania środowiska?
 
@@ -242,7 +312,7 @@ Dzieci często ponoszą negatywne konsekwencje zażywania kokainy przez ich cię
 rodzice mają wpływ na pewne aspekty wyposażenia genetycznego dziecka.
 na niektóre dzieci dziedziczność ma większy wpływ niż na inne.
 środowisko wpływa silnie na rozwój tych dzieci po urodzeniu.
----
+__________________________________________________________________________________________
 Który z następujących faktów został stwierdzony w badaniach Harlowa nad małpkami wychowywanymi na matkach zastępczych?
 
 Małpki przywiązywały się bardziej do tej sztucznej matki, która je karmiła.
@@ -274,15 +344,15 @@ ________________________________________________________________________________
 Według Noama Chomskiego biologicznie uwarunkowany mechanizm przyswajania języka istnieje, dlatego że
 
 rodzice korygują wypowiedzi dzieci na podstawie zgodności z regułami gramatyki. 
-wszystkie ludzkie istoty (z wyjątkiem cierpiących na zaburzenia rozwojowe lub izolowanych społecznie we wczesnym okresie życia) uczą się języka bardzo szybko. x
+wszystkie ludzkie istoty (z wyjątkiem cierpiących na zaburzenia rozwojowe lub izolowanych społecznie we wczesnym okresie życia) uczą się języka bardzo szybko.x
 uczenie się języka dokonuje się przez naśladownictwo.
 wiele aspektów języka pojawia się niezależnie od dojrzewania fizycznego i poznawczego.
----
+__________________________________________________________________________________________
 Konsekwencją małżeństwa i rodzicielstwa dla osób dorosłych jest to, że:
 
 zarówno kobiety jak i mężczyźni dążą do swobody kosztem bezpieczeństwa
 po narodzinach dziecka mężczyźni czują się wtłoczeni w tradycyjną rolę męską
-kobiety, w większym stopniu niż mężczyźni, zmuszone są do rezygnacji z osobistej swobody i autonomii x
+kobiety, w większym stopniu niż mężczyźni, zmuszone są do rezygnacji z osobistej swobody i autonomiix
 satysfakcja małżeńska jest najwyższa, gdy dzieci wchodzą w okres dorastania
 __________________________________________________________________________________________
 Według Eriksona, kiedy wcześniejsze kryzysy pozostają nierozwiązane, ludzie kończą życie z poczuciem:
@@ -291,7 +361,7 @@ stagnacji
 izolacji
 pomieszania ról 
 rozczarowaniax
----
+__________________________________________________________________________________________
 Który z powodów moralnego zachowania zajmuje wg Kohlberga najwyższą pozycję w hierarchii?
 
 przestrzegać reguł
@@ -303,7 +373,7 @@ Twój dziadek postanowił zrezygnować z wszystkich ulubionych gier w karty, z w
 
 selekcja 
 optymalizacja 
-kompensacja x
+kompensacjax
 plastyczność 
 __________________________________________________________________________________________
 Które z poniższych założeń NIE dotyczy modelu stadiów moralnych opracowanego przez Kohlberga?
@@ -318,7 +388,7 @@ Podczas audycji telewizyjnej pewien terapeuta przekonuje widzów że: "Jeśli je
 późnego dzieciństwa
 wczesnej dorosłości
 średniej dorosłości 
-dojrzewania x
+dojrzewaniax
 __________________________________________________________________________________________
 Status dziecka jako osoby został uznany przez społeczeństwo w drugiej połowie:
 
@@ -337,17 +407,17 @@ ________________________________________________________________________________
 Która z faz rozwoju poznawczego NIE należy do koncepcji Warnera Schaie?
 
 stadium osiągania 
-stadium produktywności x
+stadium produktywnościx
 stadium odpowiedzialności 
 stadium reintegracji 
----
+__________________________________________________________________________________________
 Obrzędy inicjacji społeczeństw nieindustrialnych obejmują:
 
 zawarcie małżeństwa
 wyprowadzenie się z domu rodzinnego
 okresy odosobnienia połączone z próba przetrwaniax
 picie alkoholu w miejscach publicznych
----
+__________________________________________________________________________________________
 Matka ostrzega dziecko przed dotykaniem gorącego pieca. Jej intencją jest oszczędzenie mu bólu
 
 neuropatycznego.
@@ -389,7 +459,7 @@ tendencyjnością reakcji.
 hamowaniem obocznym.
 kodowaniem sensorycznym.
 adaptacją zmysłową.x
----
+__________________________________________________________________________________________
 Kolejne elementy ucha pojawiają się na szlaku pobudzających je fal dźwiękowych w następującym porządku:
 
 błona bębenkowa, ucho środkowe, przewód słuchowy, ślimak.
@@ -417,7 +487,7 @@ stałbyś się całkowicie ślepy.
 miałbyś trudności z widzeniem o zmroku.
 stałbyś się całkowicie ślepy na barwy.x
 widziałbyś tylko obiekty znajdujące się w centrum pola widzenia.
----
+__________________________________________________________________________________________
 Wysłuchałeś wykładu nieznanego młodego naukowca na temat percepcji. Autor zajmował się głównie analizą roli niezmiennych cech środowiska. Domyślasz się, że jest on zwolennikiem:
 
 szkoły psychologii postaci.
@@ -473,7 +543,7 @@ bliżej od ciebiex
 dalej od ciebie
 większy
 mniejszy
----
+__________________________________________________________________________________________
 Marek przygląda się regatom z dogodnego miejsca znajdującego się na mecie. Jako że wszystkie łódki są tej samej wielkości, wnioskuje, że jedna, która wydaje mu się dużo mniejsza od pozostałych, pozostała w tyle. Jego interpretacja opiera się na:
 
 stałości kształtu
@@ -487,7 +557,77 @@ niezależnością od pola
 stałością spostrzeganiax
 zależnością od pola
 nastawieniem percepcyjnym
----
+__________________________________________________________________________________________
+Chciałbyś rozpocząć tresurę swojego nowego szczeniaka zgodnie z zasadą Premacka. Zanim to uczynisz powinieneś ustalić
+
+jakie zachowania pojawiają się u tego zwierzęcia z dużym prawdopodobieństwem, a jakie z małym.x
+jakich bodźców możesz użyć do karania.
+jak często szczeniak otrzymywał negatywne wzmocnienia.
+jakie bodźce pełnią funkcję wzmocnień pierwotnych.
+__________________________________________________________________________________________
+Obserwujesz eksperyment, podczas którego u psa został uwarunkowany odruch ślinienia na dźwięk poprzedzający minimalnie podanie do pyska proszku mięsnego. Obecna faza warunkowania jest taka, że pies reaguje ślinieniem na ton o wysokości 100 Hz, nie reaguje zaś na ton o wysokości 120 Hz. Jest oczywiste, że pies przeszedł trening
+
+wygaszania.
+generalizacji.
+oszczędności.
+różnicowania.x
+__________________________________________________________________________________________
+Dowiedziałeś się z wiadomości telewizyjnych, że znany gwiazdor rocka zmarł wskutek przedawkowania heroiny. Zwykle zażywał dwie dawki dziennie. Jaka jeszcze informacja podana przez telewizję jest istotna dla wyjaśnienia przyczyny zgonu?
+
+Że zażywał heroinę od 22 roku życia.
+Że stało się to kiedy pierwszy raz wziął zwykłą dawkę w swoim nowym domu.x
+Że za każdym razem gdy brał heroinę znajdował się w towarzystwie żony.
+Inni członkowie jego zespołu również byli narkomanami.
+__________________________________________________________________________________________
+Alicja jest treserką zwierząt w cyrku. Rozpoczyna właśnie po raz pierwszy tresurę fretek. Ostatnio spędziła parę dni w bibliotece studiując wrodzone wzorce zachowania tych zwierząt. Alicja próbuje w ten sposób uniknąć
+
+wygaszania reakcji.
+wiązania zachowań.
+wyuczonej bezradności.
+tendencji do przesuwania zachowania w kierunku instynktu.x
+__________________________________________________________________________________________
+Prowadzisz badania, podczas których psy otrzymują szoki elektryczne, na które reagują objawami strachu. Podczas eksperymentów przez cały czas włączony jest głośny wentylator pozwalający utrzymać w pomieszczeniu odpowiednią temperaturę. Czy po pewnej liczbie powtórzeń sam dźwięk wentylatora może wywołać objawy strachu?
+
+Nie, bo szok elektryczny nie poprzedza dźwięku.
+Nie, bo szok elektryczny nie następuje po dźwięku.x
+Tak, bo szok elektryczny poprzedza dźwięk.
+Tak, bo szok elektryczny następuje po dźwięku.
+__________________________________________________________________________________________
+Który z następujących scenariuszy jest przypadkiem sprzyjającym utrwalaniu nieprzystosowawczego zachowania wskutek działania wtórnych zysków?
+
+Za każdym razem kiedy dziecko złości się bez powodu, traci przywilej oglądania telewizji.
+Pacjenci szpitala psychiatrycznego zdobywają żetony za zażywanie leków.
+Dziadkowie nieśmiałego dziecka przynoszą mu dodatkowe prezenty.x
+Sportowcy nagradzani są nie tylko za bicie rekordów, lecz i za fair play, czyli czystą grę.
+__________________________________________________________________________________________
+Całościowa ocena efektów uczenia się na podstawie obserwacji zewnętrznego zachowania człowieka nie zawsze jest możliwa ponieważ
+
+nie zawsze sprowadza się ono do zmian w wykonaniu pewnych widocznych reakcji.x
+jest ono także wynikiem fizycznego dojrzewania.
+jego rezultaty są bardzo krótkotrwałe.
+zachowanie to nie zależy wyłącznie od jednostkowego doświadczenia.
+__________________________________________________________________________________________
+Badania Tolmana nad mapami poznawczymi pokazały, że szczury mogą
+
+naciskać dźwignię według prawidłowego wzorca, aby wejść do labiryntu.
+rozwiązać labirynt obserwując inne wzmacniane szczury.
+znaleźć przejścia przez labirynt, w których nigdy przedtem nie były wzmacniane.x
+znaleźć drogę do ukrytego pokarmu nawet po długim czasie.
+__________________________________________________________________________________________
+Według teorii uczenia się społecznego Bandury zdolność uczenia się przez obserwowanie modela NIE zależy od tego czy:
+
+zachowanie modela ma widoczne nagradzające konsekwencje.
+model jest oceniany pozytywnie, lubiany i szanowany.
+naśladowanie zachowania modela mieści się w zakresie umiejętności obserwatora.
+model i obserwator mogą wpływać wzajemnie na swoje zachowanie.x
+__________________________________________________________________________________________
+Kiedy podczas weekendu młody Skinner niechcący zaoszczędził pokarm do wzmacniania prawidłowych reakcji u swoich szczurów, zauważył że w porównaniu ze szczurami nagradzanymi za każdą prawidłową reakcję, szczury wzmacniane częściowo
+
+reagowały dłużej i żywiej podczas wygaszania.x
+uczyły się wolniej.
+przestawały reagować.
+reagowały krócej i słabiej podczas wygaszania.
+__________________________________________________________________________________________
 Podręcznik opisuje słynnego studenta S.F., który potrafił zapamiętać szeregi cyfr liczące do 80 elementów przedstawionych w przypadkowym porządku, podczas gdy jego pamięć liter była zupełnie przeciętna. Wyniki tej wyjątkowej osoby badanej świadczą o tym, że:
 
 między ludźmi istnieją ogromne różnice indywidualne w zakresie pojemności pamięci krótkoterminowej
@@ -515,7 +655,7 @@ jest skuteczne, bo osoby uprzedzone mogą starać się dokładniej zapamiętać 
 jest skuteczne, bo osoby uprzedzone mogą zignorować sugestie otrzymane po obserwacji
 nie jest skuteczne, bo między wynikami obserwacji, a sugestiami zachodzi maskowanie
 nie jest skuteczne, bo nawet mimo uprzedzenia sugestie pośrednie działająx
----
+__________________________________________________________________________________________
 Jaś i Małgosia uczą się w klasie, w której codziennie ośmiu uczniów przedstawia swoje prace domowe. Małgosia ma nadzieję, że profesor zapamięta dobrze to co przygotowała. Jaś nie jest dziś z siebie zadowolony i wolałby nie zwracać uwagi profesora. Małgosia chciałaby być wywołana ................, Jaś błaga los, żeby jego praca była prezentowana ................ .
 
 w środku; na końcu
@@ -557,7 +697,7 @@ interferencja
 motywowane zapominanie
 maskowanie wstecznex
 nieskuteczne wydobywanie
----
+__________________________________________________________________________________________
 Słownik umysłowy zorganizowany jest w sieć powiązaną na zasadzie podobieństwa znaczeniowego, dźwiękowego i gramatycznego słów. Jest to założenie
 
 modeli rozproszonego przetwarzania równoległego.
@@ -606,7 +746,7 @@ rozprzestrzeniającej się aktywacji.
 ekonomii poznawczej umysłu.x
 myślenia deskryptywnego.
 pseudopamięci.
----
+__________________________________________________________________________________________
 Zalecenie „Zaczynajcie pracę od prostszych wersji złożonych problemów” jest
 
 algorytmem.
@@ -627,7 +767,7 @@ J. Piageta.
 H. Simona.x
 N. Chomskiego.
 I. Janisa.
----
+__________________________________________________________________________________________
 Który z poniższych porządków zaspokajania potrzeb zgodny jest z hierarchią potrzeb Maslowa:
 
 potrzeby bezpieczeństwa, potrzeby poznawcze, samorealizacjax
@@ -655,7 +795,7 @@ Kiedy Danka jest smutna, je dwa razy więcej lodów niż zwykle.
 Kiedy Witek czuje się szczęśliwy, zaczyna dobrze spać.
 Kiedy Agnieszka jest na kogoś wściekła, podczas prowadzenia samochodu popełnia dwa razy więcej błędów niż zwykle.x
 Kiedy mała Marysia jest czymś zaskoczona, wybucha płaczem.
----
+__________________________________________________________________________________________
 Wysłuchałeś właśnie fragmentu wykładu, podczas którego omawiane było znaczenie oczekiwań osiągnięcia celu i osobistych wartości tego celu. Wydaje ci się, że wykład dotyczył teorii:
 
 Juliana Rotterax
@@ -697,7 +837,7 @@ wytrwałość w pracy nad nierozwiązywalnym zadaniem
 poszukiwanie autonomicznego sukcesu
 skłonność do awansu społecznego
 gotowość do opiekowania się rodzicami w każdej sytuacjix
----
+__________________________________________________________________________________________
 Cytat: "Doświadczenia emocjonalnego nie można zrozumieć w kategoriach tego tylko, co dzieje się w danej osobie czy w jej mózgu, lecz wynika ono z zachodzących aktualnie interakcji ze środowiskiem, które są oceniane." pochodzi z książki:
 
 Waltera Cannona
@@ -767,21 +907,161 @@ dostarczanie informacji o chorobie
 pomoc w rozwiązywaniu problemów finansowych
 bagatelizowanie choroby i rozweselanie
 zwykła obecnośćx
----
+__________________________________________________________________________________________
+Nauczyciel wychowania technicznego oczekuje, że mały Tomek zbuduje domek dla ptaków. Z twoich badań wynika, że Tomek ma niski wskaźnik poczucia własnej skuteczności. Na tej podstawie nasuwa ci się przypuszczenie, że Tomek NIE:
+
+będzie umiał zbudować domku
+będzie chciał zbudować domku
+wierzy, że może zbudować domekx
+rozumie projektu budowy domku
+__________________________________________________________________________________________
+Przez większość swego życia Beata prześladowana jest przez głębokie poczucie nieadekwatności. Nieważne, za co się bierze, zawsze kończy z poczuciem, że wypadła gorzej od innych osób. Problem Beaty wydaje się najbardziej zrozumiały w kategoriach teorii osobowości:
+
+Carla Junga
+Hansa Eysencka
+Josepha Breuera
+Alfreda Adlerax
+__________________________________________________________________________________________
+Wyobraź sobie sztukę, której osoby reprezentują poszczególne aspekty struktury osobowości według Freuda. Która z poniższych kwestii najlepiej pasuje do Ego?
+
+"Chcę tego teraz!"
+"Musisz poczekać."x
+"To jest karygodne."
+"Nie obchodzą mnie koszty."
+__________________________________________________________________________________________
+Twoim zamiarem jest napisanie psychobiografii gwiazdy muzyki pop - Madonny. Jako zwolennik humanistycznego podejścia do osobowości będziesz opisywał wydarzenia z jej życia jako:
+
+tryumf jej id nad superego
+przejawy archetypów z jej nieświadomości zbiorowej
+dążenie do samorealizacjix
+efekty wzajemnego determinizmu
+__________________________________________________________________________________________
+Mała Ania bawi się piłką plażową w salonie. Piłka potrąca ulubioną lampę mamy. Lampa spada i tłucze się. Kiedy zjawia się matka, Ania zostaje ukarana za bawienie się piłką w mieszkaniu. Równocześnie matka przypomina dziewczynce o tym, że ją kocha. Taka strategia wychowawcza stosuje się do sugestii:
+
+Carla Junga 
+Carla Rogersax
+Rollo Maya
+Abrahama Maslowa
+__________________________________________________________________________________________
+Który z trzech wymiarów osobowości wyodrębnionych przez Eysencka NIE pojawia się w składzie Wielkiej Piątki?
+
+Psychotyzmx
+Ekstrawersja
+Przyjazność
+Neurotyzm
+__________________________________________________________________________________________
+Rozmawiasz z koleżanką z grupy o przygotowaniach do egzaminu, który będziecie zdawać za godzinę. Która z wypowiedzi możesz zinterpretować jako samoutrudnianie?
+
+Uczyłam się bardzo dużo, ale ciągle nie jestem pewna czy pójdzie mi dobrze.
+Boję się, że test będzie trudny.
+Myślę, że tym razem będzie lepiej niż poprzednio.
+Wczoraj nie uczyłam się wcale, ponieważ musiałam zająć się siostrą, która właśnie złożyła mi wizytę.x
+__________________________________________________________________________________________
+Helena wraca z pracy do domu wściekła, ponieważ szef zwrócił jej uwagę na brak sumienności. Zastaje dwójkę swoich dzieci przy oglądaniu telewizji. Robi im awanturę z powodu lenistwa i niedbalstwa i każe natychmiast zabrać się do odrabiania lekcji. Jej zachowanie może być zinterpretowane jako przejaw działania jednego z poniższych mechanizmów obronnych:
+
+przemieszczeniex
+zaprzeczanie rzeczywistości
+formowanie reakcji przeciwnych
+regresja
+__________________________________________________________________________________________
+Większość przyjaciół Jurka uważa go za osobę cichą i nieśmiałą. Wszyscy byli zdziwieni, kiedy się okazało, że zwycięsko przeszedł przesłuchanie i otrzymał główną rolę w szkolnym przedstawieniu. Fakt ten ilustruje:
+
+działanie mechanizmu zaprzeczania rzeczywistości
+paradoks spójnościx
+zwiększanie poczucia własnej wartości
+uczenie się obserwacyjne
+__________________________________________________________________________________________
+Poznawcza teoria społecznego uczenia się Bandury NIE zawiera pojęcia:
+
+determinizmu wzajemnego
+uczenia się obserwacyjnego
+poczucia własnej skuteczności
+wartości osobistychx
+__________________________________________________________________________________________
+Który z procesów służących do rozwiązywania tradycyjnych testów inteligencji NIE należy do analizy składnikowej Roberta Sternberga?
+
+nabywanie wiedzy
+strategie i techniki rozwiązywania problemów
+kontrola drogi do uzyskania rozwiązania (metapoznanie)
+kojarzenie bodźców z ich znaczeniemx
+__________________________________________________________________________________________
+Wykonałeś test inteligencji dostępny w Internecie. Na końcu dowiedziałeś się, że twój wynik wyniósł 43 punkty. Liczba ta nie ma żadnego znaczenia bez znajomości:
+
+wskaźnika trafności fasadowej testu 
+wskaźnika trafności teoretycznej
+standardu statystycznego, czyli normyx
+wyniku równoległej formy testu
+__________________________________________________________________________________________
+Pogląd, że poziomy inteligencji w dużych populacjach rozkładają się według rozkładu normalnego tworząc krzywą w kształcie dzwonu, sformułował:
+
+J.P. Guilford
+Raymond Catell
+Charles Spearman
+Francis Galtonx
+__________________________________________________________________________________________
+Paweł opracowuje test do mierzenia stabilności emocjonalnej. W tym celu przebadał dużą próbę studentów, których poprosił o dołączenie do arkusza odpowiedzi kilku nazwisk bliskich przyjaciół. Paweł zamierza skontaktować się ze wskazanymi osobami i poprosić je o ocenę stabilności emocjonalnej badanych studentów. W ten sposób będzie mógł określić dla swojego testu:
+
+trafność teoretyczną
+trafność zewnętrznąx
+trafność fasadową
+rzetelność
+__________________________________________________________________________________________
+Panie Kowalska i Malinowska rozmawiają o swoich dzieciach. Pierwsza z nich mówi, że jej syn Tomek ma najwyższy wskaźnik inteligencji werbalnej w swojej klasie. Druga chwali się córką Zuzią, która uzyskała równie wysoki rezultat w testach koordynacji ruchowej i płynności motorycznej. Jeżeli matki mówią prawdę, to według teorii Howarda Gardnera Tomek i Zuzia powinni w przyszłości zająć się:
+
+dziennikarstwem (Tomek) i tańcem (Zuzia)x
+poezją (Tomek) i rzeźbą (Zuzia)
+matematyką (Tomek) i sportem (Zuzia)
+badaniami naukowymi (Zuzia) i psychoterapią (Tomek)
+__________________________________________________________________________________________
+J. P. Guilford zaproponował model struktury intelektu uwzględniający następującą liczbę kombinacji treści, produktów i operacji:
+
+20
+60
+85
+150x
+__________________________________________________________________________________________
+Fakt, że w testach inteligencji amerykańscy Murzyni i inne mniejszości rasowe osiągały wyniki niższe niż przedstawiciele białej większości, został skomentowany następująco: "Ich tępota wydaje się uwarunkowana rasowo. Obecnie nie widać możliwości przekonania społeczeństwa do zakazania im rozmnażania się, ale z eugenicznego punktu widzenia tworzą oni poważny problem, z powodu szczególnej płodności." Autorem tej kontrowersyjnej opinii był:
+
+Stephen Jay Gould
+Luis Termanx
+Edward Thorndike
+Robert Yerkes
+__________________________________________________________________________________________
+Do technik projekcyjnych stosowanych do diagnozy osobowości NIE należy:
+
+uzupełnianie (np. kończenie sekwencji wydarzeń)
+porządkowanie (np. układanie obrazków w określonej kolejności)
+analiza danych autobiograficznych lub archiwalnychx
+ekspresja (działanie lub odgrywanie ról)
+__________________________________________________________________________________________
+Badający cię psycholog daje ci test, w którym jesteś pytany o wszelkie możliwe zastosowania ołówka. Na podstawie odpowiedzi na to pytanie będzie oceniał u ciebie:
+
+myślenie dywergencyjne (rozbieżne)x
+inteligencje skrystalizowaną
+myślenie konwergencyjne (zbieżne)
+pamięć
+__________________________________________________________________________________________
+Który z poniższych problemów etycznych związanych z powszechnym stosowaniem pomiarów psychologicznych jest najmniej istotny?
+
+Testy dyskryminują pewne grupy społeczne ograniczając im dostęp do poszukiwanych stanowisk pracy
+Autorzy testów czerpią zbyt wysokie zyski z ich rozpowszechnianiax 
+Nauczyciele zamiast uczyć samodzielnego myślenia spędzają czas na przygotowywaniu uczniów do standaryzowanych egzaminów
+Niezadowalające wyniki niektórych testów stanowią trudne do przezwyciężenia piętno
+__________________________________________________________________________________________
 Jesteś szefem komitetu wyborczego w kampanii prezydenckiej Stefka Burczymuchy przeciw Zosi Samosi. Według bieżących sondaży prowadzi Zosia Samosia. Jeżeli chcesz, żeby wyborcy popierający Samosię zaczęli popierać Burczymuchę, powinieneś zapłacić jej zwolennikom po ................. za "szczere" powiedzenie Tobie i paru innym osobom, co im się w programie wyborczym Zosi ...........................
 
 500 zł; podoba
 10 zł; podoba
 500 zł; nie podoba
-10 zł; nie podoba x
+10 zł; nie podobax
 __________________________________________________________________________________________
-Monika opowiada, że została zaproszona przez swojego przyjaciela na urodziny. Po drodze jej samochód został na tyle poważnie uszkodzony, że musiała zrezygnować z udziału w tej uroczystości. Od tamtej pory jej przyjaciel, który stał się już jej ex-przyjacielem, rozpowiada wspólnym znajomym, że Monika jest osobą zupełnie niegodną zaufania, i w żadnym wypadku nie można na niej polegać. Historyjka ta ilustruje skutki:
+Monika opowiada, że została zaproszona przez swojego przyjaciela na urodziny. Po drodze jej samochód został na tyle poważnie uszkodzony, że musiała zrezygnować z udziału w tej uroczystości. Od tamtej pory jej przyjaciel, który stał się już jej eks-przyjacielem, rozpowiada wspólnym znajomym, że Monika jest osobą zupełnie niegodną zaufania, i w żadnym wypadku nie można na niej polegać. Historyjka ta ilustruje skutki:
 
 podstawowego błędu atrybucjix
 samospełniającego się proroctwa
 uprzedzenia
 behawioralnego potwierdzenia oczekiwań
----
+__________________________________________________________________________________________
 Do reakcji grupy na naruszanie norm społecznych NIE należy:
 
 wyśmiewanie
@@ -815,7 +1095,7 @@ Badanie Muzafera Sherifa nad krystalizacją norm wykazało, że:
 uczestnicy otwarcie wyśmiewali członków grup nie stosujących się do norm grupowych
 w każdej grupie jeden uczestnik osiągał po pewnym czasie pozycję przywódcy
 normy ustalone przez grupę przestawały obowiązywać, gdy uczestnicy badani byli indywidualnie
-normy grupowe raz ustalone utrzymywały się przez kilka "pokoleń" uczestników x
+normy grupowe raz ustalone utrzymywały się przez kilka "pokoleń" uczestnikówx
 __________________________________________________________________________________________
 Która z niżej opisanych osób jest najsilniej motywowana do zredukowania dysonansu poznawczego?:
 
@@ -830,11 +1110,144 @@ Leona Festingera
 Harolda Kelleya
 Fritza Heidera
 Daryla Bemax
----
+__________________________________________________________________________________________
 Zjawisko polegające na tym, że ogólne wrażenie wywierane przez dana osobę lub jej pojedyncza, wyróżniająca się cecha wpływają na ogólną ocenę danej osoby i określają kierunek rozstrzygania wątpliwości na jej temat, nazywa się:
 
 kategoryzacją społeczną
 uprzedzeniem
 efektem aureolix
 zasadą współzmienności
----
+__________________________________________________________________________________________
+Wyobraź sobie, że ktoś, kogo znasz zwierza ci się z zamiaru popełnienia samobójstwa. Wygląda na zdesperowanego i wspomina, że napisał o tym w liście do jednego z waszych wspólnych przyjaciół. Wydaje się rozsądne abyś:
+
+potraktował to co mówi poważnie i postarał się, aby jak najszybciej otrzymał profesjonalną pomocx
+spróbował określić czy należy do typu osobowości o skłonnościach samobójczych
+zachowywał się "normalnie", jakby nic się nie stało
+zignorował tę zapowiedź, ponieważ w większości przypadków do samobójstw nie dochodzi, albo są one nieskuteczne
+__________________________________________________________________________________________
+Joanna nie odwiedza swoich przyjaciół w ich domach, ponieważ boi się, że nie sprzątają na tyle dokładnie, żeby pozbyć się wszystkich pająków. Zachowanie to wskazuje, że Joanna cierpi na:
+
+agorafobię
+klaustrofobię
+tanatofobię
+arachnofobięx
+__________________________________________________________________________________________
+Pierwszym psychiatrą, który opracował wyczerpujący system klasyfikacji zaburzeń psychicznych był:
+
+Philippe Pinel
+Jean Charcot
+Emil Kraepelinx
+Franz Mesmer
+__________________________________________________________________________________________
+Który z poniższych wniosków NIE wynika z badań nad biologicznymi aspektami schizofrenii?
+
+Schizofrenicy mają poszerzone komory mózgowe częściej niż inni pacjenci psychiatryczni.
+Schizofrenia wiąże się ze względnym nadmiarem dopaminy w ośrodkowym układzie nerwowym.
+Wielu schizofreników wykazuje dysfunkcję ruchów gałki ocznej podczas przeglądania pola widzenia.
+Ryzyko zapadnięcia na schizofrenię nie zmienia się w zależności od tego czy zaburzeniem tym dotknięte było tylko jedno z rodziców pacjenta, czy oboje.x
+__________________________________________________________________________________________
+Które, z kryteriów nienormalności zachowania odnosi się do "widzenia" rzeczy nieistniejących w rzeczywistości?
+
+irracjonalnośćx
+nieprzystosowanie
+niekonwencjonalność i rzadkość statystyczna
+nieprzewidywalność
+__________________________________________________________________________________________
+Aż do końca 18 wieku choroba umysłowa najczęściej interpretowana była jako:
+
+zatrucie przez nieczyste substancje
+opętanie przez demonyx
+dar niebios
+cofnięcie się do poziomu zwierzęcia
+__________________________________________________________________________________________
+Przysłuchujesz się jak twoi koledzy tłumaczą się z niepowodzeń na ostatnim egzaminie. Które z poniższych wyjaśnień podaje osoba prawdopodobnie cierpiąca na depresję?:
+
+"Jestem głupia i nigdy nic mi się nie udaje."x
+"Testy były tak trudne, że nikt nie był w stanie dobrze na nie odpowiedzieć."
+" Profesor ocenił mnie nisko, bo w trakcie zajęć zadawałem zbyt wiele pytań."
+"Następnym razem, przed egzaminem będę się uczyć, zamiast balować."
+__________________________________________________________________________________________
+Wuj Grzegorz, który od pół wieku mieszka na północy Szwecji, cierpi z powodu sezonowych zaburzeń afektywnych. Przypuszczasz, że:
+
+okresy manii przechodzącej w depresję pojawiają się u niego regularnie co sześć miesięcy
+popada on w zły nastrój podczas najdłuższego okresu wakacji w ciągu roku.
+depresja pojawia się u niego w okresie od października do marcax
+depresja pojawia się u niego w okresie od kwietnia do września
+__________________________________________________________________________________________
+"Choroba umysłowa jest mitem. W rzeczywistości, dowodzące jej istnienia symptomy są niczym więcej niż etykietami sankcjonującymi profesjonalną interwencję w coś, co jest w istocie problemem społecznym". Jest to cytat z książki:
+
+Davida Rosenhana
+Martina Seligmana
+Thomasa Szaszax
+Margaret Mahler
+__________________________________________________________________________________________
+Badania Amerykańskiego Instytutu Zdrowia Psychicznego porównujące efektywność różnych metod leczenia depresji wykazały, że:
+
+terapia farmakologiczna zajmuje ostatnie miejsce
+terapia placebo jest lepsza niż psychodynamiczna
+terapie psychodynamiczna i poznawcza są skuteczne na podobnym poziomiex
+terapia farmakologiczna jest lepsza tylko od psychodynamicznej
+__________________________________________________________________________________________
+Przechodzisz trening dla terapeutów pracujących z grupami. Uczysz się, że:
+
+każdego członka grupy należy traktować jako jednostkę niezależną od pozostałych
+należy skupić całą uwagę na członkach grupy zachowujących się najbardziej "dewiacyjnie"
+interakcje zachodzące w grupie trzeba traktować jako sposobność do obserwowania i ćwiczenia umiejętności interpersonalnychx
+członkom grupy należy pozwolić na samodzielne rozwiązywanie istniejących między nimi problemów przy minimalnym zaangażowaniu z twojej strony
+__________________________________________________________________________________________
+Pewnego dnia podczas terapii Andrzej zwrócił się do terapeuty: "Przestań traktować mnie jak dziecko! Zawsze odnosisz się do mnie tak, jakbym był małym chłopcem!". Jeżeli w rzeczywistości terapeuta traktował Andrzeja w sposób całkowicie odmienny, możesz przypuszczać, że jest to symptom:
+
+przeniesieniax
+regresji
+przeciwprzeniesienia
+oporu
+__________________________________________________________________________________________
+Kuba boi się przebywania w zamkniętych pomieszczeniach, z których nie można uciec. Unika samolotów i podróżuje tylko autobusami, jeśli zatrzymują się dość często. Dzisiaj on i jego terapeuta jechali windą, której utknięcie między piętrami zostało zaaranżowane. Jest to przykład techniki terapeutycznej zwanej:
+
+systematycznym odwrażliwianiem
+"zatapianiem"x
+implozją
+terapią awersyjną
+__________________________________________________________________________________________
+Która z poniższych wypowiedzi hipotetycznego pacjenta może być punktem wyjścia do dyskusji nad poznawczą modyfikacją jego zachowania?:
+
+"Jestem najgorszym pracownikiem w mojej firmie"x
+"W dzieciństwie byłem bardzo przywiązany do matki"
+"Kiedy myślę o wężach skóra mi cierpnie ze strachu"
+"Ludzie powinni traktować mnie z większą powagą" 
+__________________________________________________________________________________________
+Kaśka, nie bez powodu zwana "Grubą", zwróciła się do terapeuty behawioralnego, ponieważ niepokoi ją, że przed pójściem spać, po całym dniu opychania się czym popadnie, pochłania jeszcze przynajmniej pół kilograma lodów. Wybrany przez nią terapeuta określił jej problem w kategoriach:
+
+bieżących konfliktów w jej rodzinie
+doświadczeń wczesnodziecięcych
+zachowań żywieniowychx
+nieświadomej motywacji
+__________________________________________________________________________________________
+Który z poniższych przykładów wskazuje na zajście katharsis?
+
+Tomek przypomniał sobie jak bardzo lubił dziewczynkę, która siedziała obok niego w pierwszej klasie 
+Michałowi udało się wczoraj uniknąć opowiedzenia terapeucie o swoich wrogich uczuciach do brata
+Łucja poczuła się zdecydowanie lepiej, kiedy się głośno wypłakałax
+Helena uświadomiła sobie, że "najlepszymi przyjaciółmi dziewczyny są diamenty"
+__________________________________________________________________________________________
+Krzysztof, pacjent zdiagnozowany jako schizofrenik, cierpiący na częste napady silnego pobudzenia emocjonalnego, przeszedł właśnie leukotomię przedczołową. Można oczekiwać, że po tej operacji Krzysztof:
+
+będzie pobudzony jeszcze bardziej niż przed nią
+będzie miał kłopoty z planowaniem i brak spójnego poczucia własnego "ja"x
+będzie przeżywał od nowa dawne urazy i konflikty
+dozna wzrostu wrażliwości intelektualnej i emocjonalnej 
+__________________________________________________________________________________________
+Według Carla Rogersa głównym celem terapii skoncentrowanej na osobie jest stworzenie środowiska pozwalającego klientowi nauczyć się:
+
+zachowań prowadzących do samodoskonalenia i samorealizacjix
+poznawczego kontrolowania stresu
+osiągania korzystnego bilansu nagród i kar
+unikania poczucia winy i lęku
+__________________________________________________________________________________________
+Do rozwoju ruchu higieny psychicznej przyczynili się:
+
+Ph. Pinel i E. Kraepelin
+W. James i C. Lange
+F. Mesmer i J. Charcot
+J.C. Heinroth i C. Beersx
+__________________________________________________________________________________________
