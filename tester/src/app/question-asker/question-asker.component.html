@@ -1,0 +1,7 @@
+<div class="header">{{ question.prompt }}</div>
+<ul class="options">
+<li *ngFor="let option of question.options" >
+  <div *ngIf="!clicked" (click)="selected(option)" [ngClass]="{'option': true}">{{ option[0] }}</div>
+  <div *ngIf="clicked" [ngClass]="{'green': option[1], 'red': option[0]==clickedOption[0] && !option[1], 'option': true}" (click)="continued()" >{{ option[0] }}</div>
+</li>
+</ul>

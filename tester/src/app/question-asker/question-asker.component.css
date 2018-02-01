@@ -1,0 +1,27 @@
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.option {
+    font-size: 20pt;
+    margin-top: 2%;
+}
+
+.option:hover {
+    cursor: pointer;
+}
+
+.header {
+    font-size: 22pt;
+    border: 3px solid black;
+    padding: 20px;
+    display: block;
+}
+
+.options {
+    margin-top: 5%;
+}

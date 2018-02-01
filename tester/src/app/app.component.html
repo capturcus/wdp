@@ -1,1 +1,9 @@
-cześć
+<div class="all">
+<app-question-asker #askerRef [question]="question" (nextQuestion)="nextQuestion($event)"></app-question-asker>
+<div class="footer">
+<span class="text" style="color: green;">prawidłowo: {{questionsCorrect}}</span>
+<span class="text" style="color: blue">łącznie: {{questionsAsked}}</span>
+<span class="text" style="color: #b79d2c">zostało: {{questionsLeft}}</span>
+<button (click)="reset()">OD NOWA</button>
+</div>
+</div>
