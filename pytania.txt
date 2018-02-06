@@ -1096,7 +1096,7 @@ a. Selekcji
 b. Historiix
 c. Testowania
 ---
-19. Powyższy błąd (historii) jest
+19. Błąd historii jest
 
 a. Zakłóceniem obu aspektów trafności
 b. Zakłóceniem trafności zewnętrznej eksperymentu
@@ -1257,7 +1257,6 @@ c. Trafności prognostycznej skali postaw
 a. Ilościowe zestawienie siły efektu w różnych badaniach nad tym samym problememx
 b. Recenzja pod względem metodologicznym
 c. Dziedzina statystyki
-d. Za 2 punkty odp A, za 1 punkt brak
 ---
 22. /13 	Koniecznym warunkiem dopuszczalności etycznej badań jest
 

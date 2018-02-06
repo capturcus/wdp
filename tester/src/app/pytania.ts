@@ -3146,7 +3146,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "19. Powyższy błąd (historii) jest", 
+        "prompt": "19. Błąd historii jest", 
         "options": [
             [
                 "a. Zakłóceniem obu aspektów trafności", 
@@ -3600,10 +3600,6 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c. Dziedzina statystyki", 
-                false
-            ], 
-            [
-                "d. Za 2 punkty odp A, za 1 punkt brak", 
                 false
             ]
         ]
