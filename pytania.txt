@@ -76,13 +76,13 @@ a) Pozbawienie snu przez noc
 b) Obciążenie zadaniami pamięciowymi
 c) Wynik testu pamięci krótkotrwałejx
 ---
-14. Eksperyment z pytania 13
+14. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. Eksperyment
 
 a) Był przeprowadzony w schemacie klasycznym
 b) Był przeprowadzony w schemacie bez pretestux
 c) Był przeprowadzony w schemacie bez grupy kontrolnej.
 ---
-15. Badacz powtórzył eksperyment odrębnie w grupie mężczyzn i kobiet. Była to autoreplikacja w celu
+15. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. (właściwe pytanie) Badacz powtórzył eksperyment odrębnie w grupie mężczyzn i kobiet. Była to autoreplikacja w celu
 
 a) Określenia moderatora zależnościx
 b) Określenia mediatora zależności
@@ -112,7 +112,7 @@ a) Badania ex post facto w wariancie eksploracyjnym
 b) Badania ex post facto w wariancie konfirmacyjnym
 c) Badania quasi eksperymentalnegox
 ---
-20. Eksperyment opisany w p. 13 może budzić wątpliwości etyczne
+20. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. Eksperyment może budzić wątpliwości etyczne
 
 a) Ponieważ badacz naraził badanych na dyskomfortx
 b) Tylko wówczas kiedy nie poinformował badanych wcześniej jakie są jego hipotezy
@@ -202,19 +202,19 @@ a. Potwierdza koncepcję Zhangax
 b. Przeczy koncepcji Zhanga
 c. Nie pozwala na rozstrzygnięciex
 ---
-15. W eksperymencie, opisanym w pytaniu 14 badacz powinien obawiać się błędu-efektu
+15. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze  pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. W eksperymencie badacz powinien obawiać się błędu-efektu
 
 a. Testowania
 b. Selekcjix
 c. Dojrzewania
 ---
-16. W kolejnym badaniu, wprowadzono ocenę obciążenia pamięci temporalnej. Obie grupy poproszono wieczorem o możliwie jak najdokładniejsze opisanie minionego dnia. Grupa A przedstawiła opracowania średnio 1,5 razy dłuższe w porównaniu z grupą B. Była to autoreplikacja w celu
+16. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze  pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. W kolejnym badaniu, wprowadzono ocenę obciążenia pamięci temporalnej. Obie grupy poproszono wieczorem o możliwie jak najdokładniejsze opisanie minionego dnia. Grupa A przedstawiła opracowania średnio 1,5 razy dłuższe w porównaniu z grupą B. Była to autoreplikacja w celu
 
 a. Określenia moderatora zależności
 b. Określenia mediatora zależności
 c. Sprawdzenia skuteczności manipulacjix
 ---
-17. Zastosowany test pamięci oparty był na reprezentatywnych zestawach różnego rodzaju materiałów. Okazało się jednak że w próbnym badaniu osoby dwukrotnie wypełniający test za każdym razem uzyskiwały inne wyniki. Test ten jest
+17. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze  pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. W kolejnym badaniu, wprowadzono ocenę obciążenia pamięci temporalnej. Obie grupy poproszono wieczorem o możliwie jak najdokładniejsze opisanie minionego dnia. Grupa A przedstawiła opracowania średnio 1,5 razy dłuższe w porównaniu z grupą B. Zastosowany test pamięci oparty był na reprezentatywnych zestawach różnego rodzaju materiałów. Okazało się jednak że w próbnym badaniu osoby dwukrotnie wypełniający test za każdym razem uzyskiwały inne wyniki. Test ten jest
 
 a. Nierzetelny
 b. Nietrafny
@@ -232,7 +232,7 @@ a. Ex post facto w wariancie konfirmacyjnym
 b. Ex post facto w wariancie eksploracyjnymx
 c. Badanie quasi experymentalne
 ---
-20. Eksperyment opisany w p. 13 może budzić wątpliwości etyczne
+20. Zhang zauważył, że brak snu prowadzi do zaburzeń koncentracji i utraty pamięci krótkotrwałej. Sformułował wyjaśnienie, według którego sen potrzebny jest aby oczyścić pamięć temporalną, magazyn o ograniczonej pojemności gromadzący informacje z ostatniego dnia. Eksperyment może budzić wątpliwości etyczne
 
 a. Ponieważ poziom dyskomfortu w obu grupach nie był równy
 b. Tylko wówczas kiedy nie poinformował badanych wcześniej jakie zmienne są badanex
@@ -316,19 +316,19 @@ a. Odkrycie pierwotnych faktów
 b. Sformułowanie modelu wyjaśniającego pierwotne faktyx
 c. Testowanie modelu poprzez weryfikację hipotez
 ---
-14. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B.  Wynik ten
+14. Zhang zauważył, że brak snu prowadzi do zaburzeń koncentracji i utraty pamięci krótkotrwałej. Sformułował wyjaśnienie, według którego sen potrzebny jest aby oczyścić pamięć temporalną, magazyn o ograniczonej pojemności gromadzący informacje z ostatniego dnia. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B.  Wynik ten
 
 a. Potwierdza koncepcję Zhangax
 b. Przeczy koncepcji Zhanga
 c. Nie pozwala na rozstrzygnięciex
 ---
-15. W eksperymencie, opisanym w pytaniu 10 badacz powinien obawiać się błędu-efektu
+15. Zhang zauważył, że brak snu prowadzi do zaburzeń koncentracji i utraty pamięci krótkotrwałej. Sformułował wyjaśnienie, według którego sen potrzebny jest aby oczyścić pamięć temporalną, magazyn o ograniczonej pojemności gromadzący informacje z ostatniego dnia. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. W eksperymencie badacz powinien obawiać się błędu-efektu
 
 a. Testowania
 b. Selekcjix
 c. Dojrzewania
 ---
-16. W kolejnym badaniu, wprowadzono ocenę obciążenia pamięci temporalnej. Obie grupy poproszono wieczorem o możliwie jak najdokładniejsze opisanie minionego dnia. Grupa A przedstawiła opracowania średnio 1,5 razy dłuższe w porównaniu z grupą B. Była to autoreplikacja w celu
+16. Zhang zauważył, że brak snu prowadzi do zaburzeń koncentracji i utraty pamięci krótkotrwałej. Sformułował wyjaśnienie, według którego sen potrzebny jest aby oczyścić pamięć temporalną, magazyn o ograniczonej pojemności gromadzący informacje z ostatniego dnia. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. W kolejnym badaniu, wprowadzono ocenę obciążenia pamięci temporalnej. Obie grupy poproszono wieczorem o możliwie jak najdokładniejsze opisanie minionego dnia. Grupa A przedstawiła opracowania średnio 1,5 razy dłuższe w porównaniu z grupą B. Była to autoreplikacja w celu
 
 a) Określenia moderatora zależności
 b) Określenia mediatora zależności
@@ -352,7 +352,7 @@ a. Ex post facto w wariancie konfirmacyjnym
 b. Ex post facto w wariancie eksploracyjnymx
 c. Badanie quasi eksperymentalne
 ---
-20. Eksperyment opisany w p. 14 może budzić wątpliwości etyczne
+20. Zhang zauważył, że brak snu prowadzi do zaburzeń koncentracji i utraty pamięci krótkotrwałej. Sformułował wyjaśnienie, według którego sen potrzebny jest aby oczyścić pamięć temporalną, magazyn o ograniczonej pojemności gromadzący informacje z ostatniego dnia. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. Eksperyment może budzić wątpliwości etyczne
 
 a. Ponieważ poziom dyskomfortu w obu grupach nie był równy
 b. Tylko wówczas kiedy nie poinformował badanych wcześniej jakie zmienne są badane x
@@ -430,19 +430,19 @@ a. Sformułowanie modelu wyjaśniającego pierwotne faktyx
 b. Testowanie modelu poprzez weryfikację hipotez
 c. Odkrycie pierwotnych faktów
 ---
-13. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B.  Zmienną zależną w tym badaniu była
+13. Zhang zauważył, że brak snu prowadzi do zaburzeń koncentracji i utraty pamięci krótkotrwałej. Sformułował wyjaśnienie, według którego sen potrzebny jest aby oczyścić pamięć temporalną, magazyn o ograniczonej pojemności gromadzący informacje z ostatniego dnia. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B.  Zmienną zależną w tym badaniu była
 
 a. Pozbawienie snu przez noc
 b. Obciążenie zadaniami pamięciowymi
 c. Wynik testu pamięci krótkotrwałejx
 ---
-14. Eksperyment z pytania 13
+14. Zhang zauważył, że brak snu prowadzi do zaburzeń koncentracji i utraty pamięci krótkotrwałej. Sformułował wyjaśnienie, według którego sen potrzebny jest aby oczyścić pamięć temporalną, magazyn o ograniczonej pojemności gromadzący informacje z ostatniego dnia. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. Eksperyment 
 
 a. Był przeprowadzony w schemacie klasycznym
 b. Był przeprowadzony w schemacie bez pretestux
 c. Był przeprowadzony w schemacie bez grupy kontrolnej.
 ---
-15. Badacz powtórzył eksperyment odrębnie w grupie mężczyzn i kobiet. Była to autoreplikacja w celu
+15. Zhang zauważył, że brak snu prowadzi do zaburzeń koncentracji i utraty pamięci krótkotrwałej. Sformułował wyjaśnienie, według którego sen potrzebny jest aby oczyścić pamięć temporalną, magazyn o ograniczonej pojemności gromadzący informacje z ostatniego dnia. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. (właściwe pytanie) Badacz powtórzył eksperyment odrębnie w grupie mężczyzn i kobiet. Była to autoreplikacja w celu
 
 a. Określenia moderatora zależnościx
 b. Określenia mediatora zależności
@@ -472,7 +472,7 @@ a. Badania ex post facto w wariancie eksploracyjnym
 b. Badania ex post facto w wariancie konfirmacyjnym
 c. Badania quasi eksperymentalnegox
 ---
-20. Eksperyment opisany w p. 13 może budzić wątpliwości etyczne
+20. Zhang zauważył, że brak snu prowadzi do zaburzeń koncentracji i utraty pamięci krótkotrwałej. Sformułował wyjaśnienie, według którego sen potrzebny jest aby oczyścić pamięć temporalną, magazyn o ograniczonej pojemności gromadzący informacje z ostatniego dnia. (przykład fikcyjny)  Badacz chcąc uzyskać dane zgodne z modelem Zhanga grupie A przez cały dzień polecił wykonywanie zadań o charakterze pamięciowym, podczas gdy grupa B słuchała muzyki. Następnie obie grupy pozbawiono snu przez noc. Rano wszyscy wykonali test pamięci krótkotrwałej. Grupa A uzyskała wyniki znacznie słabsze od grupy B. Eksperyment może budzić wątpliwości etyczne
 
 a. Ponieważ badacz naraził badanych na dyskomfortx
 b. Wówczas, kiedy badacz uzależnił wypłatę honorarium od ukończenia badania
@@ -514,7 +514,7 @@ a. Może być badany za pomocą procedury Ex Post Facto
 b. Musi być badany eksperymentalnie
 c. Jest sformułowany niepoprawniex
 ---
-7. W przykładzie powyższym płeć jest zmienną
+7. „Określenie przyczynowego wpływu klimatu emocjonalnego doświadczanego we wczesnym dzieciństwie na nieprzystosowanie w wieku dojrzałym u mężczyzn i kobiet”. W przykładzie płeć jest zmienną
 
 a. Niezależną główną
 b. Niezależną uboczną- mediatorem
@@ -616,13 +616,13 @@ a. Efektu testowaniax
 b. Efektu dojrzewaniax
 c. Efektu selekcji
 ---
-24. Po głębokim namyśle badacz postanowił zbadać także grupę kontrolną. Dokonał pomiaru u dzieci trzyletnich, który powtórzył po roku (analogicznie jak w pyt. 23). Eksperyment (łącznie obie grupy)
+24. Badacz oceniał wpływ ćwiczeń stymulacji poznawczej na rozwój słownictwa u dzieci. Zbadał grupę dzieci w wieku lat trzech, następnie przeprowadził ćwiczenia i ponownie zbadał tą samą grupę w wieku lat czterech. Po głębokim namyśle badacz postanowił zbadać także grupę kontrolną. Dokonał pomiaru u dzieci trzyletnich, który powtórzył po roku (analogicznie jak w pyt. 23). Eksperyment (łącznie obie grupy)
 
 a. Jest eksperymentem w schemacie klasycznymx
 b. Jest narażony na błąd wynikający z interakcji testowania z czynnikiem eksperymentalnymx
 c. Jest narażony na błąd wynikający z dojrzewania
 ---
-25. Aby eksperyment opisany w punktach 23 i 24 mógł być uznany za etycznie poprawny
+25. Badacz oceniał wpływ ćwiczeń stymulacji poznawczej na rozwój słownictwa u dzieci. Zbadał grupę dzieci w wieku lat trzech, następnie przeprowadził ćwiczenia i ponownie zbadał tą samą grupę w wieku lat czterech. Aby eksperyment mógł być uznany za etycznie poprawny
 
 a. Badacz powinien uzyskać zgodę rodziców dziecix
 b. Badacz powinien uzyskać akceptację dziecix
@@ -700,7 +700,7 @@ a. Przyczyną uprzedzeń narodowościowych wśród mężczyzn są braki w edukac
 b. Zależność pomiędzy wykształceniem  i płcią a uprzedzeniami ma charakter interakcyjnyx
 c. Zależność pomiędzy wykształceniem  i płcią a uprzedzeniami ma charakter korelacyjnyx
 ---
-13. W badaniu opisanym w p. 12. Płeć ma status
+13. W celu wyjaśnienia mechanizmów uprzedzeń zaplanowano badanie, w którym anonimowo wzięły udział osoby wyrażające na portalach społecznościowych treści ksenofobiczne (grupa A) oraz grupa kontrolna (grupa B). W grupie A stwierdzono większy odsetek osób o niższym wykształceniu. Zależność ta jest silniejsza w grupie mężczyzn niż kobiet. W badaniu płeć ma status
 
 a. Zmiennej niezależnej głównej
 b. Zmiennej niezależnej- moderatorax
@@ -712,19 +712,19 @@ a. Zbyt szeroka (gdyż zdolność taką może posiadać również osoba cyniczna
 b. Mało użyteczna naukowo (z powodów jak w punkcie „a”)x
 c. Niepoprawna formalniex
 ---
-15. W badaniu opisanym w punkcie 12 zmienną niezależną były
+15. W celu wyjaśnienia mechanizmów uprzedzeń zaplanowano badanie, w którym anonimowo wzięły udział osoby wyrażające na portalach społecznościowych treści ksenofobiczne (grupa A) oraz grupa kontrolna (grupa B). W grupie A stwierdzono większy odsetek osób o niższym wykształceniu. Zależność ta jest silniejsza w grupie mężczyzn niż kobiet. W badaniu zmienną niezależną były
 
 a. Częstość wypowiedzi ksenofobicznych
 b. Płećx
 c. Wykształceniex
 ---
-16. Powtórzono badanie opisane w punkcie 12, na tej samej próbie, pytając badanych dodatkowo o wiek.  Można to badanie uznać za
+16. W celu wyjaśnienia mechanizmów uprzedzeń zaplanowano badanie, w którym anonimowo wzięły udział osoby wyrażające na portalach społecznościowych treści ksenofobiczne (grupa A) oraz grupa kontrolna (grupa B). W grupie A stwierdzono większy odsetek osób o niższym wykształceniu. Zależność ta jest silniejsza w grupie mężczyzn niż kobiet. Powtórzono badanie na tej samej próbie, pytając badanych dodatkowo o wiek.  Można to badanie uznać za
 
 a. Replikację w celu eliminacji alternatywnych wyjaśnieńx
 b. Replikację w celu oceny czy wiek należy do moderatorów zależnościx
 c. Replikację w celu oceny czy wiek należy do mediatorów zależności
 ---
-17. W kolejnym badaniu nawiązującym do opisanego w punkcie 12 przeprowadzono szczegółowy wywiad z osobami z grupy A, pytając o poziom życia, wykształcenie rodziców i miejsce zamieszkania. Badanie to można uznać za 
+17. W celu wyjaśnienia mechanizmów uprzedzeń zaplanowano badanie, w którym anonimowo wzięły udział osoby wyrażające na portalach społecznościowych treści ksenofobiczne (grupa A) oraz grupa kontrolna (grupa B). W grupie A stwierdzono większy odsetek osób o niższym wykształceniu. Zależność ta jest silniejsza w grupie mężczyzn niż kobiet. W kolejnym badaniu nawiązującym do opisanego przeprowadzono szczegółowy wywiad z osobami z grupy A, pytając o poziom życia, wykształcenie rodziców i miejsce zamieszkania. Badanie to można uznać za 
 
 a. Badanie ex post facto w wariancie konfirmacyjnymx
 b. Badanie eksperymentalne
@@ -736,19 +736,19 @@ a. Ocena przyczynowego wpływu frustracji na postawy wobec imigrantówx
 b. Ocena współwystępowania frustracji i uprzedzeń wobec imigrantów
 c. Ocena związku między pamięcią a uprzedzeniami
 ---
-19. Badanie opisane powyżej jest narażone na
+19. Badacz podzielił badanych losowo na dwie grupy. Następnie jedną z nich poprosił o zanotowanie pięciu rzeczy które uważają za sukces, drugą zaś o zanotowanie pięciu rzeczy które są ich porażką. Następnie obie grupy poprosił o wypełnienie skali postaw wobec imigrantów zarobkowych. Wyniki w pierwszej z grup okazały się wyższe. Badanie jest narażone na
 
 a. Błąd testowania
 b. Błąd selekcjix
 c. Nierównoważność grupy eksperymentalnej i kontrolnejx
 ---
-20. Zmienną zależną w powyższym badaniu jest 
+20. Badacz podzielił badanych losowo na dwie grupy. Następnie jedną z nich poprosił o zanotowanie pięciu rzeczy które uważają za sukces, drugą zaś o zanotowanie pięciu rzeczy które są ich porażką. Następnie obie grupy poprosił o wypełnienie skali postaw wobec imigrantów zarobkowych. Wyniki w pierwszej z grup okazały się wyższe. Zmienną zależną jest 
 
 a. Pamięć
 b. Wywołane przez manipulację poczucie frustracji
 c. Postawa wobec imigrantówx
 ---
-21. Z punktu widzenia etyki, w badaniu opisanym wyżej
+21. Badacz podzielił badanych losowo na dwie grupy. Następnie jedną z nich poprosił o zanotowanie pięciu rzeczy które uważają za sukces, drugą zaś o zanotowanie pięciu rzeczy które są ich porażką. Następnie obie grupy poprosił o wypełnienie skali postaw wobec imigrantów zarobkowych. Wyniki w pierwszej z grup okazały się wyższe. Z punktu widzenia etyki
 
 a. Badani powinni zawsze mieć możliwość rezygnacjix
 b. Badanym należy przedstawić hipotezy badawcze
@@ -897,35 +897,35 @@ b. Quasi-eksperymentalnegox
 c. Ex post Facto
 d. Korelacyjnego
 ---
-18. Zmęczenie w tym badaniu ma status:
+18. Badacz sprawdzał związek między poziomem zmęczenia a zaburzeniami uwagi. Wybrał w tym celu dwie grupy na podstawie deklaracji badanych. W jednej grupie znalazły się osoby deklarujące mniej niż 15 godzin snu w ciągu ostatnich trzech dni, a drugiej osoby deklarujące ponad 24 godziny snu w tym okresie. Badani wykonywali jednokrotnie test uwagi. Badacz ustalił, że ekstrawertycy pod wpływem zmęczenia są bardziej podatni na zaburzenia uwagi, u introwertyków zaś ten związek nie zachodzi. Zmęczenie w tym badaniu ma status:
 
 a. Zmiennej niezależnej głównejx
 b. Zmiennej ubocznej
 c. Zmiennej zależnej
 d. Zmiennej zakłócającej
 ---
-19. Badanie narażone jest silnie na błąd
+19. Badacz sprawdzał związek między poziomem zmęczenia a zaburzeniami uwagi. Wybrał w tym celu dwie grupy na podstawie deklaracji badanych. W jednej grupie znalazły się osoby deklarujące mniej niż 15 godzin snu w ciągu ostatnich trzech dni, a drugiej osoby deklarujące ponad 24 godziny snu w tym okresie. Badani wykonywali jednokrotnie test uwagi. Badacz ustalił, że ekstrawertycy pod wpływem zmęczenia są bardziej podatni na zaburzenia uwagi, u introwertyków zaś ten związek nie zachodzi. Badanie narażone jest silnie na błąd
 
 a. Selekcjix
 b. Testowania
 c. Dojrzewania
 d. Interakcji testowania ze zmienną niezależną
 ---
-20. Hipoteza „Zmęczenie jest przyczyną osłabienia uwagi”
+20. Badacz sprawdzał związek między poziomem zmęczenia a zaburzeniami uwagi. Wybrał w tym celu dwie grupy na podstawie deklaracji badanych. W jednej grupie znalazły się osoby deklarujące mniej niż 15 godzin snu w ciągu ostatnich trzech dni, a drugiej osoby deklarujące ponad 24 godziny snu w tym okresie. Badani wykonywali jednokrotnie test uwagi. Badacz ustalił, że ekstrawertycy pod wpływem zmęczenia są bardziej podatni na zaburzenia uwagi, u introwertyków zaś ten związek nie zachodzi. Hipoteza „Zmęczenie jest przyczyną osłabienia uwagi”
 
 a. Została potwierdzona w powyższym badaniu
 b. Jest hipotezą teoretycznąx
 c. Jest hipotezą kierunkowąx
 d. Jest prawidłowo postawioną hipoteząx
 ---
-21. Typ osobowości (ekstrawersja-introwersja) stanowi zmienną
+21. Badacz sprawdzał związek między poziomem zmęczenia a zaburzeniami uwagi. Wybrał w tym celu dwie grupy na podstawie deklaracji badanych. W jednej grupie znalazły się osoby deklarujące mniej niż 15 godzin snu w ciągu ostatnich trzech dni, a drugiej osoby deklarujące ponad 24 godziny snu w tym okresie. Badani wykonywali jednokrotnie test uwagi. Badacz ustalił, że ekstrawertycy pod wpływem zmęczenia są bardziej podatni na zaburzenia uwagi, u introwertyków zaś ten związek nie zachodzi. Typ osobowości (ekstrawersja-introwersja) stanowi zmienną
 
 a. Uboczną mediator
 b. Uboczną moderatorx
 c. Niezależną główną
 d. Zakłócającą
 ---
-22. Uzyskany efekt jest to zależność
+22. Badacz sprawdzał związek między poziomem zmęczenia a zaburzeniami uwagi. Wybrał w tym celu dwie grupy na podstawie deklaracji badanych. W jednej grupie znalazły się osoby deklarujące mniej niż 15 godzin snu w ciągu ostatnich trzech dni, a drugiej osoby deklarujące ponad 24 godziny snu w tym okresie. Badani wykonywali jednokrotnie test uwagi. Badacz ustalił, że ekstrawertycy pod wpływem zmęczenia są bardziej podatni na zaburzenia uwagi, u introwertyków zaś ten związek nie zachodzi. Uzyskany efekt jest to zależność
 
 a. Prosta
 b. Interakcyjnax
@@ -960,7 +960,7 @@ b. Było to badanie ex post facto w wariancie eksploracyjnym
 c. Wyciągnięty z tego badania wniosek „Stres był przyczyną wypadku” jest poprawny
 d. Było to badanie eksperymentalne
 ---
-27. Które twierdzenia etyczne w stosunku do badania opisanego w poprzednim pytaniu mają zastosowanie?
+27. Badano hipotezę mówiącą że wypadek drogowy może być następstwem silnego stresu w tygodniu poprzedzającym zdarzenie. W tym celu grupę sprawców wypadków poddano dokładnym wywiadom dotyczącym możliwych sytuacji stresowych, i ich odpowiedzi porównano z grupą kontrolną (która nie spowodowała wypadku), i uzyskano szereg istotnych różnic. Które twierdzenia etyczne w stosunku do badania mają zastosowanie?
 
 a. Badanie nie powinno być przeprowadzone, gdyż stres związany ze wspominaniem trudnych sytuacji jest zbyt silny w stosunku do wagi uzyskanych wniosków
 b. Po badaniu należy przedstawić badanym pełne wyjaśnieniax
@@ -1084,19 +1084,19 @@ a. Moderatoremx
 b. Mediatorem
 c. Zmienną zależną
 ---
-17. Zależność pomiędzy głośnością a szybkością zapamiętywania ma charakter
+17. W eksperymencie badano wpływ głośności dźwięku na szybkość uczenia się skojarzeń, w zależności od poziomu reaktywności emocjonalnej. W badaniu wzięło udział 30 mężczyzn, których podzielono losowo na dwie grupy (eksperymentalną i kontrolną) Każdą z grup podzielono na osoby wysoko i niskoreaktywne.  W obu grupach prezentowano najpierw materiał do zapamiętania z przeciętną głośnością, a następnie w grupie eksperymentalnej powtórzono materiał ze zwiększoną głośnością, zaś w grupie kontrolnej ponownie zaprezentowano go z identyczną głośnością. W pierwszym i drugim badaniu stosowano różny materiał, jednak o identycznej trudności. Wyniki wykazały poprawę szybkości uczenia się w grupie eksperymentalnej, jednak tylko wśród osób niskoreaktywnych. W grupie kontrolnej szybkość uczenia nie uległa zmianie. Zależność pomiędzy głośnością a szybkością zapamiętywania ma charakter
 
 a. Wyłącznie korelacyjny
 b. Przyczynowo skutkowyx
 c. Pozorny
 ---
-18. Jeśli w trakcie badania w pomieszczeniu jednej z grup panowałby większy hałas z powodu uszkodzonej klimatyzacji, badanie byłoby narażone na błąd
+18. W eksperymencie badano wpływ głośności dźwięku na szybkość uczenia się skojarzeń, w zależności od poziomu reaktywności emocjonalnej. W badaniu wzięło udział 30 mężczyzn, których podzielono losowo na dwie grupy (eksperymentalną i kontrolną) Każdą z grup podzielono na osoby wysoko i niskoreaktywne.  W obu grupach prezentowano najpierw materiał do zapamiętania z przeciętną głośnością, a następnie w grupie eksperymentalnej powtórzono materiał ze zwiększoną głośnością, zaś w grupie kontrolnej ponownie zaprezentowano go z identyczną głośnością. W pierwszym i drugim badaniu stosowano różny materiał, jednak o identycznej trudności. Wyniki wykazały poprawę szybkości uczenia się w grupie eksperymentalnej, jednak tylko wśród osób niskoreaktywnych. W grupie kontrolnej szybkość uczenia nie uległa zmianie. Jeśli w trakcie badania w pomieszczeniu jednej z grup panowałby większy hałas z powodu uszkodzonej klimatyzacji, badanie byłoby narażone na błąd
 
 a. Selekcji
 b. Historiix
 c. Testowania
 ---
-19. Powyższy błąd jest
+19. Powyższy błąd (historii) jest
 
 a. Zakłóceniem obu aspektów trafności
 b. Zakłóceniem trafności zewnętrznej eksperymentu
@@ -1198,7 +1198,7 @@ a. Nakłonienie do drobnego gestu
 b. Postawa
 c. Gotowość do zaangażowaniax
 ---
-11. /2 	Sformułowano hipotezę „Nakłonienie do drobnego gestu na rzecz pewnego celu zwiększa gotowość do zaangażowania” Jest to
+11. /2 	Zaprojektowano badanie mające weryfikować teorię dysonansu poznawczego.  Nakłonienie osób badanych do drobnego gestu według badaczy powinno być przyczyną zmiany postawy i w przyszłości powodować większą gotowość do zaangażowania (tzw. efekt „stopy w drzwiach”). Sformułowano hipotezę „Nakłonienie do drobnego gestu na rzecz pewnego celu zwiększa gotowość do zaangażowania” Jest to
 
 a. Hipoteza teoretycznax
 b. Hipoteza robocza
@@ -1210,49 +1210,43 @@ a. Nakłaniania do drobnego gestu
 b. Postawy
 c. Gotowości do zaangażowaniax
 ---
-13. /4 	Jest to wskaźnik
-
-a. Empiryczny
-b. Definicyjny
-c. Inferencyjnyx
----
-14. /5 	Postawa wobec ochrony zwierząt jest
+14. /5 Dokonano operacjonalizacji zmiennych (czyli zaplanowano procedurę badawczą).  Badani zostaną podzieleni na dwie grupy. Grupa eksperymentalna zostanie poproszona o podpisanie petycji na rzecz ochrony zwierząt, grupa kontrolna zaś o wypełnienie krótkiej, nieistotnej ankiety marketingowej. Obie grupy poproszono o wskazanie 5 najważniejszych problemów współczesności (jeśli pojawiała się tam ochrona zwierząt świadczyło to wzbudzeniu postawy). Następnie obie grupy zostaną zaproszone do udziału w manifestacji na rzecz zwierząt w innym mieście.	Postawa wobec ochrony zwierząt jest
 
 a. Moderatorem
 b. Mediatoremx
 c. Zmienną zależną
 --- 
-15. /6 	Przeprowadzone badanie było
+15. /6 Dokonano operacjonalizacji zmiennych (czyli zaplanowano procedurę badawczą).  Badani zostaną podzieleni na dwie grupy. Grupa eksperymentalna zostanie poproszona o podpisanie petycji na rzecz ochrony zwierząt, grupa kontrolna zaś o wypełnienie krótkiej, nieistotnej ankiety marketingowej. Obie grupy poproszono o wskazanie 5 najważniejszych problemów współczesności (jeśli pojawiała się tam ochrona zwierząt świadczyło to wzbudzeniu postawy). Następnie obie grupy zostaną zaproszone do udziału w manifestacji na rzecz zwierząt w innym mieście.	Przeprowadzone badanie było
 
 a. Eksperymentemx
 b. Quasi-eksperymentem
 c. Badaniem ex post facto.
 ---
-16. /7 	W wyniku badania stwierdzono, że odsetek osób decydujących się wyjechać na manifestację jest większy w grupie eksperymentalnej. Wynik taki 
+16. /7 	Dokonano operacjonalizacji zmiennych (czyli zaplanowano procedurę badawczą).  Badani zostaną podzieleni na dwie grupy. Grupa eksperymentalna zostanie poproszona o podpisanie petycji na rzecz ochrony zwierząt, grupa kontrolna zaś o wypełnienie krótkiej, nieistotnej ankiety marketingowej. Obie grupy poproszono o wskazanie 5 najważniejszych problemów współczesności (jeśli pojawiała się tam ochrona zwierząt świadczyło to wzbudzeniu postawy). Następnie obie grupy zostaną zaproszone do udziału w manifestacji na rzecz zwierząt w innym mieście. W wyniku badania stwierdzono, że odsetek osób decydujących się wyjechać na manifestację jest większy w grupie eksperymentalnej. Wynik taki 
 
 a. Stanowi argument na rzecz wystąpienia efektu „stopy w drzwiach”x
 b. Świadczy o wpływie wykonania drobnego gestu na zwiększenie prawdopodobieństwa zaangażowaniax
 c. Świadczy o wystąpieniu związku pozornego pomiędzy wykonaniem gestu  a prawdopodobieństwem zaangażowania
 ---
-17. /8 	Badanie było przykładem schematu
+17. /8 Dokonano operacjonalizacji zmiennych (czyli zaplanowano procedurę badawczą).  Badani zostaną podzieleni na dwie grupy. Grupa eksperymentalna zostanie poproszona o podpisanie petycji na rzecz ochrony zwierząt, grupa kontrolna zaś o wypełnienie krótkiej, nieistotnej ankiety marketingowej. Obie grupy poproszono o wskazanie 5 najważniejszych problemów współczesności (jeśli pojawiała się tam ochrona zwierząt świadczyło to wzbudzeniu postawy). Następnie obie grupy zostaną zaproszone do udziału w manifestacji na rzecz zwierząt w innym mieście.	Badanie było przykładem schematu
 
 a. Klasycznego
 b. Bez pretestux
 c. Bez grupy kontrolnej
 ---
-18. /9 	Badanie było narażone na błąd
+18. /9 Dokonano operacjonalizacji zmiennych (czyli zaplanowano procedurę badawczą).  Badani zostaną podzieleni na dwie grupy. Grupa eksperymentalna zostanie poproszona o podpisanie petycji na rzecz ochrony zwierząt, grupa kontrolna zaś o wypełnienie krótkiej, nieistotnej ankiety marketingowej. Obie grupy poproszono o wskazanie 5 najważniejszych problemów współczesności (jeśli pojawiała się tam ochrona zwierząt świadczyło to wzbudzeniu postawy). Następnie obie grupy zostaną zaproszone do udziału w manifestacji na rzecz zwierząt w innym mieście.	Badanie było narażone na błąd
 
 a. Testowania
 b. Selekcjix
 c. Historii
 ---
-19. /10 	W kolejnym badaniu przeprowadzono powyższy eksperyment w grupie wegetarian i osób jedzących mięso. Opisany wyżej efekt okazał się nieistotny w grupie wegetarian, silny natomiast wśród jedzących mięso. Badanie to było:
+19. /10 Dokonano operacjonalizacji zmiennych (czyli zaplanowano procedurę badawczą).  Badani zostaną podzieleni na dwie grupy. Grupa eksperymentalna zostanie poproszona o podpisanie petycji na rzecz ochrony zwierząt, grupa kontrolna zaś o wypełnienie krótkiej, nieistotnej ankiety marketingowej. Obie grupy poproszono o wskazanie 5 najważniejszych problemów współczesności (jeśli pojawiała się tam ochrona zwierząt świadczyło to wzbudzeniu postawy). Następnie obie grupy zostaną zaproszone do udziału w manifestacji na rzecz zwierząt w innym mieście.	W kolejnym badaniu przeprowadzono powyższy eksperyment w grupie wegetarian i osób jedzących mięso. Opisany wyżej efekt okazał się nieistotny w grupie wegetarian, silny natomiast wśród jedzących mięso. Badanie to było:
 
 a. Autoreplikacją w celu wykrycia mediatora
 b. Autoreplikacją w celu wykrycia moderatorax
 c. Autoreplikacją w celu zbadania skuteczności manipulacji
 ---
-20. /11 	Wegetarianie uzyskiwali wyższe wyniki w skali postaw wobec ochrony zwierząt. Świadczy to o
+20. /11 Dokonano operacjonalizacji zmiennych (czyli zaplanowano procedurę badawczą).  Badani zostaną podzieleni na dwie grupy. Grupa eksperymentalna zostanie poproszona o podpisanie petycji na rzecz ochrony zwierząt, grupa kontrolna zaś o wypełnienie krótkiej, nieistotnej ankiety marketingowej. Obie grupy poproszono o wskazanie 5 najważniejszych problemów współczesności (jeśli pojawiała się tam ochrona zwierząt świadczyło to wzbudzeniu postawy). Następnie obie grupy zostaną zaproszone do udziału w manifestacji na rzecz zwierząt w innym mieście.	Wegetarianie uzyskiwali wyższe wyniki w skali postaw wobec ochrony zwierząt. Świadczy to o
 
 a. Trafności teoretycznej skali postawx
 b. Trafności diagnostycznej skali postaw
@@ -1343,50 +1337,49 @@ a. Pojęcia są wadliwie skonstruowane pod względem zakresu
 b. Pozwalają wyjaśniać również zjawiska wcześniej nieznanex
 c. Pojęcie zawiera w treści elementy nieobserwowalnex
 ---
-11. Badacz sprawdzał skuteczność różnych typów reklamy produktu X. W tym celu przygotował reklamę w wersji racjonalnej i emocjonalnej. Osoby badane były obojga płci, o zróżnicowanym wieku i wykształceniu (utworzono dwie grupy wyrównano pod tym względem przez dobór parami). Badanych pytano o chęć zakupu szeregu produktów. Następnie zaprezentowano im reklamy (w każdej z grup w innej wersji). Po krótkim czasie spytano ich ponownie o chęć zakupu produktów. W czasie całego badania sprawdzano poziom pobudzenia emocjonalnego przez rejestrację parametrów psychofizjologicznych (tętno i wielkość źrenicy).
-Badanie powyższe to przykład
+11. Badacz sprawdzał skuteczność różnych typów reklamy produktu X. W tym celu przygotował reklamę w wersji racjonalnej i emocjonalnej. Osoby badane były obojga płci, o zróżnicowanym wieku i wykształceniu (utworzono dwie grupy wyrównano pod tym względem przez dobór parami). Badanych pytano o chęć zakupu szeregu produktów. Następnie zaprezentowano im reklamy (w każdej z grup w innej wersji). Po krótkim czasie spytano ich ponownie o chęć zakupu produktów. W czasie całego badania sprawdzano poziom pobudzenia emocjonalnego przez rejestrację parametrów psychofizjologicznych (tętno i wielkość źrenicy). Badanie powyższe to przykład
 
 a. Badania ex post facto
 b. Badania eksperymentalnegox
 c. Badania korelacyjnego
 ---
-12. Płeć w badaniu pełniła rolę
+12. Badacz sprawdzał skuteczność różnych typów reklamy produktu X. W tym celu przygotował reklamę w wersji racjonalnej i emocjonalnej. Osoby badane były obojga płci, o zróżnicowanym wieku i wykształceniu (utworzono dwie grupy wyrównano pod tym względem przez dobór parami). Badanych pytano o chęć zakupu szeregu produktów. Następnie zaprezentowano im reklamy (w każdej z grup w innej wersji). Po krótkim czasie spytano ich ponownie o chęć zakupu produktów. W czasie całego badania sprawdzano poziom pobudzenia emocjonalnego przez rejestrację parametrów psychofizjologicznych (tętno i wielkość źrenicy). Płeć w badaniu pełniła rolę
 
 a. Mediatora
 b. Moderatorax
 c. Zmiennej niezależnejx
 ---
-13. Manipulacja w badaniu 
+13. Badacz sprawdzał skuteczność różnych typów reklamy produktu X. W tym celu przygotował reklamę w wersji racjonalnej i emocjonalnej. Osoby badane były obojga płci, o zróżnicowanym wieku i wykształceniu (utworzono dwie grupy wyrównano pod tym względem przez dobór parami). Badanych pytano o chęć zakupu szeregu produktów. Następnie zaprezentowano im reklamy (w każdej z grup w innej wersji). Po krótkim czasie spytano ich ponownie o chęć zakupu produktów. W czasie całego badania sprawdzano poziom pobudzenia emocjonalnego przez rejestrację parametrów psychofizjologicznych (tętno i wielkość źrenicy). Manipulacja w badaniu 
 
 a. Polegała na zastosowaniu dwóch typów reklamx
 b. Polegała na wyrównaniu składów grup
 c. Polegała na ukryciu celu badań psychofizjologicznych
 ---
-14. Poziom pobudzenia emocjonalnego pełnił rolę
+14. Badacz sprawdzał skuteczność różnych typów reklamy produktu X. W tym celu przygotował reklamę w wersji racjonalnej i emocjonalnej. Osoby badane były obojga płci, o zróżnicowanym wieku i wykształceniu (utworzono dwie grupy wyrównano pod tym względem przez dobór parami). Badanych pytano o chęć zakupu szeregu produktów. Następnie zaprezentowano im reklamy (w każdej z grup w innej wersji). Po krótkim czasie spytano ich ponownie o chęć zakupu produktów. W czasie całego badania sprawdzano poziom pobudzenia emocjonalnego przez rejestrację parametrów psychofizjologicznych (tętno i wielkość źrenicy). Poziom pobudzenia emocjonalnego pełnił rolę
 
 a. Mediatorax
 b. Moderatora
 c. Zmiennej zależnej
 ---
-15. Deklaracja chęci zakupu X mogła być zafałszowana przez efekt
+15. Badacz sprawdzał skuteczność różnych typów reklamy produktu X. W tym celu przygotował reklamę w wersji racjonalnej i emocjonalnej. Osoby badane były obojga płci, o zróżnicowanym wieku i wykształceniu (utworzono dwie grupy wyrównano pod tym względem przez dobór parami). Badanych pytano o chęć zakupu szeregu produktów. Następnie zaprezentowano im reklamy (w każdej z grup w innej wersji). Po krótkim czasie spytano ich ponownie o chęć zakupu produktów. W czasie całego badania sprawdzano poziom pobudzenia emocjonalnego przez rejestrację parametrów psychofizjologicznych (tętno i wielkość źrenicy). Deklaracja chęci zakupu X mogła być zafałszowana przez efekt
 
 a. Dojrzewania
 b. Testowaniax
 c. Selekcji
 ---
-16. Hipoteza „Prezentacja reklamy emocjonalnej X ma wpływ na częstszą deklarację zakupu”
+16. Badacz sprawdzał skuteczność różnych typów reklamy produktu X. W tym celu przygotował reklamę w wersji racjonalnej i emocjonalnej. Osoby badane były obojga płci, o zróżnicowanym wieku i wykształceniu (utworzono dwie grupy wyrównano pod tym względem przez dobór parami). Badanych pytano o chęć zakupu szeregu produktów. Następnie zaprezentowano im reklamy (w każdej z grup w innej wersji). Po krótkim czasie spytano ich ponownie o chęć zakupu produktów. W czasie całego badania sprawdzano poziom pobudzenia emocjonalnego przez rejestrację parametrów psychofizjologicznych (tętno i wielkość źrenicy). Hipoteza „Prezentacja reklamy emocjonalnej X ma wpływ na częstszą deklarację zakupu”
 
 a. Jest hipotezą zoperacjonalizowanąx
 b. Jest hipotezą kierunkowąx
 c. Jest hipotezą teoretyczną
 ---
-17. Na ocenę powyższego badania pod względem etycznym ma wpływ
+17. Badacz sprawdzał skuteczność różnych typów reklamy produktu X. W tym celu przygotował reklamę w wersji racjonalnej i emocjonalnej. Osoby badane były obojga płci, o zróżnicowanym wieku i wykształceniu (utworzono dwie grupy wyrównano pod tym względem przez dobór parami). Badanych pytano o chęć zakupu szeregu produktów. Następnie zaprezentowano im reklamy (w każdej z grup w innej wersji). Po krótkim czasie spytano ich ponownie o chęć zakupu produktów. W czasie całego badania sprawdzano poziom pobudzenia emocjonalnego przez rejestrację parametrów psychofizjologicznych (tętno i wielkość źrenicy). Na ocenę powyższego badania pod względem etycznym ma wpływ
 
 a. Możliwość rezygnacji badanych z udziału w trakciex
 b. Długość trwania całej proceduryx
 c. Możliwość szkodliwego wpływu pomiaru psychofizjologicznegox
 ---
-18. W powyższym badaniu dobór parami pozwala zredukować efekt
+18. Badacz sprawdzał skuteczność różnych typów reklamy produktu X. W tym celu przygotował reklamę w wersji racjonalnej i emocjonalnej. Osoby badane były obojga płci, o zróżnicowanym wieku i wykształceniu (utworzono dwie grupy wyrównano pod tym względem przez dobór parami). Badanych pytano o chęć zakupu szeregu produktów. Następnie zaprezentowano im reklamy (w każdej z grup w innej wersji). Po krótkim czasie spytano ich ponownie o chęć zakupu produktów. W czasie całego badania sprawdzano poziom pobudzenia emocjonalnego przez rejestrację parametrów psychofizjologicznych (tętno i wielkość źrenicy). W powyższym badaniu dobór parami pozwala zredukować efekt
 
 a. Testowania
 b. Selekcjix
