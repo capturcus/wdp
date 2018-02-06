@@ -102,8 +102,8 @@ c) Ocena możliwości zniekształcenia wyników z punktu widzenia metodologii
 ---
 18. Badacz na podstawie czasu rozwiązywania zestawu zadań chce wnioskować o występowaniu zaburzeń rozwoju intelektualnego. Aby uzyskać wskaźnik o wysokiej czułości powinien
 
-a) Przyjąć jako graniczny wynik czas dość krótkix
-b) Przyjąć jako graniczny wynik czas dość długi
+a) Przyjąć jako graniczny wynik czas dość krótki
+b) Przyjąć jako graniczny wynik czas dość długix
 c) To bez znaczenia
 ---
 19. Na podstawie wyników egzaminu sprawdzono, czy nieprzespanie nocy pogarsza osiągnięcia w teście. Badanie to może stanowić przykład

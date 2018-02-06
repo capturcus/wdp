@@ -293,11 +293,11 @@ export default class Questions { public static QUESTIONS = [
         "options": [
             [
                 "a) Przyjąć jako graniczny wynik czas dość krótki", 
-                true
+                false
             ], 
             [
                 "b) Przyjąć jako graniczny wynik czas dość długi", 
-                false
+                true
             ], 
             [
                 "c) To bez znaczenia", 
