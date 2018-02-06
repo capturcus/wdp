@@ -8,10 +8,8 @@ import { Component, OnInit, Input, ChangeDetectorRef, EventEmitter, Output } fro
 export class QuestionAskerComponent implements OnInit {
 
   @Input() public question: any;
-  @Output() nextQuestion = new EventEmitter<number>();
+  @Output() nextQuestion = new EventEmitter<number[]>();
   public clicked = false;
-  clickedOption;
-  good: number = 0;
 
   constructor(
     private cdRef:ChangeDetectorRef
@@ -20,22 +18,21 @@ export class QuestionAskerComponent implements OnInit {
   ngOnInit() {
   }
 
-  selected(option) {
-    if (option[1]) {
-      // good
-      this.good = 1;
-    } else {
-      this.good = -1;
-    }
+  checkAnswers() {
     this.clicked = true;
-    this.clickedOption = option;
-    this.cdRef.detectChanges();
   }
 
-  continued() {
-    var oldGood = this.good;
-    this.good = 0;
-    this.nextQuestion.emit(oldGood);
+  changeCheckbox(option) {
+    option[2] = !option[2];
   }
 
+  nextQ() {
+    var score = 0;
+    for (var i of this.question.options) {
+      if (i[1] === i[2]){
+        score++;
+      }
+    }
+    this.nextQuestion.emit([score, this.question.options.length]);
+  }
 }

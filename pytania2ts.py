@@ -34,14 +34,16 @@ with io.open("pytania.txt", "r", encoding="utf-8") as f:
         questionPrompt = jsonClean(content[line])
         line += 2  # skip break
         options = []
-        for i in range(4):
+        while not content[line].startswith("---"):
             options.append((jsonClean(content[line][:-1]), True) if content[line][-1] == "x" else (jsonClean(content[line]), False))
             line += 1
         line += 1  # skip ---
-        questions.append({
+        q = {
             "prompt": questionPrompt,
             "options": options,
-        })
+        }
+        questions.append(q)
+        print(q)
 
 with io.open("tester/src/app/pytania.ts", "w", encoding="utf-8") as f:
     f.write(unicode("export default class Questions { public static QUESTIONS = " + json.dumps(questions, indent=4).decode("unicode-escape")+";}"))

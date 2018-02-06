@@ -6,17 +6,21 @@
     color: red;
 }
 
+.blue {
+    color: blue;
+}
+
 .option {
-    font-size: 20pt;
+    font-size: 14pt;
     margin-top: 2%;
 }
 
 .option:hover {
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 .header {
-    font-size: 22pt;
+    font-size: 16pt;
     border: 3px solid black;
     padding: 20px;
     display: block;

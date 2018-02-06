@@ -1,7 +1,13 @@
 <div class="header">{{ question.prompt }}</div>
 <ul class="options">
 <li *ngFor="let option of question.options" >
-  <div *ngIf="!clicked" (click)="selected(option)" [ngClass]="{'option': true}">{{ option[0] }}</div>
-  <div *ngIf="clicked" [ngClass]="{'green': option[1], 'red': option[0]==clickedOption[0] && !option[1], 'option': true}" (click)="continued()" >{{ option[0] }}</div>
+  <div *ngIf="!clicked" [ngClass]="{'option': true}">
+    <input type="checkbox" (change)="changeCheckbox(option)"/> {{ option[0] }}
+  </div>
+  <div *ngIf="clicked" [ngClass]="{'option': true, 'green': option[1]===option[2] && option[1], 
+  'red': option[1]!==option[2] && option[2], 'blue': option[1]!==option[2] && !option[2]}" >
+    <input type="checkbox" disabled [checked]="option[2]"/> {{ option[0] }}</div>
 </li>
 </ul>
+<button *ngIf="!clicked" (click)="checkAnswers()">SPRAWDŹ</button>
+<button *ngIf="clicked" (click)="nextQ()">DALEJ</button>

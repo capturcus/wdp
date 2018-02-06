@@ -26,21 +26,24 @@ export class AppComponent {
 }
 
   ngOnInit() {
-    this.nextQuestion(0);
+    this.nextQuestion([0, 0]);
   }
 
-  nextQuestion(good) {
-    if (good === 1) {
-      this.questionsCorrect++;
-      this.questionsAsked++;
+  nextQuestion(scores) {
+    console.log(scores);
+    if ((scores[0] === scores[1]) && !(scores[1] === 0)) {
       Questions.QUESTIONS.splice(this.randId, 1);
-    } else if (good === -1) {
-      this.questionsAsked++;
     }
+    this.questionsCorrect += scores[0];
+    this.questionsAsked += scores[1];
     this.asker.clicked = false;
     this.randId = this.rand(0, Questions.QUESTIONS.length-1);
-    this.question = Questions.QUESTIONS[this.randId];
+    this.question = JSON.parse(JSON.stringify(Questions.QUESTIONS[this.randId]));
+    for (var i = 0; i < this.question.options.length; i++) {
+      this.question.options[i].push(false);
+    }
     this.questionsLeft = Questions.QUESTIONS.length;
+    console.log(Questions.QUESTIONS);
     this.cdRef.detectChanges();
   }
 
