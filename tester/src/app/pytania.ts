@@ -1321,5 +1321,26 @@ export default class Questions { public static QUESTIONS = [
                 true
             ]
         ]
+    }, 
+    {
+        "prompt": "1. Funkcjonalizm w naukach o poznawaniu to pogląd, zgodnie z którym:", 
+        "options": [
+            [
+                "a. poznając przedmiot człowiek zwraca uwagę na jego funkcję, a nie cechy zewnętrzne", 
+                false
+            ], 
+            [
+                "b. wartość teorii jest określana przez możliwości zastosowania jej w praktyce", 
+                false
+            ], 
+            [
+                "c. procesy poznawcze mogą być wyjaśniane przez analizę celów, których realizacji służą", 
+                true
+            ], 
+            [
+                "d. procesy poznawcze są funkcjonalnie zależne od struktury osobowości", 
+                false
+            ]
+        ]
     }
 ];}
