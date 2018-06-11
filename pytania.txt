@@ -459,3 +459,101 @@ a) funkcja logarytmiczna
 b) wykres w kształcie S
 c) krzywa Gaussax
 d) w kształcie U
+
+1.Tworzenie reprezentacji kategorialnych umożliwia
+
+a)redukcję nadmiarowej informacji
+b)wnioskowanie o cechach niedostępnych percepcyjnie
+c)jednolitą reakcję na znacznie różniące się elementy przynależące do tej samej kategorii
+d)wszystkie odpowiedzi są poprawnex
+
+2.System komunikacji pszczół charakteryzuje się cechą.....natomiast nie ma cechy.....
+
+a)kompozycjonalności/przemieszczania
+b)słabej specjalizacji/transmisji kulturowej
+c)przemieszczania/transmisji kulturowejx
+d)transmisji kulturowej/przemienności ról
+
+3.Efekt histerezy występuje gdy 
+
+a)na wiosnę ludzie jeszcze noszą puchowe kurtki przy 6 stopniach,a na jesieni już przy 10
+b)na wiosnę ludzie jeszcze noszą puchowe kurtki przy 10 stopniach, a na jesieni już przy 6x
+c)na wiosnę ludzie noszą puchowe kurtki przy 6 stopniach i na jesieni też przy 6
+d)żadna z powyższych odpowiedzi
+
+4.W teorii dwóch systemów wzrokowych Normana (system brzuszny i grzbietowy) zasadniczy podział funkcji tych systemów dotyczy
+
+a)procesów lokalizacji przestrzennej i procesu analizy cech i identyfikacji przedmiotux
+b)procesu analizy cech i procesu integracji cech
+c)podświadomych i świadomych procesów spostrzegania 
+d)procesów intencjonalnych i procesów mimowolnych w spostrzeganiu 
+
+5.,,Naiwne teorie,,
+
+a)to określenie teorii poznawczych sprzed powstania paradygmatu przetwarzania informacji 
+b)to specyficzne dla autyzmu zaburzenia procesów poznawczych 
+c)to systemy przekonań dzięki którym reprezentacje kategorii oparte są o spójne systemy cechx
+d)to określenie wewnętrznej reprezentacji tez naukowych u studentów i uczniów we wczesnym okresie edukacji
+
+6.W artykule ,,Systemy polimorficzne,, U.Neisser sugeruje równoczesne funkcjonowanie w umyśle trzech systemów przetwarzania informacji dochodzącej ze srodowiska, są to 
+
+a)spostrzeganie bezpośrednie, rozpoznawanie obiektów, spostrzeganie interpersonalnex
+b)percepcja, pamięć, myślenie
+c)percepcja, pamięć, podejmowanie decyzji
+d)spostrzeganie bezpośrednie, spostrzeganie interpersonalne, system reakcji warunkowych
+
+7.Efekt ,,coctail-party,, polega na
+
+a)pogorszeniu uwagi pod wpływem alkoholu 
+b)pogorszeniu uwagi w warunkach nadmiaru informacji
+c)wyczuleniu na istotne informację ( np.własne imie) w tle głównego strumienia informacjix
+d)przyspieszenia reakcji na istotne informacje (np.wlasne imię) w głównym strumieniu
+
+8.Wybierz zestaw składników systemu pamięci roboczej, który tafnie przypisuje je do modelu Baddeleya i Hitcha(litera B) oraz do modelu Cowana (litera C)
+
+a)pętla fonologiczna (C), centralny system wykonawczy (B), uwaga wzrokowa (B i C )
+b)szkicownik wzrokowo-przestrzenny (B) , hipokamp (C), magazyn wzorców działania (B i C ) 
+c)centralny system wykonawczy ( B i C) , szkicownik wzrokowo-przestrzenny (B), pętla fonologiczna (B)x
+d)pamięć ikoniczna (B), pamięć echoiczna (B), ognisko uwagi (C)
+
+9.Zgodnie z teorią trzech poziomów reprezentacji pojęciowych E.Rosch
+
+a)poziom podrzędny obejmuje najbardziej ogólne pojęcia 
+b)pojęcia z poziomu nadrzędnego opisane są na dużej liczbie cech
+c)poziom nadrzędny i podrzędny są wcześniejsze rozwojowo niż poziom podstawowy 
+d)identyfikacja desygnatów pojęcia na poziomie podstawowym następuje szybciej niż na dwóch pozostałych poziomach 
+
+10.Cechą charakterystyczną paradygmatu przetwarzania informacji (metafory komputerowej ) w psychologii poznawczej jest zalozenie ze
+
+a) nie da sie wyroznic poszczegolnych faz procesu przewarzania informacji
+b)procesy poznawcze mozna wyjasnic bez odwolania se do architektury realizujacegosie urzadzeniax
+c) procesy poznawcze sa zdetermnowane okreslona budowa mozgu
+d)wszystkie odpowiedzi sa poprawane
+
+11. znajomosc dnej sytuacji bedzie....  wplyw oczeiwan i ... wplyw bezposrednih danych percepcyjnych na interpretacje sytuacji.
+
+a) zmniejsza/ zwieksza
+b) zwieksza / zmniejszax
+c) zmniejszala /zmniejszyla
+d) zwiekszala / zwiekszala
+
+12.czas reakcji w badanich procesow poznawczych 
+
+a) jest jedna z najczesciej wystepujacych zmiennych niezaleznych
+b) moze byc wskaznikiem zlożoności procesux
+c) wykorzystywany jest tylko wbadanaich malych dzieci
+d)nie jest wykorzystywany w schemaie eksperymentalnym
+
+13. efekt,, coktail party,, ekseperymenty Graya i Wedderburna oraz Tresman i badania van Wrighta reakcje skorno- galwaniczna wskazuja na to ze bodzce na ktore nie zwracamu uwagi przetwarzane sa na poziomie
+
+a) fizycznym
+b)semantyczymx
+c) fonetycznym
+d) sluchowym
+
+14.efekt histerezy
+
+a) to tendencja do utrzymania stalej interpretacji stopniowo zmieniajacego sie bodzca
+b) to dendencja do zmiany po pewnym czasie interpretacji niezmiennego bodzca np szescianu Neckera
+c) to efekt zbyt gwałtownego ( histerycznego) poudzena w sytuacji gwałtownej zmiany bodzca
+d) stopniowa zmiana bodźcax

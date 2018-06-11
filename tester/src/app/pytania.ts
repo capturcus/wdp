@@ -1384,5 +1384,299 @@ export default class Questions { public static QUESTIONS = [
                 false
             ]
         ]
+    }, 
+    {
+        "prompt": "1.Tworzenie reprezentacji kategorialnych umożliwia", 
+        "options": [
+            [
+                "a)redukcję nadmiarowej informacji", 
+                false
+            ], 
+            [
+                "b)wnioskowanie o cechach niedostępnych percepcyjnie", 
+                false
+            ], 
+            [
+                "c)jednolitą reakcję na znacznie różniące się elementy przynależące do tej samej kategorii", 
+                false
+            ], 
+            [
+                "d)wszystkie odpowiedzi są poprawne", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "2.System komunikacji pszczół charakteryzuje się cechą.....natomiast nie ma cechy.....", 
+        "options": [
+            [
+                "a)kompozycjonalności/przemieszczania", 
+                false
+            ], 
+            [
+                "b)słabej specjalizacji/transmisji kulturowej", 
+                false
+            ], 
+            [
+                "c)przemieszczania/transmisji kulturowej", 
+                true
+            ], 
+            [
+                "d)transmisji kulturowej/przemienności ról", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "3.Efekt histerezy występuje gdy", 
+        "options": [
+            [
+                "a)na wiosnę ludzie jeszcze noszą puchowe kurtki przy 6 stopniach,a na jesieni już przy 10", 
+                false
+            ], 
+            [
+                "b)na wiosnę ludzie jeszcze noszą puchowe kurtki przy 10 stopniach, a na jesieni już przy 6", 
+                true
+            ], 
+            [
+                "c)na wiosnę ludzie noszą puchowe kurtki przy 6 stopniach i na jesieni też przy 6", 
+                false
+            ], 
+            [
+                "d)żadna z powyższych odpowiedzi", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "4.W teorii dwóch systemów wzrokowych Normana (system brzuszny i grzbietowy) zasadniczy podział funkcji tych systemów dotyczy", 
+        "options": [
+            [
+                "a)procesów lokalizacji przestrzennej i procesu analizy cech i identyfikacji przedmiotu", 
+                true
+            ], 
+            [
+                "b)procesu analizy cech i procesu integracji cech", 
+                false
+            ], 
+            [
+                "c)podświadomych i świadomych procesów spostrzegania", 
+                false
+            ], 
+            [
+                "d)procesów intencjonalnych i procesów mimowolnych w spostrzeganiu", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "5.,,Naiwne teorie,,", 
+        "options": [
+            [
+                "a)to określenie teorii poznawczych sprzed powstania paradygmatu przetwarzania informacji", 
+                false
+            ], 
+            [
+                "b)to specyficzne dla autyzmu zaburzenia procesów poznawczych", 
+                false
+            ], 
+            [
+                "c)to systemy przekonań dzięki którym reprezentacje kategorii oparte są o spójne systemy cech", 
+                true
+            ], 
+            [
+                "d)to określenie wewnętrznej reprezentacji tez naukowych u studentów i uczniów we wczesnym okresie edukacji", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "6.W artykule ,,Systemy polimorficzne,, U.Neisser sugeruje równoczesne funkcjonowanie w umyśle trzech systemów przetwarzania informacji dochodzącej ze srodowiska, są to", 
+        "options": [
+            [
+                "a)spostrzeganie bezpośrednie, rozpoznawanie obiektów, spostrzeganie interpersonalne", 
+                true
+            ], 
+            [
+                "b)percepcja, pamięć, myślenie", 
+                false
+            ], 
+            [
+                "c)percepcja, pamięć, podejmowanie decyzji", 
+                false
+            ], 
+            [
+                "d)spostrzeganie bezpośrednie, spostrzeganie interpersonalne, system reakcji warunkowych", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "7.Efekt ,,coctail-party,, polega na", 
+        "options": [
+            [
+                "a)pogorszeniu uwagi pod wpływem alkoholu", 
+                false
+            ], 
+            [
+                "b)pogorszeniu uwagi w warunkach nadmiaru informacji", 
+                false
+            ], 
+            [
+                "c)wyczuleniu na istotne informację ( np.własne imie) w tle głównego strumienia informacji", 
+                true
+            ], 
+            [
+                "d)przyspieszenia reakcji na istotne informacje (np.wlasne imię) w głównym strumieniu", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "8.Wybierz zestaw składników systemu pamięci roboczej, który tafnie przypisuje je do modelu Baddeleya i Hitcha(litera B) oraz do modelu Cowana (litera C)", 
+        "options": [
+            [
+                "a)pętla fonologiczna (C), centralny system wykonawczy (B), uwaga wzrokowa (B i C )", 
+                false
+            ], 
+            [
+                "b)szkicownik wzrokowo-przestrzenny (B) , hipokamp (C), magazyn wzorców działania (B i C )", 
+                false
+            ], 
+            [
+                "c)centralny system wykonawczy ( B i C) , szkicownik wzrokowo-przestrzenny (B), pętla fonologiczna (B)", 
+                true
+            ], 
+            [
+                "d)pamięć ikoniczna (B), pamięć echoiczna (B), ognisko uwagi (C)", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "9.Zgodnie z teorią trzech poziomów reprezentacji pojęciowych E.Rosch", 
+        "options": [
+            [
+                "a)poziom podrzędny obejmuje najbardziej ogólne pojęcia", 
+                false
+            ], 
+            [
+                "b)pojęcia z poziomu nadrzędnego opisane są na dużej liczbie cech", 
+                false
+            ], 
+            [
+                "c)poziom nadrzędny i podrzędny są wcześniejsze rozwojowo niż poziom podstawowy", 
+                false
+            ], 
+            [
+                "d)identyfikacja desygnatów pojęcia na poziomie podstawowym następuje szybciej niż na dwóch pozostałych poziomach", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "10.Cechą charakterystyczną paradygmatu przetwarzania informacji (metafory komputerowej ) w psychologii poznawczej jest zalozenie ze", 
+        "options": [
+            [
+                "a) nie da sie wyroznic poszczegolnych faz procesu przewarzania informacji", 
+                false
+            ], 
+            [
+                "b)procesy poznawcze mozna wyjasnic bez odwolania se do architektury realizujacegosie urzadzenia", 
+                true
+            ], 
+            [
+                "c) procesy poznawcze sa zdetermnowane okreslona budowa mozgu", 
+                false
+            ], 
+            [
+                "d)wszystkie odpowiedzi sa poprawane", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "11. znajomosc dnej sytuacji bedzie....  wplyw oczeiwan i ... wplyw bezposrednih danych percepcyjnych na interpretacje sytuacji.", 
+        "options": [
+            [
+                "a) zmniejsza/ zwieksza", 
+                false
+            ], 
+            [
+                "b) zwieksza / zmniejsza", 
+                true
+            ], 
+            [
+                "c) zmniejszala /zmniejszyla", 
+                false
+            ], 
+            [
+                "d) zwiekszala / zwiekszala", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "12.czas reakcji w badanich procesow poznawczych", 
+        "options": [
+            [
+                "a) jest jedna z najczesciej wystepujacych zmiennych niezaleznych", 
+                false
+            ], 
+            [
+                "b) moze byc wskaznikiem zlożoności procesu", 
+                true
+            ], 
+            [
+                "c) wykorzystywany jest tylko wbadanaich malych dzieci", 
+                false
+            ], 
+            [
+                "d)nie jest wykorzystywany w schemaie eksperymentalnym", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "13. efekt,, coktail party,, ekseperymenty Graya i Wedderburna oraz Tresman i badania van Wrighta reakcje skorno- galwaniczna wskazuja na to ze bodzce na ktore nie zwracamu uwagi przetwarzane sa na poziomie", 
+        "options": [
+            [
+                "a) fizycznym", 
+                false
+            ], 
+            [
+                "b)semantyczym", 
+                true
+            ], 
+            [
+                "c) fonetycznym", 
+                false
+            ], 
+            [
+                "d) sluchowym", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "14.efekt histerezy", 
+        "options": [
+            [
+                "a) to tendencja do utrzymania stalej interpretacji stopniowo zmieniajacego sie bodzca", 
+                false
+            ], 
+            [
+                "b) to dendencja do zmiany po pewnym czasie interpretacji niezmiennego bodzca np szescianu Neckera", 
+                false
+            ], 
+            [
+                "c) to efekt zbyt gwałtownego ( histerycznego) poudzena w sytuacji gwałtownej zmiany bodzca", 
+                false
+            ], 
+            [
+                "d) stopniowa zmiana bodźca", 
+                true
+            ]
+        ]
     }
 ];}
