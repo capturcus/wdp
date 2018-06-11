@@ -133,9 +133,9 @@ d) Procesów intencjonalnych i procesów mimowolnych w spostrzeganiu
 
 8. „Naiwne teorie”
 
-a) to okreslenie teorii poznawczych sprzed powstania paradygmatu przetwarzania informacjix
+a) to okreslenie teorii poznawczych sprzed powstania paradygmatu przetwarzania informacji
 b) to specyficzne dla autyzmu zaburzenia procesów poznawczych
-c) systemy przekonan dzieki którym reprezentacje kategorii oparte sa o spójne systemy cech
+c) systemy przekonan dzieki którym reprezentacje kategorii oparte sa o spójne systemy cechx
 d) to okreslenie wewnetrznej reprezentacji tez naukowych u studentów i uczniów we wczesnym okresie edukacji
 
 9. W artykule „Systemy polimorficzne” U. Neisser sugeruje równoczesne funkcjonowanie w umyśle trzech systemów przetwarzania informacji dochodzącej ze środowiska. Są to:
@@ -439,9 +439,23 @@ b) efektywność działania poprzez równoczesne nieświadome przetwarzanie wiel
 c) integracji informacji w procesie syntezji
 d) wszystkich powyższychx
 
-1. Funkcjonalizm w naukach o poznawaniu to pogląd, zgodnie z którym:
+8. Wg teorii prototypów Rosch pojecie na poziomie podstawowym jest:
 
-a. poznając przedmiot człowiek zwraca uwagę na jego funkcję, a nie cechy zewnętrzne
-b. wartość teorii jest określana przez możliwości zastosowania jej w praktyce
-c. procesy poznawcze mogą być wyjaśniane przez analizę celów, których realizacji służąx
-d. procesy poznawcze są funkcjonalnie zależne od struktury osobowości
+a) jednostkowe
+b) (jakiś przymiotnik) konkretne
+c) średnio abstrakcyjnex
+d) wysoce abstrakcyjne.
+
+16. Przeprowadzono badania nad odnoszeniem sukcesów na studiach, dobrym predyktorem jest:
+
+a) inteligencja ogólnax
+b) inteligencja emocjonalna
+c) twórczość ?jakaś?
+d) twórczość ?jakaś inna?
+
+26. Krzywa zapominania to:
+
+a) funkcja logarytmiczna
+b) wykres w kształcie S
+c) krzywa Gaussax
+d) w kształcie U

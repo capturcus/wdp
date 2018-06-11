@@ -403,7 +403,7 @@ export default class Questions { public static QUESTIONS = [
         "options": [
             [
                 "a) to okreslenie teorii poznawczych sprzed powstania paradygmatu przetwarzania informacji", 
-                true
+                false
             ], 
             [
                 "b) to specyficzne dla autyzmu zaburzenia procesów poznawczych", 
@@ -411,7 +411,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c) systemy przekonan dzieki którym reprezentacje kategorii oparte sa o spójne systemy cech", 
-                false
+                true
             ], 
             [
                 "d) to okreslenie wewnetrznej reprezentacji tez naukowych u studentów i uczniów we wczesnym okresie edukacji", 
@@ -1323,22 +1323,64 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "1. Funkcjonalizm w naukach o poznawaniu to pogląd, zgodnie z którym:", 
+        "prompt": "8. Wg teorii prototypów Rosch pojecie na poziomie podstawowym jest:", 
         "options": [
             [
-                "a. poznając przedmiot człowiek zwraca uwagę na jego funkcję, a nie cechy zewnętrzne", 
+                "a) jednostkowe", 
                 false
             ], 
             [
-                "b. wartość teorii jest określana przez możliwości zastosowania jej w praktyce", 
+                "b) (jakiś przymiotnik) konkretne", 
                 false
             ], 
             [
-                "c. procesy poznawcze mogą być wyjaśniane przez analizę celów, których realizacji służą", 
+                "c) średnio abstrakcyjne", 
                 true
             ], 
             [
-                "d. procesy poznawcze są funkcjonalnie zależne od struktury osobowości", 
+                "d) wysoce abstrakcyjne.", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "16. Przeprowadzono badania nad odnoszeniem sukcesów na studiach, dobrym predyktorem jest:", 
+        "options": [
+            [
+                "a) inteligencja ogólna", 
+                true
+            ], 
+            [
+                "b) inteligencja emocjonalna", 
+                false
+            ], 
+            [
+                "c) twórczość ?jakaś?", 
+                false
+            ], 
+            [
+                "d) twórczość ?jakaś inna?", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "26. Krzywa zapominania to:", 
+        "options": [
+            [
+                "a) funkcja logarytmiczna", 
+                false
+            ], 
+            [
+                "b) wykres w kształcie S", 
+                false
+            ], 
+            [
+                "c) krzywa Gaussa", 
+                true
+            ], 
+            [
+                "d) w kształcie U", 
                 false
             ]
         ]
