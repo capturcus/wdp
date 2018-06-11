@@ -32,11 +32,22 @@ with io.open("pytania.txt", "r", encoding="utf-8") as f:
     content = [x.strip() for x in content]
     while line < len(content):
         questionPrompt = jsonClean(content[line])
-        line += 2  # skip break
+        line += 1
+        if content[line].strip() != "":
+            print "line " + str(line) + " should be empty"
+            sys.exit(0)
+        line += 1
         options = []
         for i in range(4):
-            options.append((jsonClean(content[line][:-1]), True) if content[line][-1] == "x" else (jsonClean(content[line]), False))
+            try:
+                options.append((jsonClean(content[line][:-1]), True) if content[line][-1] == "x" else (jsonClean(content[line]), False))
+            except Exception as e:
+                print "failed (" + str(line) + "): " + content[line] + str(e)
+                sys.exit(1)
             line += 1
+        if line < len(content) and content[line].strip() != "":
+            print "line " + str(line) + " should be empty"
+            sys.exit(0)
         line += 1  # skip ---
         questions.append({
             "prompt": questionPrompt,
