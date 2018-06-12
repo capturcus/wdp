@@ -225,7 +225,7 @@ d. w swojej dziedzinie gorzej niż nowicjusze zapamiętują nowe fakty z powodu 
 Model 2,5D (dwu-i-pół-wymiarowy) w teorii percepcji D. Marra
 
 a. nie zawiera żadnej informacji o głębi
-b. informacja o głębi jest uzyskiwana z perspektywy egocentrycznej i nie zawiera informacji o niewidocznych częściach obiektówx
+b. zawiera informację o głębi uzyskiwaną z perspektywy egocentrycznej i nie zawiera informacji o niewidocznych częściach obiektówx
 c. jest budowany w pierwszym rzędzie w oparciu o wiedzę o obiektach i relacjach pomiędzy nimi
 d. stanowi nieprzetworzoną mapę pobudzenia receptorów siatkówki oka
 
@@ -352,8 +352,8 @@ Dziecko wytworzy lepsze pojęcia psa, jeśli będzie miało do czynienia z psem 
 
 a. klasyczne
 b. probabilistyczne
-c. egzemplarzowe
-d. żadne z powyższychx
+c. egzemplarzowex
+d. żadne z powyższych
 
 Jeśli dziecko nazywa tatą każdego mężczyzne oznacza to, że popełnia błąd 
 
@@ -379,7 +379,7 @@ d. to zagadnienie nie dotyczy teorii Paivio
 Gdy tłumacz ma przetłumaczyć jakiś tekst z języka obcego, na pewno posługuje się myśleniem 
 
 a. autystycznym 
-b. realistycznym i produktywnym	
+b. realistycznym i produktywnym    
 c. realistycznym i reproduktywnymx
 d. twórczym i krytycznym
 
@@ -623,9 +623,9 @@ d. poczucia stałości jax
 
 Ludzie bardzo szybko reagują na ważne informacje z własnej przeszłości. Jest to zgodne z
 
-a. koncepcją podwójnego kodowania
+a. koncepcją podwójnego kodowaniax
 b. modelem rozprzestrzeniającego się pobudzenia
-c. koncepcją postaciową spostrzeganiax
+c. koncepcją postaciową spostrzegania
 d. ustąpieniem amnezji dziecięcej
 
 Określenie 'wiedza, że...' stało się punktem wyjścia dla wprowadzenia pojęcia

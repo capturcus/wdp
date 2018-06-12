@@ -679,7 +679,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "b. informacja o głębi jest uzyskiwana z perspektywy egocentrycznej i nie zawiera informacji o niewidocznych częściach obiektów", 
+                "b. zawiera informację o głębi uzyskiwaną z perspektywy egocentrycznej i nie zawiera informacji o niewidocznych częściach obiektów", 
                 true
             ], 
             [
@@ -1062,11 +1062,11 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c. egzemplarzowe", 
-                false
+                true
             ], 
             [
                 "d. żadne z powyższych", 
-                true
+                false
             ]
         ]
     }, 
@@ -1873,7 +1873,7 @@ export default class Questions { public static QUESTIONS = [
         "options": [
             [
                 "a. koncepcją podwójnego kodowania", 
-                false
+                true
             ], 
             [
                 "b. modelem rozprzestrzeniającego się pobudzenia", 
@@ -1881,7 +1881,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c. koncepcją postaciową spostrzegania", 
-                true
+                false
             ], 
             [
                 "d. ustąpieniem amnezji dziecięcej", 
