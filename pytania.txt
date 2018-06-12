@@ -159,7 +159,7 @@ b. badani z tych grup kulturowych spontanicznie posługują się ramą geocentry
 c. obie powyższe odpowiedzi są poprawnex
 d. żadna z powyższych odpowiedzi nie jest poprawna
 
-Na podstawie szeregu badań neurokognitywistycznych w ostatniej dekadzie XX w. sformułowano hipotezę dwóch szlaków przetwarzania informacji percepcyjnej. Zgodnie z tą hipotezą wyróżniamy następujące szlaki
+Na podstawie szeregu badań neurokognitywistycznych w ostatniej dekadzie dwudziestego wieku sformułowano hipotezę dwóch szlaków przetwarzania informacji percepcyjnej. Zgodnie z tą hipotezą wyróżniamy następujące szlaki
 
 a. gibsonowski, przetwarzający informację o głębi i konstruktywistyczny, przetwarzający informacje w dwóch wymiarach
 b. atomistyczny, przetwarzający informacje o obiektach i holistyczny, przetwarzający informacje o gesztaltach
@@ -282,7 +282,7 @@ Wg teorii prototypów Rosch pojęcie na poziomie podstawowym jest
 
 a. jednostkowe 
 b. bardzo konkretnex
-c. średnio abstrakcyjnex
+c. średnio abstrakcyjne
 d. wysoce abstrakcyjne
 
 Tworzenie reprezentacji kategorialnych umożliwia 
@@ -478,8 +478,8 @@ Według hipotezy relatywizmu językowego
 
 a. niektóre języki lepiej opisują rzeczywistość niż inne
 b. w języku można wyrazić wszystko, a więc nie można doszukiwać się w nim wartości absolutnych
-c. struktura języka współwyznacza kategorie poznania
-d. nasze myślenie jest całkowicie zdeterminowane przez język, którym mówimyx
+c. struktura języka współwyznacza kategorie poznaniax
+d. nasze myślenie jest całkowicie zdeterminowane przez język, którym mówimy
 
 Cecha pamięci polegająca na tym, że daną informację można wydobyć na podstawie jakiegoś jej fragmentu zwie się
 
@@ -532,14 +532,14 @@ d. ani zasobami, ani danymi
 
 Krzywa zapominania to
 
-a. funkcja logarytmicznax
+a. krzywa logarytmicznax
 b. wykres w kształcie S
 c. krzywa Gaussa
 d. parabola
 
 Krzywa inteligencji to
 
-a. funkcja logarytmiczna
+a. krzywa logarytmiczna
 b. wykres w kształcie S
 c. krzywa Gaussax
 d. parabola

@@ -483,7 +483,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "Na podstawie szeregu badań neurokognitywistycznych w ostatniej dekadzie XX w. sformułowano hipotezę dwóch szlaków przetwarzania informacji percepcyjnej. Zgodnie z tą hipotezą wyróżniamy następujące szlaki", 
+        "prompt": "Na podstawie szeregu badań neurokognitywistycznych w ostatniej dekadzie dwudziestego wieku sformułowano hipotezę dwóch szlaków przetwarzania informacji percepcyjnej. Zgodnie z tą hipotezą wyróżniamy następujące szlaki", 
         "options": [
             [
                 "a. gibsonowski, przetwarzający informację o głębi i konstruktywistyczny, przetwarzający informacje w dwóch wymiarach", 
@@ -852,7 +852,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c. średnio abstrakcyjne", 
-                true
+                false
             ], 
             [
                 "d. wysoce abstrakcyjne", 
@@ -1440,11 +1440,11 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c. struktura języka współwyznacza kategorie poznania", 
-                false
+                true
             ], 
             [
                 "d. nasze myślenie jest całkowicie zdeterminowane przez język, którym mówimy", 
-                true
+                false
             ]
         ]
     }, 
@@ -1599,7 +1599,7 @@ export default class Questions { public static QUESTIONS = [
         "prompt": "Krzywa zapominania to", 
         "options": [
             [
-                "a. funkcja logarytmiczna", 
+                "a. krzywa logarytmiczna", 
                 true
             ], 
             [
@@ -1620,7 +1620,7 @@ export default class Questions { public static QUESTIONS = [
         "prompt": "Krzywa inteligencji to", 
         "options": [
             [
-                "a. funkcja logarytmiczna", 
+                "a. krzywa logarytmiczna", 
                 false
             ], 
             [
