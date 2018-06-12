@@ -1,559 +1,727 @@
-1. Funkcjonalizm w naukach o poznawaniu to pogląd, zgodnie z którym:
+Sieci neuronowe
+
+a. łatwo wykrywają regularnościx
+b. każdy węzeł sieci zawsze odpowiada konkretnemu pojęciu
+c. nie nadają się do modelowania uczenia
+d. są typowym systemem sekwencyjnego przetwarzania informacji
+
+Co to są mapy cech w mózgu?
+
+a. złożone struktury pojęciowe, za pomocą których uczymy się klasyfikować przedmioty za pomocą położenia
+b. struktury w korze wzrokowej o organizacji retinotopowej, w których reprezentowane jest położenie w polu wzrokowym takich elementów jak: linie, kolory, oddzielnie dla każdej grupy cechx
+c. struktury w korze wzrokowej o organizacji retinotopowej, w których reprezentowane jest położenie w polu wzrokowym takich elementów jak: linie, kolory, wspólnie dla każdej grupy cech
+d. struktury kory czołowej, w której tworzone są skojarzenia pomiędzy cechami obiektów
+
+Złudzenie Ebinghausa polega na przecenianiu wielkości koła otoczonego przez mniejsze kółka w porównaniu z kołem takiej samej średnicy otoczonym przez podobne koła. Złudzenie to
+
+a. nasila się, gdy mierzona reakcja polega na dopasowaniu rozwarcia palców przy sięganiu po krążek
+b. słabnie lub zanika, gdy mierzona reakcja polega na dopasowaniu rozwarcia palców przy sięganiu po krążekx
+c. nie występuje, gdy badanym zasłoni się jedno oko
+d. naturalnie występuje tylko u dzieci, u dorosłych świadczy o zaburzeniu kory mózgowej
+
+W swojej teorii percepcji bezpośredniej Gibson twierdził, że
+
+a. postrzegamy wyłącznie wyższe funkcje przedmiotów
+b. ruch obserwatora powinien zostać wyeliminowany w badaniach percepcji
+c. nasze zmysły są – ewolucyjnie rzecz ujmując – jeszcze bardzo niedoskonałe
+d. dane zmysłowe są znacznie bogatsze i bardziej jednoznaczne niż zakładają teorie konstruktywistycznex
+
+Najwcześniejsze odkrycia dotyczące wyodrębnionych i zlokalizowanych funkcji poznawczych mózgu dotyczyły
+
+a. rozumienia i posługiwania się językiem (Wernicke, Brocka)x
+b. funkcji wykonawczych (Łuria)
+c. pamięci (Alzheimer)
+d. logiki (Hipokrates)
+
+Zgodnie z koncepcją uwagi M. Posnera (1980 i później), za hamowanie uwagowego odruchu orientacyjnego odpowiada mechanizm _______, natomiast mechanizm ______ włącza się, gdy w polu percepcyjnym zachodzi zmiana.
+
+a. aktywacyjny / zarządczy
+b. zarządczy / orientacyjnyx
+c. aktywacyjny / orientacyjny
+d. orientacyjny / aktywacyjny
+
+O intencjonalności stanów umysłu (lub reprezentacji umysłowych) mówimy z definicji, gdy
+
+a. są 'ukierunkowane' na elementy zewnętrznej rzeczywistościx
+b. są przejawem ogólnych emocji i popędów, jak np. lęk
+c. stanowią wyobrażenie sekwencji zdarzeń powiązanych przyczynowo
+d. są wyrażone w kodzie werbalnym
+
+Zdaniem E. Rosch i współpracowników, prototyp kategorii charakteryzuje się najwyższym poziomem podobieństwa rodzinnego, czyli
+
+a. największym podobieństwem do innych desygnantów kategorii
+b. najmniejszym podobieństwem do obiektów spoza kategorii
+c. największym podobieństwem do innych desygnantów kategorii i najmniejszym podobieństwem do obiektów spoza kategoriix
+d. największym podobieństwem zarówno do innych desygnantów kategorii jak i do obiektów spoza kategorii
+
+W eksperymencie Sperlinga zmiana długości przerwy pomiędzy prezentacją tablicy z literami a tonem pozwalała na
+
+a. ocenę pojemności informacyjnej bufora sensorycznego
+b. powtarzanie liter przez osobę badaną
+c. ocenę czasu przechowywania w buforze sensorycznymx
+d. zablokowanie efektu nastawienia uwagi osoby badanej
+
+Węże należą do obiektów szczególnie łatwo wykrywalnych w polu percepcji
+
+a. u małp, ale nie u ludzi
+b. u ptaków, ale nie u ssaków
+c. u dorosłych tylko w kulturach pierwotnych, mających częsty kontakt z wężami
+d. u ludzi, w tym także u małych dzieci (do ok. 3 lat)x
+
+ Zgodnie z założeniem metody addytywnej pomiaru czasu reakcji
+ 
+a. równoczesne wykonywanie dwóch zadań zawsze wydłuża czas wykonywania danego zadanie o stały składnik związany z drugim zadaniem
+b. równoczesne wykonywanie dwóch zadań istotnie wydłuża czas wykonywania danego zadania, tylko jeżeli zadanie to aktywuje te same zasoby (reprezentacje, procesy poznawcze)x
+c. torowanie powoduje skrócenie czasu reakcji
+d. torowanie powoduje wydłużenie czasu reakcji
+
+Zasada przetargu między szybkością a poprawnością polega na tym, że
+
+a. w zadaniach z presją czasową silnie wzrasta liczba poprawnych reakcji
+b. w zadaniach presją czasową badani nie są w stanie uzyskać szybkich i poprawnych reakcjix
+c. zadania proste są wykonywane szybciej niż złożone bez zwiększenia liczby błędów
+d. wzrasta liczba fałszywych alarmów, natomiast liczba poprawnych reakcji nie ulega zmianie
+
+W badaniu D. Siemensona, dotyczącym niedostrzegania zmiany, badani nie dostrzegli aktora przebranego za goryla, poruszającego się na pierwszym planie sceny
+
+a. ponieważ uwaga u ludzi nie jest wyczulona na cechy ruchu biologicznego
+b. ruch goryla był bardzo powolny
+c. badani byli skoncentrowani na innym zadaniux
+d. badani grali w koszykówkę
+
+Efekt Stroopa polega na tym, że
+
+a. badani szybciej reagują na docierające z tła informacje ich dotyczące niż neutralne
+b. badani potrzebują dodatkowego czasu na nazwanie koloru liter, gdy składają się one w nazwę innego koloru z powodu interferencjix
+c. badani potrzebują dodatkowego czasu na nazwanie koloru liter, gdy składają się one w nazwę tego koloru z powodu obciążenia pamięci roboczej
+d. badani potrzebują mniej czasu na nazwanie koloru liter, gdy składają się w nazwę tego koloru, niż na nazwanie koloru jednobarwnego prostokąta dzięki transferowi pozytywnemu 
+
+Tworząc kategorię (pojęcie) człowiek
+
+a. traktuje poszczególne cechy jako niezależne
+b. nadaje poszczególnym cechom równe wagi
+c. uwzględnia związki przyczynowe między cechami obiektux
+d. kieruje się podobieństwem koloru, ale nie uwzględnia podobieństwa kształtu
+
+Zgodnie z teorią integracji cech A. Treisman i współpracowników, w sytuacji przetwarzania informacji poza ogniskiem uwagi cechy obiektów
+
+a. mogą być integrowane w folderach obiektów losowo
+b. mogą być integrowane (czasem błędnie) na podstawie wcześniejszej wiedzy
+c. są reprezentowane w postaci map cech w polach wzrokowych (w płacie potylicznym)
+d. wszystkie powyższe odpowiedzi są poprawnex
+
+Metody neuroobrazowania
+
+a. pozwalają na dokładne modelowanie przetwarzania informacji w układzie nerwowym
+b. skutecznie działają tylko w skali mikro (pojedynczych neuronów)
+c. różnicując korelaty mózgowe procesów poznawczych pozwalają ocenić realność postulowanych reprezentacji lub procesówx
+d. nie są odpowiednie do badania dzieci poniżej 3 r.ż., bo wymagają świadomych reakcji
+
+Metawiedza to
+
+a. wiedza nabyta w celowym, upośrednionym kulturowo procesie nauczania
+b. wiedza osoby o zawartości posiadanej przez nią wiedzyx
+c. synonim terminu wiedza proceduralna
+d. dział epistemologii stosowanej
+
+Ludzie często ulegają złudzeniu, że jeśli w rzucie monetą kilka razy pod rząd występuje reszka, to w kolejnym rzucie rośnie prawdopodobieństwo wyrzucenia orła
+
+a. jest to tzw. złudzenie hazardzisty albo efekt Monte Carlox
+b. jest to przykład posłużenia się heurystyką dostępności
+c. nie jest to złudzenie, ale prawidłowe wnioskowanie probabilistyczne
+d. efekt ten występuje tylko wtedy, gdy prawidłowa decyzja jest powiązana z wysoką nagrodą
+
+Zgodnie z koncepcją kontroli poznawczej T. Shallice’a, system kontroli czynności automatycznych
+
+a. jest czynny cały czas w trakcie wykonywania zadania nawykowego
+b. włącza się w przypadku konfliktu dwóch wykonywanych jednocześnie procesów automatycznychx
+c. włącza się w sytuacjach nowych, kiedy konieczne jest zahamowanie automatyzmów
+d. automatycznie powoduje wyłączenie systemu zadaniowego
+
+Użycie modelu lub symulacji danej funkcji poznawczej jest korzystne, gdyż ____, ale też niebezpieczne, bo _____
+
+a. dostarcza dowodów na to, że postulowanie wyjaśnienia funkcji jest spójne i możliwe do zrealizowania / model może działać dzięki mechanizmom, które niekoniecznie mają odpowiednik w wyjaśnionym procesie poznawczymx
+b. jest dobrym sprowadzeniem kompletności i spójności teorii / model pozwala na zbyt konkretne przewidywania
+c. daje gwarancję, że znaleźliśmy właściwe wyjaśnienie danego procesu / powoduje, że przestajemy szukać innych wyjaśnień
+d. można zastąpić pracę człowieka komputerem symulującym tę funkcję / grozi nam bezrobocie 
+
+W hipokampie i sąsiednich strukturach kory mózgowej znajdują się neurony najsilniej aktywujące się
+
+a. gdy zwierzę utrzymuje głowę zwrócone w danym kierunkux
+b. gdy punkt wyjścia przestaje być widoczny
+c. gdy droga przebyta przez zwierzę utworzy regularny kształt geometryczny (trójkąt, kwadrat lub okrąg)
+d. odpowiedzi a i c są poprawne
+
+Niektóre z grup Majów w swoim języku nie posługują się egocentrycznymi określeniami przestrzennymi (prawo, lewo). Dotychczasowe badania różnych zespołów pokazały, że rekonstruując układ przedmiotów na stole po obróceniu stołu o 180 stopni
+
+a. badani z tych grup kulturowych posługują się ramą egocentryczną w zadaniu, w którym jest to jednoznacznie poprawne rozwiązanie
+b. badani z tych grup kulturowych spontanicznie posługują się ramą geocentryczną (wg kierunków stron świata) w zadaniu bez jednoznacznie poprawnego rozwiązania
+c. obie powyższe odpowiedzi są poprawnex
+d. żadna z powyższych odpowiedzi nie jest poprawna
+
+Na podstawie szeregu badań neurokognitywistycznych w ostatniej dekadzie XX w. sformułowano hipotezę dwóch szlaków przetwarzania informacji percepcyjnej. Zgodnie z tą hipotezą wyróżniamy następujące szlaki
+
+a. gibsonowski, przetwarzający informację o głębi i konstruktywistyczny, przetwarzający informacje w dwóch wymiarach
+b. atomistyczny, przetwarzający informacje o obiektach i holistyczny, przetwarzający informacje o gesztaltach
+c. brzuszny, przetwarzający informację o cechach obiektu i grzbietowy, przetwarzający informację o ruchu i położeniu obiektu w przestrzenix
+d. brzuszny, przebiegający od płatów skroniowych do płatów ciemieniowych i grzbietowy, przebiegający od płatów czołowych do płatów potylicznych kory mózgowej
+
+Zjawisko torowania (poprzedzania) semantycznego polega na tym, że
+
+a. czas rozpoznania słowa jest tym krótszy, im rzadziej występuje to słowo w danym języku
+b. czas rozpoznania słowa jest krótszy, gdy przed nim pojawiło się słowo powiązane z nim znaczeniowox
+c. czas rozpoznania słowa jest tym krótszy, im krótsze jest to słowo
+d. czas rozpoznania słowa nieznanego jest tym krótszy, im bardziej podobne jest do słowa o znanym znaczeniu
+
+W kategorialnej percepcji dźwięków mowy mogą być wykorzystywane wskazówki
+
+a. prozodyczne i motoryczne
+b. motoryczne i fonetyczne
+c. fonetyczne i prozodyczne 
+d. zarówno prozodyczne, motoryczne i fonetycznex
+
+Przeskakiwanie sześcianu Neckera to zjawisko wskazujące o tym, że
+
+a. naszemu systemowi poznawczemu brakuje konsekwencji
+b. jesteśmy pod wpływem substancji psychotropowych
+c. raz osiągnięta interpretacja jest mało podatna na zmiany, gdyż zjawisko to występuje rzadko
+d. w niezmiennej sytuacji bodźcowej system poznawczy aktywnie poszukuje nowych organizacji pola percepcyjnegox
+
+System, który przeszedł test Turinga z wynikiem pozytywnym, to
+
+a. człowiek, który nauczył się języka obcego za pomocą programu komputerowego
+b. człowiek, który porafi wykonywać zaawansowane obliczenia matematyczne w bardzo krótkim czasie
+c. komputer, którego zachowanie podczas rozmowy nie daje się rozróżnić od zachowania człowiekax
+d. komputer, robot lub człowiek, który rozwiązał tzw. równanie Turinga, nierozwiązane od ponad 200 lat
+
+Współczesne badania pozwalają przypuszczać, że dzieci reprezentują stałość przedmiotu w ____, o czym świadczą eksperymenty z procedury _____
+
+a. pierwszych 6 miesiącach życia / habituacji lub naruszania oczekiwańx
+b. drugim roku życia / zadanie A nie B 
+c. czwartym roku życia / habituacji lub testu fałszywych przekonań
+d. siódmym roku życia / pomiarem operacji konkretnych
+
+Określenie 'rewolucja poznawcza' odnosi się do
+
+a. wydarzeń we Francji 1968 roku, w wyniku których nastąpiły poważne zmiany światopoglądowe
+b. upadku 'dyktatury' behawioryzmu i zakazu praktyk behawiorystycznych w USA
+c. wyłonienia się nowego paradygmatu w badaniach nad ludzkim zachowaniem ok. 1950-60 r.x
+d. momentu stworzenia pierwszego 'myślącego' komputera, potrafiącego wygrać z arcymistrzem szachowym
+
+Heurystyki to takie metody rozwiązywania problemów, które z założenia
+
+a. odrzucają jakiekolwiek reguły w rodzaju logiki formalnej lub związków przyczynowo-skutkowych
+b. opierają się na wiedzy przekazywanej kulturowo
+c. odwołują się do zasady wymiany społecznej
+d. upraszczają procedury rozwiązania problemu, nie dając jednak pewności uzyskania rozwiązaniax
+
+Eksperci
+
+a. z zasady łatwo opanowują nowe dla nich dziedziny
+b. gorzej niż nowicjusze monitorują własne działania / operacje umysłowe w trakcie rozwiązywania problemu
+c. w swojej dziedzinie wykazują się sprawniejszą pamięcią
+d. w swojej dziedzinie gorzej niż nowicjusze zapamiętują nowe fakty z powodu przeładowania pamięci 
+
+Model 2,5D (dwu-i-pół-wymiarowy) w teorii percepcji D. Marra
+
+a. nie zawiera żadnej informacji o głębi
+b. informacja o głębi jest uzyskiwana z perspektywy egocentrycznej i nie zawiera informacji o niewidocznych częściach obiektówx
+c. jest budowany w pierwszym rzędzie w oparciu o wiedzę o obiektach i relacjach pomiędzy nimi
+d. stanowi nieprzetworzoną mapę pobudzenia receptorów siatkówki oka
+
+Test fałszywych przekonań
+
+a. zawiera konflikt między zgodnym z rzeczywistością przekonaniem osoby badanej a błędnym przekonaniem bohatera scenyx
+b. to metoda ujawniania utrzymywanych podświadomie błędnych przekonań
+c. w wersji werbalnej rozwiązywany jest już w pierwszym roku życia
+d. to technika pomiaru inteligencji ogólnej
+
+O biologicznych postawach nabywania języka świadczyć może następujące zjawisko
+
+a. dzieci rozumieją tylko poprawne gramatycznie wypowiedzi
+b. często pojawienie się w mowie dorosłych wypowiedzi korygujących nieprawidłowe wypowiedzi dziecka
+c. podobny przebieg nabywania języka mówionego i migowegox
+d. różnorodność gramatyk współcześnie używanych języków
+
+Błąd fałszywego alarmu to ____, natomiast błąd pominięcia to ______.
+
+a. reakcja w momencie pojawienia się innego bodźca niż kryterialny / brak reakcji na bodziec kryterialnyx
+b. każda błędna reakcja / każdy brak reakcji po prezentacji bodźca
+c. nieuzasadniona negatywna reakcja emocjonalna / brak adekwatnej do sytuacji reakcji emocjonalnej
+d. żadna z powyższych możliwości
+
+Rotacja mentalna w eksperymentach Sheparda i współpracowników
+
+a. polega na cyklicznym powtarzaniu tej samej informacji
+b. została wykazana przez zależność czasu decyzji od kąta, o który został obrócony bodziec testowyx
+c. została wykazana przez niezależność czasu decyzji od kąta, o który został obrócony bodziec testowy
+d. została wykazana przez zależność czasu decyzji od odległości między dwoma bodźcami
+
+W eksperymentach psychologii poznawczej jako typowe zmienne wykorzystywane są
+
+a. czas reakcji jako zmienna zależna, a liczba poprawnych odpowiedzi jako zmienna manipulowana
+b. czas reakcji i liczba błędów jako zmienne niezależne
+c. czas reakcji i liczba błędów jako zmienne zależnex
+d. liczba błędnych reakcji jako zmienna niezależna, a liczba poprawnych odpowiedzi jako zmienna zależna
+
+Efekt histerezy
+
+a. to tendencja do utrzymywania stałej interpretacji stopniowo zmieniającego się bodźcax
+b. to tendencja do zmiany po pewnym czasie interpretacji niezmiennego bodźca (np. sześcian Neckera)
+c. to efekt zbyt gwałtownego (histerycznego) pobudzenia w sytuacji gwałtownej zmiany bodźca
+d. to efekt stopniowej zmiany interpretacji bodźca wraz z jego obiektywną zmianą
+
+Funkcje wykonawcze (zarządcze) są elementem systemu umysłowego, który służy rozwiązywaniu problemu
+
+a. ograniczonych zasobów umysłu
+b. efektywności działania poprzez równoczesne nieświadome przetwarzanie wielu wątków informacji
+c. integracji informacji w procesie syntezji
+d. wszystkich powyższychx
+
+Wg teorii prototypów Rosch pojęcie na poziomie podstawowym jest
+
+a. jednostkowe 
+b. bardzo konkretnex
+c. średnio abstrakcyjnex
+d. wysoce abstrakcyjne
+
+Tworzenie reprezentacji kategorialnych umożliwia 
+
+a. redukcję nadmiarowej (redundantnej) informacji 
+b. wnioskowanie o cechach niedostępnych percepcyjnie 
+c. jednolitą reakcję na znacznie różniące się elementy przynależące do tej samej kategorii 
+d. wszystkie powyższe odpowiedzi są poprawnex
+
+System komunikacji pszczół charakteryzuje się cechą _______, natomiast nie ma cechy___________. 
+
+a. kompozycjonalności / przemieszczania 
+b. słabej specjalizacji / transmisji kulturowej 
+c. przemieszczania / transmisji kulturowejx
+d. transmisji kulturowej / przemienności ról 
+
+Efekt histerezy występuje gdy: 
+
+a. na wiosnę ludzie jeszcze noszą puchowe kurtki przy 6°C, a na jesieni już przy 10°C 
+b. na wiosnę ludzie jeszcze noszą puchowe kurtki przy 10°C, a na jesieni dopiero przy 6°Cx
+c. na wiosnę ludzie noszą puchowe kurtki przy 6°C i na jesieni też przy 6°C 
+d. w żadnym z powyższych przykładów 
+
+W teorii dwóch systemów wzrokowych Normana (system brzuszny i system grzbietowy) zasadniczy podział funkcji tych systemów dotyczy 
+
+a. procesów lokalizacji przestrzennej oraz procesu analizy cech i identyfikacji przedmiotux
+b. procesu analizy cech i procesu integracji cech 
+c. podświadomych i świadomych procesów spostrzegania 
+d. procesów intencjonalnych i procesów mimowolnych w spostrzeganiu 
+
+'Naiwne teorie'
+
+a. to określenie teorii poznawczych sprzed powstania paradygmatu przetwarzania informacji 
+b. to specyficzne dla autyzmu zaburzenia procesów poznawczych 
+c. to systemy przekonań, dzięki którym reprezentacje kategorii oparte są o spójne systemy cechx
+d. to określenie wewnętrznej reprezentacji tez naukowych u studentów i uczniów we wczesnym okresie edukacji
+
+W artykule „Systemy polimorficzne” U. Neisser sugeruje równoczesne funkcjonowanie w umyśle trzech systemów przetwarzania informacji dochodzącej ze środowiska. Są to
+
+a. spostrzeganie bezpośrednie, rozpoznawanie obiektów i spostrzeganie interpersonalnex
+b. percepcja, reprezentacja, myślenie 
+c. percepcja, pamięć, podejmowanie decyzji 
+d. spostrzeganie bezpośrednie, spostrzeganie interpersonalne, system reakcji warunkowych
+
+Efekt coctail party polega na 
+
+a. pogorszeniu uwagi pod wpływem alkoholu 
+b. pogorszeniem uwagi w warunkach nadmiaru informacji 
+c. wyczuleniu na istotne informacje (np. własne imię) w tle głównego strumienia informacjix 
+d. przyspieszenia reakcji na istotne informacje (np. własne imię) w głównym strumieniu informacji
+
+Wybierz ten zestaw składników systemu pamięci roboczej, który trafnie przypisuje je do modelu Baddeleya i Hitcha (oznaczone literą B) oraz do modelu Cowana (oznaczone literą C) – uwaga: żadna z list nie jest wyczerpująca 
+
+a. pętla fonologiczna (C), centralny system wykonawczy (B), uwaga wzrokowa (B i C) 
+b. szkicownik wzrokowo-przestrzenny (B), hipokamp (C), magazyn wzorców działania (B i C) 
+c. centralny system wykonawczy (B i C), szkicownik wzrokowo-przestrzenny (B), pętla fonologiczna (B)x
+d. pamięć ikoniczna (B), pamięć echoiczna (B), ognisko uwagi (C) 
+
+Zgodnie z teorią trzech poziomów reprezentacji pojęciowych E. Rosch 
+
+a. poziom podrzędny obejmuje najbardziej ogólne pojęcia 
+b. pojęcia z poziomu nadrzędnego opisane są na dużej liczbie cech 
+c. poziom nadrzędny i podrzędny są wcześniejsze rozwojowo niż poziom podstawowy 
+d. identyfikacja desygnatów pojęcia na poziomie podstawowym następuje szybciej niż na dwóch pozostałych poziomachx
+
+Dziecko wytworzy lepsze pojęcia psa, jeśli będzie miało do czynienia z psem wielorasowym niż jednorasowym. Jakie podejście do kategoryzacji reprezentuje ta teza?
+
+a. klasyczne
+b. probabilistyczne
+c. egzemplarzowe
+d. żadne z powyższychx
+
+Jeśli dziecko nazywa tatą każdego mężczyzne oznacza to, że popełnia błąd 
+
+a. abstrakcji negatywnej
+b. abstrakcji pozytywnejx
+c. kategoryzacji  
+d. egzemplarzy
+
+Percepcja obiektu
+
+a. jest niezależna od percepcji ruchu
+b. wymaga wyodrębnienia i klasyfikacji krawędzix
+c. jest możliwa tylko poprzez aktywizację prototypu w pamięci
+d. pojawia się stosunkowo późno w rozwoju (ok. 12 miesiąca)
+
+Na lekcji chemii pani opowiada o jakiejś substancji i daje ją uczniom do powąchania. Wg teorii Paivio 
+
+a. uczniowie lepiej ją zapamiętają (podwójne kodowanie)x
+b. uczniowie gorzej ją zapamiętają (zapach zakłóci zapamiętywanie)
+c. nie będzie to miało wpływu na ich pamięć
+d. to zagadnienie nie dotyczy teorii Paivio
+
+Gdy tłumacz ma przetłumaczyć jakiś tekst z języka obcego, na pewno posługuje się myśleniem 
+
+a. autystycznym 
+b. realistycznym i produktywnym	
+c. realistycznym i reproduktywnymx
+d. twórczym i krytycznym
+
+Cyrkowiec, który jednocześnie żongluje sześcioma przedmiotami, jeździ na rowerze i tak dalej wykonuje kilka czynności na raz. Które z poniższych wyjaśnień najprawdopodobniej zaproponowaliby Shiffrin i Schneider?
+
+a. wszystkie wykonywane czynności zostały zautomatyzowane w trakcie uczenia i nie wymagają jakiejkolwiek kontroli ze strony uwagix
+b. wszystkie wykonywane czynności zostały zautomatyzowane w trakcie uczenia, a uwaga pełni rolę kontroli i nadzoru nad poprawnością przebiegu
+c. wszystkie wykonywane czynności korzystają z jednego rezerwuaru zasobów mentalnych, gdyż dotyczą czynności o charakterze motorycznym, lecz czynności te pobierają na tyle mało zasobów, że nie dochodzi do przeładowania systemu informacyjnego 
+d. wszystkie czynności czerpią zasoby mentalne niezbędne do ich obsługi z oddzielnych rezerwuarów, więc czynności te mogą być wykonywane jednocześnie bez widocznej interferencji
+
+Cyrkowiec, który jednocześnie żongluje sześcioma przedmiotami, jeździ na rowerze i tak dalej wykonuje kilka czynności na raz. Które z poniższych wyjaśnień najprawdopodobniej zaproponowałby Navon?
+
+a. wszystkie wykonywane czynności zostały zautomatyzowane w trakcie uczenia i nie wymagają jakiejkolwiek kontroli ze strony uwagi
+b. wszystkie wykonywane czynności zostały zautomatyzowane w trakcie uczenia, a uwaga pełni rolę kontroli i nadzoru nad poprawnością przebiegu
+c. wszystkie wykonywane czynności korzystają z jednego rezerwuaru zasobów mentalnych, gdyż dotyczą czynności o charakterze motorycznym, lecz czynności te pobierają na tyle mało zasobów, że nie dochodzi do przeładowania systemu informacyjnego 
+d. wszystkie czynności czerpią zasoby mentalne niezbędne do ich obsługi z oddzielnych rezerwuarów, więc czynności te mogą być wykonywane jednocześnie bez widocznej interferencjix
+
+Która z metod obrazowania pracy mózgu jest najbardziej efektywna, jeśli chodzi o czas?
+
+a. rejestracja potencjałów wywołanychx
+b. rezonans magnetyczny
+c. CAT
+d. PET
+
+Funkcjonalizm w naukach o poznawaniu to pogląd, zgodnie z którym
 
 a. poznając przedmiot człowiek zwraca uwagę na jego funkcję, a nie cechy zewnętrzne
 b. wartość teorii jest określana przez możliwości zastosowania jej w praktyce
 c. procesy poznawcze mogą być wyjaśniane przez analizę celów, których realizacji służąx
 d. procesy poznawcze są funkcjonalnie zależne od struktury osobowości
 
-2. Metoda eksperymentalna w psychologii poznawczej wymaga
+Metoda eksperymentalna w psychologii poznawczej wymaga
 
 a. obserwacji przebiegu procesów poznawczych w warunkach naturalnych
 b. użycia metod obrazowania pracy mózgu
 c. kontroli warunków badania głównego czynnika (zmiennej niezależnej)x
 d. posłużenia się symulacją komputerową
 
-3. Teorie rozpoznawania wzorca
+Teorie rozpoznawania wzorca
 
 a. nie potrafią wyjaśnić efektów kontekstu w rozpoznawaniux
 b. zakładają tożsamość bodźca dystalnego i proksymalnego
-c. odwołują się wyłącznie do procesów „góra-dół”
+c. odwołują się wyłącznie do procesów 'góra-dół'
 d. dobrze wyjaśniają łatwość rozpoznawania wyraźnie różniących obiektów jako przynależących do tej samej kategorii
 
-4. Reprezentacja poznawcza
+Reprezentacja poznawcza
 
 a. może odwzorowywać tylko te elementy rzeczywistości, które są bezpośrednio dostępne percepcji
 b. jest podstawowym pojęciem behawiorystycznej koncepcji procesów poznawczych
 c. występuje wyłącznie w pamięci roboczej
 d. posiada właściwości semantycznex
 
-5. Kategorie z poziomu podstawowego
+Kategorie z poziomu podstawowego
 
 a. to kategorie reprezentujące abstrakcyjne byty, takie jak miłość, piękno itp.
 b. to kategorie, których egzemplarze są do siebie maksymalnie podobne i jednocześnie maksymalnie różnią się od egzemplarzy innych kategoriix
 c. ustanawiają podstawowe relacje składające się na naiwną teorię
 d. są nabywane w rozwoju później, niż kategorie z poziomu nadrzędnego (bardziej ogólne)
 
-6. Wspólna uwaga
+Wspólna uwaga
 
 a. to inaczej podzielność uwagi
 b. to forma reprezentacji liczby
 c. to dostrzeganie, na co ukierunkowana jest uwaga innego człowiekax
 d. to zdolność naśladowania prostych grymasów twarzy przez noworodki
 
-7. Zjawisko umysłowego skalowania obrazu (zbliżanie i oddalanie)
+Zjawisko umysłowego skalowanie obrazu (zbliżanie i oddalanie)
 
 a. zaobserwowane zostało u dzieci już w pierwszym miesiącu życia
-b. świadczy o „twierdzeniowych” (czy pojęciowych) podstawach procesów wyobrażeniowych
-c. polega na zależności czasu odpowiedzi na pytanie o właściwości obiektu od „skali obrazu” (np. pytanie o ogon królika siedzącego na grzbiecie słonia vs. ogon królika, na którego grzbiecie siedzi mrówka)x
-d. polega na umiejętności określania odległości pomiędzy obiektami w dużej odległości od patrzacego
+b. świadczy o 'twierdzeniowych' (czy pojęciowych) podstawach procesów wyobrażeniowych
+c. polega na zależności czasu odpowiedzi na pytanie o właściwości obiektu od 'skali obrazu' (np. pytanie o ogon królika siedzącego na grzbiecie słonia vs. ogon królika, na którego grzbiecie siedzi mrówka)x
+d. polega na umiejętności określania odległości pomiędzy obiektami w dużej odległości od patrzącego
 
-8. W pierwszym miesiącu życia dziecko
+W pierwszym miesiącu życia dziecko
 
-a. potrafi rozpoznać głos matki, ale nie różnicuje języków
+a. potrafi rozpoznać głos matki, ale nie różnicuje języków 
 b. potrafi rozróżniać języki, ale nie rozpoznaje głosu matki
 c. reaguje identycznie na dźwięki mowy i inne dźwięki o podobnym natężeniu i częstotliwości
 d. odróżnia głos matki oraz różnie reaguje na ojczysty i obcy język, nawet gdy są one nagrane przez ten sam, nieznany dziecku głosx
 
-Konstruowanie w umyśle modelu służącego do wyjaśniania i przewidywania zachowań innych ludzi oraz własnych.
+Naiwna teoria umysłu 
 
-a) to określenie teorii poznawczych sprzed powstania paradygmatu przetwarzania informacji
-b) może być niezbędna do utworzenia niektórych zdolności metapoznawczych (np. strategii myślowych i pamięciowych)x
-c) to specyficzne dla autyzmu zaburzenie procesów poznawczych
-d) to wewnętrzna reprezentacja przedmiotów
+a. to określenie teorii poznawczych sprzed powstania paradygmatu przetwarzania informacji
+b. może być niezbędna do utworzenia niektórych zdolności metapoznawczych (np. strategii myślowych i pamięciowych)x
+c. to specyficzne dla autyzmu zaburzenie procesów poznawczych
+d. to wewnętrzna reprezentacja przedmiotów
 
-PSYCHOLOGIA GESTALT, a także modele dynamiczne (np. neuropodobne) postulują, że
+Psychologia gestalt, a także modele dynamiczne (np. neuropodobne) postulują, że
 
-a. figura posiada naturalną organizację, a jej wyodrębnienie można przyrównać do osiągnięcia stanu stabilnego
-b. całość doświadczenia percepcyjnego jest dynamiczną sumą elementów składowych
+a. figura posiada naturalną organizację, a jej wyodrębnienie można przyrównać do osiągnięcia stanu stabilnegox
+b. całość doswiadczenia percepcyjnego jest dynamiczną sumą elementów składowych
 c. figura składana jest z prostych elementów pierwotnych, których detektory znajdują się w korze wzrokowej
-d. obrazy są całościami, które kolejno dopasowujemy do wzorców przechowywanych w pamięcix
+d. obrazy są całościami, które kolejno dopasowujemy do wzorców przechowywanych w pamięci
 
-Która z metod obrazowania pracy mózgu jest najbardziej efektywna jak chodzi o czas? tzn uszeregować:
+Według hipotezy relatywizmu językowego
 
-a) CAT
-b) PET
-c) rezonans magnetyczny
-d) rejestracja potencjałów wywołanych (i EEG)x
+a. niektóre języki lepiej opisują rzeczywistość niż inne
+b. w języku można wyrazić wszystko, a więc nie można doszukiwać się w nim wartości absolutnych
+c. struktura języka współwyznacza kategorie poznania
+d. nasze myślenie jest całkowicie zdeterminowane przez język, którym mówimyx
 
-PERCEPCJA OBIEKTU:
-
-a) jest niezależna od percepcji ruchu
-b) wymaga wyodrębnienia i klasyfikacji krawędzix
-c) jest możliwa tylko poprzez aktywizację prototypu w pamięci
-d) pojawia się stosunkowo późno w rozwoju (ok.12 miesiąca)
-
-1. Tworzenie reprezentacji kategorialnych umożliwia
-
-a) Redukcje nadmiarowej (redundantnej) informacji
-b) Wnioskowanie o cechach niedostępnych percepcyjnie
-c) Jednolita reakcje na znacznie różniące sie elementy przynależące do tej samej kategorii
-d) Wszystkie powyższe odpowiedzi sa poprawnex
-
-2. Według hipotezy relatywizmu językowego:
-
-a) niektóre jezyki lepiej opisuja rzeczywistosc niż inne
-b)w jezyku mozna wyrazic wszystko, a wiec nie mozna doszukiwac sie w nim wartości absolutnych
-c) struktura jezyka współwyznacza kategorie poznania
-d) nasze myślenie jest całkowicie zdeterminowane przez język, którym mówimyx
-
-3. Efekt histerezy występuje gdy:
-
-a. na wiosnę ludzie jeszcze noszą puchowe kurtki przy 6°C a na jesieni juprzy 10°C
-b. na wiosnę ludzie jeszcze noszą puchowe kurtki przy 10°C a na jesieni dopiero przy 6°Cx
-c. na wiosnę ludzie noszą puchowe kurtki przy 6°C i na jesieni przy 6°C
-d. w żadnym z powyższych przykładów
-
-4. Cechę pamięci polegającą na tym, ze dana informacje można wydobyć na podstawie jakiegoś jej fragmentu nazywa sie:
+Cecha pamięci polegająca na tym, że daną informację można wydobyć na podstawie jakiegoś jej fragmentu zwie się
 
 a. adresowaniem przez treść
 b. lokalizmemx
 c. globalizmem
 d. równoczesnością
 
-5. Jednym z dowodów na to, że bodźce wzrokowe mogą być przetwarzane przez dwa różne systemy jest to, że:
+Jednym z dowodów na to, że bodźce wzrokowe mogą być przetwarzane przez dwa różne systemy jest to, że
 
-a) Osoby cierpiące na ataksje optyczna cierpią także na agnozje wzrokowa kształtu
-b) Pacjenci z agnozja wzrokowa mogą sięgać po przedmioty, ale nie potrafią nimi manipulować.
-c) W zadaniach, w których wykorzystuje sie złudzenia wzrokowe, błędy szacowania nie korelują z reakcjami motorycznymix
-d) Wszystkie powyższe odpowiedzi świadczą o istnieniu dwóch systemów przetwarzania informacji wzrokowej
+a. osoby cierpiace na ataksję optyczną cierpią także na agnozję wzrokową kształtu
+b. pacjenci z agnozją wzrokową mogą sięgać po przedmioty, ale nie potrafią nimi manipulować
+c. w zadaniach, w których wykorzystuje się złudzenia optyczne błędy szacowania nie korelują z reakcjami motorycznymix
+d. wszystkie powyższe odpowiedzi świadczą o istnieniu dwóch systemów przetwarzania informacji wzrokowej
 
-6. Jeżeli celem badania neuropoznawczego jest dokładne określenie lokalizacji struktur mózgowych aktywnych w trakcie wykonywania danego zadania poznawczego, to dobra metodabadania jest _______, natomiast żeby określić czasowy przebieg procesu lepiej użyć _________
+Jeżeli celem badania neuropoznawczego jest dokładne określenie lokalizacji struktur mózgowych aktywnych w trakcie wykonywania danego zadania poznawczego, to dobrą metodą badania jest________, natomiast żeby okreslić czasowy przebieg procesu lepiej użyć ______.
 
-a) Funkcjonalny rezonans magnetyczny fMRI/ tomografia pozytronowa PET
-b) Pomiar potencjałów wywołanych EP/ funkcjonalny rezonans magnetyczny fMRI
-c) tomografia pozytronowa PET/ metoda podwójnej dysocjacji
-d) Funkcjonalny rezonans magnetyczny fMRI/ pomiar potencjałów wywołanych EPx
+a. funkcjonalny rezonans magnetyczny fMRI / tomografii pozytronowej PET
+b. pomiar potencjałów wywołanych ERP / funkcjonalnego rezonansu magnetycznego fMRI
+c. tomografia pozytronowa PET / metody podwójnej dysocjacji
+d. funkcjonalny rezonans magnetyczny fMRI / pomiaru potencjałów wywołanych ERPx
 
-7. W teorii dwóch systemów wzrokowych Normana (system brzuszny i system grzbietowy) zasadniczy podział funkcji tych systemów dotyczy
+W percepcji obiektu wykorzystywana jest informacja statyczna (np. _________) oraz kinematyczna (np._________).
 
-a) Procesów lokalizacji przestrzennej i procesu analizy cech i identyfikacji przedmiotux
-b) Procesu analizy cech i procesu integracji cech
-c) Podświadomych i świadomych procesów spostrzegania
-d) Procesów intencjonalnych i procesów mimowolnych w spostrzeganiu
+a. rozkład intensywności światła / intensywność barwy
+b. intensywność barwy / ukierunkowanie krawędzi
+c. rozkład intensywności światła / paralaksa ruchowax
+d. wrażenia dotykowe / prototyp obiektu
 
-8. „Naiwne teorie”
+Pandemonium to nazwa
 
-a) to okreslenie teorii poznawczych sprzed powstania paradygmatu przetwarzania informacji
-b) to specyficzne dla autyzmu zaburzenia procesów poznawczych
-c) systemy przekonan dzieki którym reprezentacje kategorii oparte sa o spójne systemy cechx
-d) to okreslenie wewnetrznej reprezentacji tez naukowych u studentów i uczniów we wczesnym okresie edukacji
+a. techniki wykorzystywanej przez pamięć krótkotrwałą
+b. formy zaburzeń uwagi występującej u ludzi z amnezją
+c. programu symulującego spostrzeganie i rozpoznawanie wzorcówx
+d. części pamięci echoicznej
 
-9. W artykule „Systemy polimorficzne” U. Neisser sugeruje równoczesne funkcjonowanie w umyśle trzech systemów przetwarzania informacji dochodzącej ze środowiska. Są to:
+Wynikiem procesu przetwarzania informacji są
 
-a) Spostrzeganie bezpośrednie, rozpoznawanie obiektów i spostrzeganie interpersonalnex
-b) Percepcja, reprezentacja, myślenie
-c) Percepcja, pamięć, podejmowanie decyzji
-d) Spostrzeganie bezpośrednie, spostrzeganie interpersonalne, system reakcji warunkowych
+a. teorie naiwne i spostrzeżeniax
+b. dystraktory i jednostki symboliczne
+c. historyjki i teorie naiwne
+d. atrybucje interpersonalne
 
-10. Efekt „coctail-party” polega na
+Zupełnie nieprzygotowany student usiłuje mimo wszystko sensownie odpowiedzieć na pytanie, ale nie udaje mu się to. Jego przetwarzanie informacji limitowane jest
 
-a) Pogorszeniu uwagi pod wpływem alkoholu
-b) Pogorszeniem uwagi w warunkach nadmiaru informacji
-c) Wyczuleniu na istotne informacje (np. własne imie) w tle głównego strumienia informacjix
-d) Przyspieszenia reakcji na istotne informacje (np. własne imie) w głównym strumieniu
+a. tylko zasobami
+b. tylko danymi
+c. jednocześnie zasobami i danymix
+d. ani zasobami, ani danymi
 
-11. W percepcji obiektu wykorzystywana jest informacja statyczna (np. _________ ) oraz kinematyczna (np._________)
+Krzywa zapominania to
 
-a) rozkład intensywnosci swiatła/intensywnosc barwy
-b) intensywnosc barwy/ukierunkowanie krawedzi
-c) rozkład intensywnosci swiatła/paralaksa ruchowa
-d) wraenia dotykowe/ prototyp obiektux
+a. funkcja logarytmicznax
+b. wykres w kształcie S
+c. krzywa Gaussa
+d. parabola
 
-12. Wybierz ten zestaw składników systemu pamieci roboczej, który trafnie przypisuje je do modelu Baddeleya i Hitcha (oznaczone  litera B) oraz do modelu Cowana (oznaczone litera C) – uwaga: zadna z list nie jest wyczerpujaca
+Krzywa inteligencji to
 
-a) petla fonologiczna (C), centralny system wykonawczy (B), uwaga wzrokowa (B i C)
-b) szkicownik wzrokowo-przestrzenny (B), hipokamp (C), magazyn wzorców działania (B i C)
-c) centralny system wykonawczy (B i C), szkicownik wzrokowo-przestrzenny (B), petla fonologiczna (B)x
-d) pamiec ikoniczna (B), pamiec echoiczna (B), ognisko uwagi (C)
+a. funkcja logarytmiczna
+b. wykres w kształcie S
+c. krzywa Gaussax
+d. parabola
 
-13. Zgodnie z teoria trzech poziomów reprezentacji pojęciowych E. Rosch
+W badaniach z wykorzystaniem metody skaningu umysłowego stwierdzono, że tym dłużej trwa odpowiedź na pytanie o obiekt, im
 
-a) poziom podrzedny obejmuje najbardziej ogólne pojecia
-b) pojecia z poziomu nadrzednego opisane sa na duzej liczbie cech
-c) poziom nadrzedny i podrzedny sa wczesniejsze rozwojowo niż poziom podstawowy
-d) identyfikacja desygnatów pojęcia na poziomie podstawowym następuje szybciej niż na dwóch pozostałych poziomachx
+a. bliżej znajduje się on do punktu fiksacji
+b. większy jest ten obiekt
+c. mniej cech charakterystycznych posiada ten obiekt
+d. bardziej konkretny jest ten obiektx
 
-20.Po co jest test fałszywych przekonań?
+Selekcja wtórna występuje
 
-a) sprawdzanie wiarygodnosci świadków
-b) sprawdzanie ogólnej inteligencji
-c) badanie rozwoju "teorii umyslu"x
-d) udowadnianie utrzymywania sie fałszywych przekonań
+a. między pamięcią sensoryczną i krótkotrwałą
+b. podczas przygotowania programu reakcji
+c. podczas myślenia paralelnego
+d. między pamięcią krótkotrwałą i trwałąx
 
-1. Cechą charakterystyczną paradygmatu przetwarzania informacji (metafory komputerowej) w psychologii poznawczej jest założenie, że:
+Równoległe przetwarzanie informacji jest charakterystyczne dla
 
-a) nie da się wyróżnić poszczególnych faz procesu przetwarzania informacji
-b) procesy poznawcze można wyjaśnić bez odwoływania się do architektury realizującego je urządzeniax
-c) procesy poznawcze są zdeterminowane określoną budową mózgu
-d) wszystkie powyższe odpowiedzi są prawdziwe
+a. czynności złożonych, które niedawno zostały opanowane
+b. wczesnych faz przetwarzania, mających charakter automatycznyx
+c. pisania tekstów i opowiadania historii
+d. uwagi dowolnej
 
-2. Znajomość danej sytuacji będzie ________ wpływ oczekiwań i _________ wpływ bezpośrednich danych percepcyjnych na interpretację sytuacji.
+Kiedy posługujemy się dyferencjałem semantycznym, odwołujemy się do następującego sposobu ujmowania struktur poznawczych
 
-a. zmniejszała/ zwiększała
-b. zwiększała/ zmniejszałax
-c. zmniejszała/ zmniejszała
-d. zwiększała/ zwiększała
+a. zbioru konstruktów
+b. czynników o wysokim poziomie artykulacji
+c. zbioru wymiarówx
+d. zbioru dystraktorów
 
-3. Czas reakcji w badaniach procesów poznawczych
+Przetwarzanie 'góra-dół' jest postulowane wprost przez
 
-a)jest jedną z najczęściej występujących zmiennych niezależnych
-b)może być wskaźnikiem złożoności procesux
-c)wykorzystywany jest tylko w badaniu małych dzieci
-d)nie jest wykorzystywany w schematach eksperymentalnych
+a. ekologiczną teorię spostrzegania
+b. model analizowania cech
+c. koncepcję spostrzegania barw
+d. konstruktywistyczne podejście do spostrzeganiax
 
-4. Efekt „cocktail party”, eksperymenty Gray’a i Wedderburna oraz Treisman i badania von Wrighta, wykorzystujące reakcję skórno-galwaniczną wskazują na to, że bodźce, na które nie zwracamy uwagi przetwarzane są na poziomie:
+Zjawisko subcepcji polega na
 
-a)fizycznym
-b)semantycznymx
-c)fonetycznym
-d)słuchowym
+a. różnicowaniu bodźców bez udziału świadomościx
+b. spostrzeganiu bodźców powyżej progu górnego
+c. wykorzystywaniu zasobów uwagowych w zadaniu podwójnym
+d. blokowaniu pamięci krótkotrwałej przez wcześniejsze doświadczenia
 
-1. Sieci neuronowe
+Jeśli mówimy, że łóżko służy do spania, a długopis do pisania, to wskazujemy na
 
-a) łatwo wykrywają regularnościx
-b) każdy węzeł sieci zawsze odpowiada konkretnemu pojęciu
-c) nie nadają się do modelowania uczenia
-d) są typowym systemem sekwencyjnego przetwarzania informacji
+a. afordancjex
+b. zawartość pamięci epizodycznej
+c. dystraktory
+d. kody fizyczne w rozumieniu Posnera
 
-2. Co to są mapy cech w mózgu?
+Aktywność układu siatkowatego wzgórza pozwala na wyjaśnienie
 
-a) złożone struktury pojęciowe, za pomocą których uczymy się klasyfikować przedmioty za pomocą położenia
-b) struktury w korze wzrokowej o organizacji retinotopowej, w których reprezentowane jest położenie w polu wzrokowym takich elementów jak: linie, kolory, oddzielnie dla każdej grupy cechx
-c) struktury w korze wzrokowej o organizacji retinotopowej, w których reprezentowane jest położenie w polu wzrokowym takich elementów jak: linie, kolory, wspólnie dla każdej grupy cech
-d) struktury kory czołowej, w której tworzone są skojarzenia pomiędzy cechami obiektów
+a. działania uwagi
+b. reminiscencji
+c. różnic między „wiem” i „pamiętam”
+d. prezentacji sekwencyjnej w eksperymencie Posnerax
 
-Złudzenie Ebinghause’a polega na przecenianiu wielkości koła otoczonego przez mniejsze kółka w porównaniu z kołem takiej samej średnicy otoczonym przez podobne koła. Złudzenie to:
+Interpretowanie wszystkich pasażerów stojących na przystanku jako „kanarów” to przykład
 
-a) nasila się, gdy mierzona reakcja polega na dopasowaniu rozwarcia palców przy sięganiu po krążek
-b) słabnie lub zanika, gdy mierzona reakcja polega na dopasowaniu rozwarcia palców przy sięganiu po krążekx
-c) nie występuje, gdy badanym zasłoni się jedno oko
-d) naturalnie występuje tylko u dzieci, u dorosłych świadczy o zaburzeniu kory mózgowej`
+a. obronności percepcyjnej
+b. aktywacji autonomicznej
+c. zaburzenia pamięci krótkotrwałej
+d. fałszywego alarmux
 
-W swojej teorii percepcji bezpośredniej Gibson twierdził, że:
+Spośród wielu możliwych sposobów tworzenia reprezentacji kategorii ludzie preferują te, które
 
-a) postrzegamy wyłącznie wyższe funkcje przedmiotów
-b) ruch obserwatora powinien zostać wyeliminowany w badaniach percepcji
-c) nasze zmysły są – ewolucyjnie rzecz ujmując – jeszcze bardzo niedoskonałe
-d) dane zmysłowe są znacznie bogatsze i bardziej jednoznaczne niż zakładają teorie konstruktywistycznex
+a. nobilituje zgoda społeczna
+b. wykorzystują maksymalną liczbę cech różniących obiekty wewnątrz kategorii
+c. odwołują się do wyobrażeń
+d. wykorzystują w pierwszym rzędzie takie cechy jak barwax
 
-5. Najwcześniejsze odkrycia dotyczące wyodrębnionych i zlokalizowanych funkcji poznawczych mózgu dotyczyły:
+U szympansów występuje zdolność do spostrzegania sztucznie wprowadzonych zmian wyglądu na podstawie odbicia w lustrze. Interpretuje się to jako dowód
 
-a) rozumienia i posługiwania się językiem (Wernicki, Brocka)x
-b) funkcji wykonawczych (Łuria)
-c) pamięci (Altzscheimer)
-d) logiki (Hipokrates)
+a. poczucia ja
+b. pamięci ikonicznej
+c. różnic między pamięcią krótkotrwałą i trwałą
+d. poczucia stałości jax
 
-6. Zgodnie z koncepcją uwagi M. Posnera (1980 i później), zahamowanie uwagowego odruchu orientacyjnego odpowiada mechanizm ______, natomiast mechanizm ______ włącza się, gdy w polu percepcyjnym zachodzi zmiana.
+Ludzie bardzo szybko reagują na ważne informacje z własnej przeszłości. Jest to zgodne z
 
-a) aktywacyjny / zarządczy
-b) zarządczy / orientacyjny
-c) aktywacyjny / orientacyjnyx
-d) orientacyjny / aktywacyjny
+a. koncepcją podwójnego kodowania
+b. modelem rozprzestrzeniającego się pobudzenia
+c. koncepcją postaciową spostrzeganiax
+d. ustąpieniem amnezji dziecięcej
 
-7. O intencjonalności stanów umysłu (lub reprezentacji umysłowych) mówimy z definicji, gdy:
+Określenie 'wiedza, że...' stało się punktem wyjścia dla wprowadzenia pojęcia
 
-a) są ukierunkowane na elementy zewnętrznej rzeczywistościx
-b) są przejawem ogólnych emocji i popędów, jak np. lęk
-c) stanowią wyobrażenie sekwencji zdarzeń powiązanych przyczynowo
-d) są wyrażone w kodzie werbalnym
+a. pamięci deklaratywnejx
+b. pamięci epizodycznej
+c. pamięci niedeklaratywnej
+d. efektu torowania
 
-8. Zdaniem E. Rosch i współpracowników, prototyp kategorii charakteryzuje się najwyższym poziomem podobieństwa rodzinnego, czyli:
+Znajomość danej sytuacji będzie ________ wpływ oczekiwań i _________ wpływ bezpośrednich danych percepcyjnych na interpretację sytuacji. 
 
-a) największym podobieństwem do innych desygnantów kategorii
-b) najmniejszym podobieństwem do obiektów spoza kategorii
-c) największym podobieństwem do innych desygnantów kategorii i najmniejszym podobieństwem do obiektów spoza kategoriix
-d) największym podobieństwem zarówno do innych desygnantów kategorii jak i do obiektów spoza kategorii
+a. zmniejszała / zwiększała 
+b. zwiększała / zmniejszałax
+c. zmniejszała / zmniejszała 
+d. zwiększała / zwiększała 
 
-9. W eksperymencie Sperlinga zmiana długości przerwy pomiędzy prezentacją tablicy z literami a tonem pozwalała na:
+Czas reakcji w badaniach procesów poznawczych 
 
-a) ocenę pojemności informacyjnej bufora sensorycznego
-b) powtarzanie liter przez osobę badaną
-c) ocenę czasu przechowywania w buforze sensorycznymx
-d) zablokowanie efektu nastawienia uwagi osoby badanej
+a. jest jedną z najczęściej występujących zmiennych niezależnych 
+b. może być wskaźnikiem złożoności procesux
+c. wykorzystywany jest tylko w badaniu małych dzieci 
+d. nie jest wykorzystywany w schematach eksperymentalnych 
 
-10. Węże należą do obiektów szczególnie łatwo wykrywalnych w polu percepcji
+Cechą charakterystyczną paradygmatu przetwarzania informacji (metafory komputerowej) w psychologii poznawczej jest założenie, że 
 
-a) u małp, ale nie u ludzix
-b) u ptaków, ale nie u ssaków
-c) u dorosłych tylko w kulturach pierwotnych, mających częsty kontakt z wężami
-d) u ludzie, w tym także u małych dzieci (do ok. 3 lat)
+a. nie da się wyróżnić poszczególnych faz procesu przetwarzania informacji 
+b. procesy poznawcze można wyjaśnić bez odwoływania się do architektury realizującego je urządzeniax
+c. procesy poznawcze są zdeterminowane określoną budową mózgu 
+d. wszystkie powyższe odpowiedzi są prawdziwe 
 
-11. Zgodnie z założeniem metody addytywnej pomiaru czasu reakcji
+Reprezentacja wiedzy
 
-a) równoczesne wykonywanie dwóch zadań zawsze wydłuża czas wykonywania danego zadanie o stały składnik związany z drugim zadaniem
-b) równoczesne wykonywanie dwóch zadań istotnie wydłuża czas wykonywania danego zadania, tylko jeżeli zadanie to aktywuje te same zasoby (reprezentacje, procesy poznawcze)x
-c) torowanie powoduje skrócenie czasu reakcji
-d) torowanie powoduje wydłużenie czasu reakcji
+a. zawsze tworzona jest w oparciu o bezpośrednie dane percepcyjne
+b. może ułatwiać przebieg procesów percepcyjnych
+c. może zaburzać przebieg procesów percepcyjnych
+d. może zarówno ułatwiać, jak i zaburzać przebieg procesów percepcyjnychx
 
-12. Zasada przetargu między szybkością a poprawnością polega na tym, że:
+Do funkcji zarządczych (wykonawczych), wiązanych przede wszystkim z funkcjonowaniem okolic przedczołowych mózgu zalicza się zwykle
 
-a) w zadaniach z presją czasową silnie wzrasta liczba poprawnych reakcji
-b) w zadaniach presją czasową badani nie są w stanie uzyskać szybkich i poprawnych reakcjix
-c) zadania proste są wykonywane szybciej niż złożone bez zwiększenia liczby błędów
-d) wzrasta liczba fałszywych alarmów, natomiast liczba poprawnych reakcji nie ulega zmianie
+a. przerzutność (przełączanie) i hamowaniex
+b. percepcję czuciową, uwagę wzrokową i hamowanie
+c. przerzutność i percepcję twarzy
+d. hamowanie i percepcję twarzy
 
-13. W badaniu D. Siemensona, dotyczącym nie dostrzegania zmiany, badani nie dostrzegli aktora przebranego za goryla, poruszającego się na 1-szym planie sceny
+Reakcja BOLD (reakcja hemodynamiczna; lokalna zmiana ukrwienia mózgu)
 
-a) ponieważ uwaga u ludzi nie jest wyczulona na cechy ruchu biologicznego
-b) ruch goryla był bardzo powolny
-c) badani byli skoncentrowani na innym zadaniux
-d) badani grali w koszykówkę
+a. pozwala określić zmiany aktywności mózgu z dużą rozdzielczością czasową (poniżej 0,1 s)
+b. jest wykorzystywana w funkcjonalnym obrazowaniu mózgu metodami fNIRS i fMRIx
+c. jest wykorzystywana w metodach elektroencefalograficznych (EEG)
+d. nie daje możliwości uzyskania wysokiej rozdzielczości przestrzennej lokalizacji miejsca aktywacji mózgu (średni błąd pomiaru powyżej 2 cm)
 
-14. Efekt Stroopa polega na tym, że
+Rozumowanie indukcyjne polega na
 
-a) badani szybciej reagują na docierające z tła informacje ich dotyczące niż neutralnex
-b) badani potrzebują dodatkowego czasu na nazwanie koloru liter, gdy składają się one w nazwę innego koloru z powodu interferencji
-c) badani potrzebują dodatkowego czasu na nazwanie koloru liter, gdy składają się one w nazwę tego koloru z powodu obciążenia pamięci roboczej
-d) badani potrzebują mniej czasu na nazwanie koloru liter, gdy składają się w nazwę tego koloru, niż na nazwanie koloru jednobarwnego prostokąta dzięki transferowi pozytywnemu
+a. wyprowadzeniu szczegółowego wniosku ze znanego wcześniej ogólnego prawa
+b. wyprowadzeniu ogólnej reguły (prawa) ze skończonej liczby dokonanych obserwacjix
+c. odrzuceniu hipotezy, gdy zaobserwowany zostanie sprzeczny z nią stan rzeczywistości
+d. nieuwzględnianiu prawdopodobieństwa zdarzeń przy podejmowaniu decyzji
 
-15. Tworząc kategorię (pojęcie) człowiek
+To, co możemy zrobić z danym przedmiotem wydaje się być ważną informacją percepcyjną, według Gibsona postrzeganą bezpośrednio. Gibson nazwał to postrzeganiem w terminach
 
-a) traktuje poszczególne cechy jako niezależne
-b) nadaje poszczególnym cechom równe wagi
-c) uwzględnia związki przyczynowe między cechami obiektux
-d) kieruje się podobieństwem koloru, ale nie uwzględnia podobieństwa kształtu
+a. indywiduacji
+b. cech
+c. akomodacji
+d. afordancjix
 
-16. Zgodnie z teorią integracji cech A. Treisman i współpracowników, w sytuacjiprzetwarzania informacji poza ogniskiem uwagi cechy obiektów
+Które z wymienionych zjawisk nie jest bezpośrednio wykorzystywane w percepcji głębi (przestrzeni)?
 
-a) mogą być integrowane w folderach obiektów losowo
-b) mogą być integrowane (czasem błędnie) na podstawie wcześniejszej wiedzy
-c) są reprezentowane w postaci map cech w polach wzrokowych (w płaciepotylicznym)
-d) wszystkie powyższe odpowiedzi są poprawnex
+a. zmiana gradientu faktury
+b. paralaksa ruchowa (zmiana względnego położenia przedmiotów wywołana ruchem obserwatora)
+c. zasada podobieństwax
+d. widzenie dwuoczne
 
-17. Metody neuroobrazowania
+Pasy Macha
 
-a) pozwalają na dokładne modelowanie przetwarzania informacji w układzienerwowym
-b) skutecznie działają tylko w skali mikro (pojedynczych neuronów)
-c) różnicując korelaty mózgowe procesów poznawczych pozwalają ocenić realność postulowanych reprezentacji lub procesówx
-d) nie są odpowiednie do badania dzieci poniżej 3rż, bo wymagają świadomych reakcji
+a. to złudzenie powstające, gdy spostrzegany obiekt porusza się z prędkością ponaddźwiękową 
+b. to złudzenie związane z organizacją funkcjonalną komórek zwojowych w siatkówce okax
+c. to typowe zadanie testujące ostrość wzroku
+d. to złudzenie polegające na rozmyciu granic między silnie kontrastowymi polami
 
-18. Metawiedza to
+Eksperyment 'chińskiego pokoju'
 
-a) wiedza nabyta w celowym, upośrednionym kulturowo procesie nauczania
-b) wiedza osoby o zawartości posiadanej przez nią wiedzyx
-c) synonim terminu wiedza proceduralna
-d) dział epistemologii stosowanej
+a. to eksperyment demonstrujący złudzenie percepcyjne, w którym ludzie wydają się mniejsi niż rzeczywiście
+b. to eksperyment poznawczy zaproponowany przez J. Serle'a, wskazujący na znaczenie intencjonalności reprezentacji poznawczej
+c. to eksperyment poznawczy zaproponowany przez J. Serle'a, wykazujący całkowitą bezcelowość tworzenia systemów inteligentnych
+d. to eksperyment poznawczy zaproponowany przez J. Serle'a, wykazujący, że przy odpowiedniej instrukcji możliwe jest porozumienie się w obcym języku bez rzeczywistego zrozumienia wypowiadanych formuł językowychx
 
-20. Zgodnie z koncepcją kontroli poznawczej T. Shallice’a, system kontroli czynności automatycznych
+Spostrzeganie i rozpoznawanie twarzy
 
-a) jest czynny cały czas w trakcie wykonywania zadania nawykowego
-b) włącza się w przypadku konfliktu dwóch wykonywanych jednocześnie procesów automatycznychx
-c) włącza się w sytuacjach nowych, kiedy konieczne jest zahamowanieautomatyzmów
-d) automatycznie powoduje wyłączenie systemu zadaniowego
+a. jest zdolnością specyficzną dla człowieka
+b. zachodzi równie łatwo, gdy twarz jest ułożona standardowo, jak i wtedy, gdy twarzy jest obrócona w osi góra-dół
+c. jest oparte na odrębnej analizie poszczególnych elementów (oczu, ust itp.)
+d. wykorzystuje mechanizmy zarówno korowe, jak i podkorowex
 
-21. Użycie modelu lub symulacji danej funkcji poznawczej jest korzystne, gdyż ____, ale też niebezpieczne, bo _____
+W hipokampie i sąsiednich strukturach kory mózgowej znajdują się neurony najsilniej aktywujące się, gdy
 
-a) dostarcza dowodów na to, że postulowanie wyjaśnienia funkcji jest spójne i możliwe do zrealizowania / model może działać dzięki mechanizmom, które niekoniecznie mają odpowiednik w wyjaśnionym procesie poznawczym
-b) jest dobrym sprowadzeniem kompletności i spójności teorii / model pozwala na zbyt konkretne przewidywaniax
-c) daje gwarancję, że znaleźliśmy właściwe wyjaśnienie danego procesu / powoduje, że przestajemy szukać innych wyjaśnień
-d) można zastąpić pracę człowieka komputerem symulującym tę funkcję / grozi nam bezrobocie
-
-22. W hipokampie i sąsiednich strukturach kory mózgowej znajdują się neurony najsilniej aktywujące się
-
-a) gdy zwierzę utrzymuje głowę zwrócone w danym kierunkux
-b) gdy punkt wyjścia przestaje być widoczny
-c) gdy droga przebyta przez zwierzę utworzy regularny kształt geometryczny (trójkąt,kwadrat lub okrąg)
-d) odpowiedzi a i c są poprawne
-
-24. Na podstawie szeregu badań neurokognitywistycznych w ostatniej dekadzie XX w. sformułowano hipotezę dwóch szlaków przetwarzania informacji percepcyjnej. Zgodnie z tą hipotezą wyróżniamy następujące szlaki:
-
-a
-b
-c) brzuszny – przetwarzający informację o cechach obiektu i grzbietowy – przetwarzający informację o ruchu i położeniu obiektu w przestrzenix
-d
-
-25. Zjawisko torowania (poprzedzania) semantycznego polega na tym że:
-
-a
-b) czas rozpoznania słowa jest krótszy, gdy przed nim pojawiło się słowo powiązane z nim znaczeniowox
-c
-d
-
-26. W kategorialnej percepcji dźwięków mowy mogą być wykorzystywane wskazówki:
-
-a) prozodyczne i motoryczne
-b) motoryczne i fonetyczne
-c) fonetyczne i prozodycznex
-d) zarówno prozodyczne, motoryczne i fonetyczne
-
-27. Przeskakiwanie sześcianu Neckera to zjawisko wskazujące o tym, że
-
-a
-b
-c
-d) w niezmiennej sytuacji bodźcowej system poznawczy aktywnie poszukuje nowych organizacji pola percepcyjnegox
-
-28. System, który przeszedł test Turinga z wynikiem pozytywnym, to:
-
-a
-b
-c) komputer, którego zachowanie podczas rozmowy nie daje się rozróżnić od zachowania człowiekax
-d
-
-29. Współczesne badania pozwalają przypuszczać, że dzieci reprezentują stałość przedmiotu w ____, o czym świadczą eksperymenty z procedury _____
-
-a) pierwszych 6 msc. życia / habituacji lub naruszania oczekiwańx
-b) drugim roku życia / zadanie A nie B
-c) czwartym roku życia / habituacji lub testu fałszywych przekonań
-d) siódmym roku życia / pomiarem operacji konkretnych
-
-30. Określenie „rewolucja poznawcza” odnosi się do:
-
-a
-b
-c) wyłonienia się nowego paradygmatu w badaniach nad ludzkim zachowaniem ok. 1950-60 r.x
-d
-
-31. Heurystyki to takie metody rozwiązywania problemów, które z założenia:
-
-a
-b
-c
-d) upraszczają procedury rozwiązania problemu, nie dając jednak pewności uzyskania rozwiązaniax
-
-32. Eksperci
-
-a
-b
-c) w swojej dziedzinie wykazują się sprawniejszą pamięciąx
-d
-
-36. Błąd fałszywego alarmu to ____, natomiast błąd pominięcia to ______
-
-a
-b) została wykonana przez zależność czasu decyzji od kąta, o który został obrócony bodziec testowy
-c) nieuzasadniona negatywna reakcja emocjonalna / brak adekwatnej do sytuacji reakcji emocjonalnejx
-d
-
-37. Rotacja mentalna w eksperymentach Sheparda i współpracowników
-
-a
-b) została wykonana przez zależność czasu decyzji od kąta, o który został obrócony bodziec testowyx
-c
-d
-
-40. Funkcje wykonawcze (zarządcze) są elementem systemu umysłowego, który służy rozwiązywaniu problemu
-
-a) ograniczonych zasobów umysłu
-b) efektywność działania poprzez równoczesne nieświadome przetwarzanie wielu wątków informacji
-c) integracji informacji w procesie syntezji
-d) wszystkich powyższychx
-
-8. Wg teorii prototypów Rosch pojecie na poziomie podstawowym jest:
-
-a) jednostkowe
-b) (jakiś przymiotnik) konkretne
-c) średnio abstrakcyjnex
-d) wysoce abstrakcyjne.
-
-16. Przeprowadzono badania nad odnoszeniem sukcesów na studiach, dobrym predyktorem jest:
-
-a) inteligencja ogólnax
-b) inteligencja emocjonalna
-c) twórczość ?jakaś?
-d) twórczość ?jakaś inna?
-
-26. Krzywa zapominania to:
-
-a) funkcja logarytmiczna
-b) wykres w kształcie S
-c) krzywa Gaussax
-d) w kształcie U
-
-1.Tworzenie reprezentacji kategorialnych umożliwia
-
-a)redukcję nadmiarowej informacji
-b)wnioskowanie o cechach niedostępnych percepcyjnie
-c)jednolitą reakcję na znacznie różniące się elementy przynależące do tej samej kategorii
-d)wszystkie odpowiedzi są poprawnex
-
-2.System komunikacji pszczół charakteryzuje się cechą.....natomiast nie ma cechy.....
-
-a)kompozycjonalności/przemieszczania
-b)słabej specjalizacji/transmisji kulturowej
-c)przemieszczania/transmisji kulturowejx
-d)transmisji kulturowej/przemienności ról
-
-3.Efekt histerezy występuje gdy 
-
-a)na wiosnę ludzie jeszcze noszą puchowe kurtki przy 6 stopniach,a na jesieni już przy 10
-b)na wiosnę ludzie jeszcze noszą puchowe kurtki przy 10 stopniach, a na jesieni już przy 6x
-c)na wiosnę ludzie noszą puchowe kurtki przy 6 stopniach i na jesieni też przy 6
-d)żadna z powyższych odpowiedzi
-
-4.W teorii dwóch systemów wzrokowych Normana (system brzuszny i grzbietowy) zasadniczy podział funkcji tych systemów dotyczy
-
-a)procesów lokalizacji przestrzennej i procesu analizy cech i identyfikacji przedmiotux
-b)procesu analizy cech i procesu integracji cech
-c)podświadomych i świadomych procesów spostrzegania 
-d)procesów intencjonalnych i procesów mimowolnych w spostrzeganiu 
-
-5.,,Naiwne teorie,,
-
-a)to określenie teorii poznawczych sprzed powstania paradygmatu przetwarzania informacji 
-b)to specyficzne dla autyzmu zaburzenia procesów poznawczych 
-c)to systemy przekonań dzięki którym reprezentacje kategorii oparte są o spójne systemy cechx
-d)to określenie wewnętrznej reprezentacji tez naukowych u studentów i uczniów we wczesnym okresie edukacji
-
-6.W artykule ,,Systemy polimorficzne,, U.Neisser sugeruje równoczesne funkcjonowanie w umyśle trzech systemów przetwarzania informacji dochodzącej ze srodowiska, są to 
-
-a)spostrzeganie bezpośrednie, rozpoznawanie obiektów, spostrzeganie interpersonalnex
-b)percepcja, pamięć, myślenie
-c)percepcja, pamięć, podejmowanie decyzji
-d)spostrzeganie bezpośrednie, spostrzeganie interpersonalne, system reakcji warunkowych
-
-7.Efekt ,,coctail-party,, polega na
-
-a)pogorszeniu uwagi pod wpływem alkoholu 
-b)pogorszeniu uwagi w warunkach nadmiaru informacji
-c)wyczuleniu na istotne informację ( np.własne imie) w tle głównego strumienia informacjix
-d)przyspieszenia reakcji na istotne informacje (np.wlasne imię) w głównym strumieniu
-
-8.Wybierz zestaw składników systemu pamięci roboczej, który tafnie przypisuje je do modelu Baddeleya i Hitcha(litera B) oraz do modelu Cowana (litera C)
-
-a)pętla fonologiczna (C), centralny system wykonawczy (B), uwaga wzrokowa (B i C )
-b)szkicownik wzrokowo-przestrzenny (B) , hipokamp (C), magazyn wzorców działania (B i C ) 
-c)centralny system wykonawczy ( B i C) , szkicownik wzrokowo-przestrzenny (B), pętla fonologiczna (B)x
-d)pamięć ikoniczna (B), pamięć echoiczna (B), ognisko uwagi (C)
-
-9.Zgodnie z teorią trzech poziomów reprezentacji pojęciowych E.Rosch
-
-a)poziom podrzędny obejmuje najbardziej ogólne pojęcia 
-b)pojęcia z poziomu nadrzędnego opisane są na dużej liczbie cech
-c)poziom nadrzędny i podrzędny są wcześniejsze rozwojowo niż poziom podstawowy 
-d)identyfikacja desygnatów pojęcia na poziomie podstawowym następuje szybciej niż na dwóch pozostałych poziomach 
-
-10.Cechą charakterystyczną paradygmatu przetwarzania informacji (metafory komputerowej ) w psychologii poznawczej jest zalozenie ze
-
-a) nie da sie wyroznic poszczegolnych faz procesu przewarzania informacji
-b)procesy poznawcze mozna wyjasnic bez odwolania se do architektury realizujacegosie urzadzeniax
-c) procesy poznawcze sa zdetermnowane okreslona budowa mozgu
-d)wszystkie odpowiedzi sa poprawane
-
-11. znajomosc dnej sytuacji bedzie....  wplyw oczeiwan i ... wplyw bezposrednih danych percepcyjnych na interpretacje sytuacji.
-
-a) zmniejsza/ zwieksza
-b) zwieksza / zmniejszax
-c) zmniejszala /zmniejszyla
-d) zwiekszala / zwiekszala
-
-12.czas reakcji w badanich procesow poznawczych 
-
-a) jest jedna z najczesciej wystepujacych zmiennych niezaleznych
-b) moze byc wskaznikiem zlożoności procesux
-c) wykorzystywany jest tylko wbadanaich malych dzieci
-d)nie jest wykorzystywany w schemaie eksperymentalnym
-
-13. efekt,, coktail party,, ekseperymenty Graya i Wedderburna oraz Tresman i badania van Wrighta reakcje skorno- galwaniczna wskazuja na to ze bodzce na ktore nie zwracamu uwagi przetwarzane sa na poziomie
-
-a) fizycznym
-b)semantyczymx
-c) fonetycznym
-d) sluchowym
-
-14.efekt histerezy
-
-a) to tendencja do utrzymania stalej interpretacji stopniowo zmieniajacego sie bodzca
-b) to dendencja do zmiany po pewnym czasie interpretacji niezmiennego bodzca np szescianu Neckera
-c) to efekt zbyt gwałtownego ( histerycznego) poudzena w sytuacji gwałtownej zmiany bodzca
-d) stopniowa zmiana bodźcax
+a. zwierzę znajduje się w danym punkcie przestrzeni
+b. zwierzę zbliża się do wyraźnej granicy obszaru (np. ściany)
+c. gdy punkt wyjście przestaje być widoczny
+d. odpowiedzi a i b są prawdziwex
