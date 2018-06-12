@@ -663,7 +663,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c. w swojej dziedzinie wykazują się sprawniejszą pamięcią", 
-                false
+                true
             ], 
             [
                 "d. w swojej dziedzinie gorzej niż nowicjusze zapamiętują nowe fakty z powodu przeładowania pamięci", 
