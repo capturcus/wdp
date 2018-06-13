@@ -735,6 +735,27 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
+        "prompt": "O biologicznych postawach nabywania języka świadczyć może następujące zjawisko", 
+        "options": [
+            [
+                "a. dzieci rozumieją tylko poprawne gramatycznie wypowiedzi", 
+                false
+            ], 
+            [
+                "b. często pojawienie się w mowie dorosłych wypowiedzi korygujących nieprawidłowe wypowiedzi dziecka", 
+                false
+            ], 
+            [
+                "c. różny przebieg nabywania języka mówionego i migowego", 
+                false
+            ], 
+            [
+                "d. obecność okresów krytycznych podczas nauki pierwszego języka", 
+                true
+            ]
+        ]
+    }, 
+    {
         "prompt": "Błąd fałszywego alarmu to ____, natomiast błąd pominięcia to ______.", 
         "options": [
             [
@@ -1071,19 +1092,19 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "Jeśli dziecko nazywa tatą każdego mężczyzne oznacza to, że popełnia błąd", 
+        "prompt": "Jeśli dziecko nazywa tatą każdego mężczyznę oznacza to, że popełnia błąd", 
         "options": [
             [
                 "a. abstrakcji negatywnej", 
-                false
-            ], 
-            [
-                "b. abstrakcji pozytywnej", 
                 true
             ], 
             [
-                "c. kategoryzacji", 
+                "b. abstrakcji pozytywnej", 
                 false
+            ], 
+            [
+                "c. kategoryzacji", 
+                true
             ], 
             [
                 "d. egzemplarzy", 
@@ -1512,7 +1533,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "W percepcji obiektu wykorzystywana jest informacja statyczna (np. _________) oraz kinematyczna (np._________).", 
+        "prompt": "W percepcji obiektu wykorzystywana jest informacja statyczna (np. _________) oraz kinetyczna (np._________).", 
         "options": [
             [
                 "a. rozkład intensywności światła / intensywność barwy", 
@@ -1701,7 +1722,7 @@ export default class Questions { public static QUESTIONS = [
         ]
     }, 
     {
-        "prompt": "Kiedy posługujemy się dyferencjałem semantycznym, odwołujemy się do następującego sposobu ujmowania struktur poznawczych", 
+        "prompt": "Kiedy posługujemy się dyferencjałem semantycznym, odwołujemy się do pewnego sposobu ujmowania struktur poznawczych, to jest do", 
         "options": [
             [
                 "a. zbioru konstruktów", 
@@ -2136,7 +2157,7 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "d. to eksperyment poznawczy zaproponowany przez J. Serle'a, wykazujący, że przy odpowiedniej instrukcji możliwe jest porozumienie się w obcym języku bez rzeczywistego zrozumienia wypowiadanych formuł językowych", 
+                "d. to eksperyment poznawczy zaproponowany przez J. Serle'a, wykazujący, że przy odpowiedniej instrukcji możliwe jest porozumiewanie się w obcym języku bez rzeczywistego zrozumienia wypowiadanych formuł językowych", 
                 true
             ]
         ]
@@ -2180,6 +2201,699 @@ export default class Questions { public static QUESTIONS = [
             [
                 "d. odpowiedzi a i b są prawdziwe", 
                 true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Oczekiwana subiektywna użyteczność wyniku (SEU) w procesie decyzyjnym", 
+        "options": [
+            [
+                "a. oznacza wartość danej opcji jako funkcję prawdopodobieństwa jej wystąpienia i jej subiektywną wartość dla decydenta", 
+                true
+            ], 
+            [
+                "b. odnosi się tylko do opcji o pozytywnej wartości dla decydenta", 
+                false
+            ], 
+            [
+                "c. uwzględnia wyłącznie obiektywne prawdopodobieństwo wystąpienia danej opcji", 
+                false
+            ], 
+            [
+                "d. wszystkie powyższe odpowiedzi są prawidłowe", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Wskaż na poniższej liście jedyne prawidłowe połączenie badacza - prekursora psychologii poznawczej i jego odkrycia", 
+        "options": [
+            [
+                "a. Phineas Gage - addytywna metoda pomiaru czasu reakcji", 
+                false
+            ], 
+            [
+                "b. William James - mapy poznawcze u pszczół", 
+                false
+            ], 
+            [
+                "c. Edward Tolman - mapy poznawcze u szczurów", 
+                true
+            ], 
+            [
+                "d. Herbert Simon - paradoks ‘chińskiego pokoju’", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Eksperci w danej dziedzinie _____, natomiast nowicjusze _____", 
+        "options": [
+            [
+                "a. wykazują się wyższym poziomem sprawności metapoznawczych / reprezentują problem na poziomie cech powierzchniowych", 
+                true
+            ], 
+            [
+                "b. rozpatrują więcej potencjalnych rozwiązań / dłużej analizują strukturę problemu", 
+                false
+            ], 
+            [
+                "c. nigdy nie popełniają błędów / niemal zawsze popełniają jakiś błąd", 
+                false
+            ], 
+            [
+                "d. charakteryzują się prostą strukturą wiedzy w dziedzinie / tworzą zbyt skomplikowane modele umysłowe", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Badanie A. Kovacs i współpracowników, dotyczące przewidywania wyników zdarzenia, zachodzącego w obecności lub bez obecności drugiego obserwatora (Science, 2010)", 
+        "options": [
+            [
+                "a. wykazało, że niemowlęta nie posiadają mechanizmu rozumienia fałszywych przekonań", 
+                false
+            ], 
+            [
+                "b. wykazało, że zarówno 7-miesięczne dzieci, jak i dorośli automatycznie uwzględniają “wiedzę” innego obserwatora zdarzenia", 
+                true
+            ], 
+            [
+                "c. wykazało, że rozumienie fałszywych przekonań staje się możliwe dopiero ok. 4 roku życia", 
+                false
+            ], 
+            [
+                "d. wykazało, że rozumienie ukrytych emocji pojawia się w rozwoju wcześniej niż rozumienie fałszywych przekonań", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Zaobserwowano, że koniunkcyjne przeszukiwanie pola percepcyjnego trwa dłużej niż przeszukiwanie proste, więc", 
+        "options": [
+            [
+                "a. jest to sprzeczne z teorią integracji cech A. Treisman i współpracowników", 
+                false
+            ], 
+            [
+                "b.  dlatego wyszukiwanie litery Q wśród liter O trwa dłużej niż wyszukiwanie litery O wśród liter Q", 
+                false
+            ], 
+            [
+                "c. dlatego wyszukiwanie litery O wśród liter Q trwa dłużej niż wyszukiwanie litery Q wśród liter O", 
+                true
+            ], 
+            [
+                "d.  jest dowodem błędu koniunkcji we wnioskowaniu indukcyjnym", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Wyjaśnienie funkcjonowania językowego w ramach teorii behawiorystycznej jest trudne (lub jak twierdzą niektórzy - niemożliwe), gdyż", 
+        "options": [
+            [
+                "a. rozumiemy zdania, których nigdy wcześniej nie słyszeliśmy", 
+                true
+            ], 
+            [
+                "b. rodzice dostarczają wystarczających wskazówek do jednoznacznego określenia znaczenia wypowiedzi", 
+                false
+            ], 
+            [
+                "c. mowa kierowana do dziecka różni się od mowy używanej pomiędzy dorosłymi", 
+                false
+            ], 
+            [
+                "d. wszystkie powyższe odpowiedzi są prawdziwe", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Za jedno z przełomowych zdarzeń, traktowanych jako początek współczesnej psychologii poznawczej opartej na paradygmacie przetwarzania informacji uznaje się", 
+        "options": [
+            [
+                "a. opublikowanie pracy na temat ograniczeń pamięci krótkotrwałej (‘The magical number 7+/-2’) Millera", 
+                true
+            ], 
+            [
+                "b. opublikowanie przez Normana koncepcji dwóch systemów przetwarzania informacji", 
+                false
+            ], 
+            [
+                "c. odkrycie przez Paula Brokę ośrodka mowy w płatach czołowych", 
+                false
+            ], 
+            [
+                "d. odkrycie przez C. Wernickego ośrodka mowy w płatach skroniowych", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "W badaniu Posnera i Keele’a dotyczących tworzenia prototypów percepcyjnych uczestnicy badania oglądali", 
+        "options": [
+            [
+                "a. klasyczne sceny przedstawione jako kombinacja kształtów i form", 
+                false
+            ], 
+            [
+                "b. typowe zwierzęta, rośliny i przedmioty codziennego użytku", 
+                false
+            ], 
+            [
+                "c. prototypu chińskich ideogramów", 
+                false
+            ], 
+            [
+                "d. przekształcenia prototypów prostych wzorów (liter lub układów kropek)", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Według teorii modeli umysłowych Philipa Johnsona-Lairda łatwiej jest popełnić błąd w rozumowaniu sylogistycznym, ponieważ", 
+        "options": [
+            [
+                "a. przesłanki opisują dobrze znane reguły społeczne", 
+                false
+            ], 
+            [
+                "b. przesłanki opisują zdarzenia konkretne", 
+                false
+            ], 
+            [
+                "c. można stworzyć wiele modeli umysłowych przesłanek", 
+                true
+            ], 
+            [
+                "d. zagadnienie to nie dotyczy tej teorii", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Znaczne spowolnienie wykonywania zadania przy jego nieznacznej modyfikacji", 
+        "options": [
+            [
+                "a. może pojawić się w poznawczym stadium automatyzacji", 
+                true
+            ], 
+            [
+                "b. może pojawić się w asocjacyjnym stadium automatyzacji", 
+                false
+            ], 
+            [
+                "c. może pojawić się w autonomicznym stadium automatyzacji", 
+                false
+            ], 
+            [
+                "d. jest typowe dla osób dwujęzycznych", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Badania między innymi Heider i Simmel (1994), Khulmeier i in. (2003), Hamlin i in. (2007) oraz Gergerly’ego i in. (1995) dotyczące percepcji ruchu pokazują, że", 
+        "options": [
+            [
+                "a. intencje i cele działania mogą być zrozumiane tylko wtedy, gdy podmiot działania widzi cechy charakterystyczne obiektu w rodzaju twarzy, oczu, ruchomych części ciała", 
+                false
+            ], 
+            [
+                "b. ruch obiektu może dostarczać wystarczających wskazówek do spostrzeżenia i interpretacji działań", 
+                true
+            ], 
+            [
+                "c. zdolność rozpoznawania intencji działań ludzi (i innych obiektów ożywionych) pojawia się stosunkowo późno (ok. 6 roku życia)", 
+                false
+            ], 
+            [
+                "d. dzieci nie rozróżniają obiektów ożywionych i nieożywionych", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Które z poniższych stwierdzeń dotyczących charakterystyki wiedzy i procesów poznawczych ekspertów jest prawdziwe?", 
+        "options": [
+            [
+                "a. eksperci proporcjonalnie więcej czasu niż nowicjusze poświęcają na jakościową analizę (tworzenie reprezentacji) problemu", 
+                true
+            ], 
+            [
+                "b. eksperci proporcjonalnie mniej czasu niż nowicjusze poświęcają na jakościową analizę (tworzenie reprezentacji) problemu", 
+                false
+            ], 
+            [
+                "c. eksperci tworzą reprezentacje problemu na wielu poziomach", 
+                false
+            ], 
+            [
+                "d. eksperci popełniają więcej błędów w przypadkach problemów typowych niż nowicjusze", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Modele komputerowe procesów poznawczych pozwalają", 
+        "options": [
+            [
+                "a. testować kompletność teorii procesów poznawczych", 
+                false
+            ], 
+            [
+                "b. formułować hipotezy, które nie były przewidywane wcześniej", 
+                false
+            ], 
+            [
+                "c. testować realność obliczeniową teorii procesów poznawczych", 
+                false
+            ], 
+            [
+                "d. wszystkie powyższe odpowiedzi są prawidłowe", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Termin ‘myślenie produktywne’ odnosi się do", 
+        "options": [
+            [
+                "a. zdolności do względnie szybkiego generowania prawidłowych rozwiązań problemu", 
+                false
+            ], 
+            [
+                "b. posługiwania się regułami produkcji w rozumieniu teorii ACT* (J. Andersona)", 
+                false
+            ], 
+            [
+                "c. tworzenia nowych rozwiązań problemu lub nowej wiedzy", 
+                true
+            ], 
+            [
+                "d. wnioskowania sylogistycznego", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Mając do wyboru dwa kupony totolotka, ludzie raczej kupiliby kupon ze skreśleniami _________ niż kupon ze skreśleniami _________, gdyż wydawałby im się bardziej _______.", 
+        "options": [
+            [
+                "a. 1, 2, 3, 4, 5, 6 / 44, 45, 46, 47, 48, 49 / dostępny", 
+                false
+            ], 
+            [
+                "b. 2, 5, 14, 25, 29, 41 / 2, 4, 6, 8, 10, 12 / reprezentatywny", 
+                true
+            ], 
+            [
+                "c. 2, 5, 14, 25, 29, 41 / 1, 2, 3, 4, 5, 6 / zakotwiczony", 
+                false
+            ], 
+            [
+                "d. 2, 4, 6, 8, 10, 12 / 1, 2, 3, 4, 5, 6 / przypadkowy", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Zgodnie z postulatem ilości Grice’a, efektywna komunikacja wymaga podawania tych informacji, które są konieczne, a w konsekwencji", 
+        "options": [
+            [
+                "a. efektywna komunikacja wymaga utworzenia przez nadawcę 'naiwnej teorii umysłu'", 
+                true
+            ], 
+            [
+                "b. im więcej informacji zostanie zawartych w przekazie, tym lepiej", 
+                false
+            ], 
+            [
+                "c. nie jest możliwa efektywna komunikacja pomiędzy dziećmi w wieku przedszkolnym", 
+                false
+            ], 
+            [
+                "d. przekaz zawierający błędy gramatyczne nie może spełniać postulatu ilości", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Nieciągłość koloru na granicy i niezależny ruch dwóch powierzchni", 
+        "options": [
+            [
+                "a. są dla systemu percepcyjnego wskazówką, że powierzchnie te należą do dwóch różnych obiektów", 
+                false
+            ], 
+            [
+                "b. spostrzegane równocześnie są dowodem, że osoba badana uległa złudzeniu optycznemu", 
+                true
+            ], 
+            [
+                "c. dostarczają informacji użytecznych dla rozpoznania głębi", 
+                false
+            ], 
+            [
+                "d. odpowiedzi a i c są poprawne", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Czy wiedza deklaratywna może zostać przekształcona w proceduralną?", 
+        "options": [
+            [
+                "a. nie, gdyż te dwa systemy wiedzy są całkowicie odrębne", 
+                false
+            ], 
+            [
+                "b. nie, ponieważ możliwe jest tylko przekształcenie wiedzy proceduralnej w deklaratywną", 
+                false
+            ], 
+            [
+                "c. tak, między innymi poprzez automatyzację", 
+                true
+            ], 
+            [
+                "d. tak, między innymi poprzez werbalizację", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Rozpoznawanie obiektów może opierać się na", 
+        "options": [
+            [
+                "a. analizie elementów składowych (tzw. geonów)", 
+                false
+            ], 
+            [
+                "b. porównywaniu obrazu do zapisanego w pamięci wzorca", 
+                false
+            ], 
+            [
+                "c. dokonywaniu rotacji umysłowej tak, by dopasować obraz do zapamiętanego wzorca", 
+                false
+            ], 
+            [
+                "d. wszystkie poprzednie trzy odpowiedzi są poprawne", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Zjawisko utrzymywania pierwotnej interpretacji bodźca pomimo jego zmiany to", 
+        "options": [
+            [
+                "a. zjawisko phi", 
+                false
+            ], 
+            [
+                "b. efekt histerezy", 
+                true
+            ], 
+            [
+                "c. efekt spójności", 
+                false
+            ], 
+            [
+                "d. zjawisko powidoku", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Niektórzy pacjenci z uszkodzeniami mózgu potrafią poprawnie posłużyć się przedmiotem, choć nie potrafią go nazwać ani określić, do czego służy. Można stwierdzić, że", 
+        "options": [
+            [
+                "a. zaburzona została deklaratywna reprezentacja przedmiotu", 
+                true
+            ], 
+            [
+                "b. zaburzona została proceduralna reprezentacja przedmiotu", 
+                false
+            ], 
+            [
+                "c. zaburzona została wyobrażeniowa reprezentacja przedmiotu", 
+                false
+            ], 
+            [
+                "d. zaburzona została zdolność planowania", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Efekt fiksacji funkcjonalnej polega na tym, że", 
+        "options": [
+            [
+                "a. małpy, ale nie ludzie nie potrafią użyć narzędzia wymagającego złożonej sekwencji ruchów", 
+                false
+            ], 
+            [
+                "b. nawet prosty problem wymagający użycia narzędzia niezgodnie z jego standardową funkcją może stać się trudny", 
+                true
+            ], 
+            [
+                "c. powtarzane jest to samo rozwiązanie, nawet, gdy w nowych warunkach nie prowadzi ono do sukcesu", 
+                false
+            ], 
+            [
+                "d. osobom o osobowości introwertycznej trudno porzucić wcześniejsze procedury działania po podjęciu nowego zadania (funkcji)", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Efekt maskowania występuje w", 
+        "options": [
+            [
+                "a. badaniu pamięci krótkotrwałej, jest to ukrycie bodźca wśród bodźców podobnych", 
+                false
+            ], 
+            [
+                "b. badaniu pamięci ikonicznej, jest to wskazanie strzałką, który bodziec należy przywołać", 
+                false
+            ], 
+            [
+                "c. badaniu pamięci werbalnej, jest to podawanie badanemu skojarzeń ukrywających prawdziwe znaczenie słowa", 
+                false
+            ], 
+            [
+                "d. badaniu pamięci sensorycznej, jest to wymazywanie części zawartości pamięci przez następny bodziec", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Które z poniższych zdań błędnie opisuje różnice w rozwiązywaniu problemów między ekspertem a nowicjuszem?", 
+        "options": [
+            [
+                "a. ekspert poświęca proporcjonalnie więcej czasu na tworzenie reprezentacji problemu", 
+                false
+            ], 
+            [
+                "b. nowicjusz w mniejszym stopniu aktywizuje procesy metapoznawcze (np. monitorowanie strategii)", 
+                false
+            ], 
+            [
+                "c. nowicjusz więcej czasu poświęca na szukanie rozwiązania niż analizę problemu", 
+                false
+            ], 
+            [
+                "d. nowicjusz tworzy reprezentacje problemu oparte na głębokich podobieństwach strukturalnych, a ignoruje podobieństwa zewnętrzne (powierzchniowe, percepcyjne)", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Zależność między strukturą języka a funkcjonowaniem pozajęzykowym przejawia się między innymi", 
+        "options": [
+            [
+                "a. tym, że istnieje związek między kodowalnością kolorów w języku a ich zapamiętywaniem", 
+                false
+            ], 
+            [
+                "b. tym, że jest trudno pomyśleć cokolwiek bez użycia języka", 
+                false
+            ], 
+            [
+                "c. tym, że jeśli w danym języku nie ma jakiejś nazwy, to użytkownicy tego języka nie mogą stworzyć odpowiadającej jej kategorii", 
+                false
+            ], 
+            [
+                "d. wszystkie powyższe odpowiedzi są przejawem tej zależności", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Mianem funkcji wykonawczych (zarządczych) określa się", 
+        "options": [
+            [
+                "a. wzorce reakcji ruchowych (wykonanie zaplanowanych schematów ruchowych)", 
+                false
+            ], 
+            [
+                "b. funkcje sterujące innymi procesami umysłowymi (np. przełączanie/przerzutność, hamowanie)", 
+                false
+            ], 
+            [
+                "c. funkcje płata potylicznego mózgu (np. spostrzeganie, przełączanie)", 
+                false
+            ], 
+            [
+                "d. zarówno odpowiedź b, jak i c jest prawidłowa", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Zgodnie z założeniami paradygmatu przetwarzania informacji", 
+        "options": [
+            [
+                "a. bodziec dystalny jest tożsamy z bodźcem proksymalnym", 
+                false
+            ], 
+            [
+                "b. procesy poznawcze można wyjaśnić między innymi w kategoriach reprezentacji poznawczych", 
+                true
+            ], 
+            [
+                "c. badania empiryczne powinny opierać się głównie na metodach obrazowania pracy mózgu", 
+                false
+            ], 
+            [
+                "d. procesy poznawcze zachodzące pomiędzy pobudzeniem (bodźcem) a reakcją nie mogą być sensownie wyjaśnione", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Zadanie 'A nie B'", 
+        "options": [
+            [
+                "a. służy do testowania różnicowania fonemów przez dzieci", 
+                false
+            ], 
+            [
+                "b. pokazuje, że pierwszych 9 miesiącach życia dzieci nie potrafią zachamować dominującej tendencji do ignorowania stałości przedmiotu", 
+                true
+            ], 
+            [
+                "c. pokazuje, że dziecko dysponuje pojęciem stałości przedmiotu przed 9. miesiącem życia", 
+                false
+            ], 
+            [
+                "d. służy do badania odwzorowywania fonetycznej i graficznej reprezentacji dźwięków mowy", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Według Gibsona (teoria percepcji bezpośredniej) informacja zawarta w środowisku jest _______ i można postrzegać ją jako _______, dlatego też znacznie mniejszą rolę przypisuje się jej przetwarzaniu.", 
+        "options": [
+            [
+                "a. afordancją / semantykę", 
+                false
+            ], 
+            [
+                "b. myląca / złudzenie", 
+                false
+            ], 
+            [
+                "c. niepełna / wyuczenie", 
+                false
+            ], 
+            [
+                "d. dostatecznie bogata / afordancję", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Metoda addytywna pomiaru czasu reakcji S. Sternberga", 
+        "options": [
+            [
+                "a. nie wymaga skonstruowania dwóch lub więcej wersji zadania eksperymentalnego różniących się hipotetyczną liczbą i rodzajem operacji umysłowych", 
+                false
+            ], 
+            [
+                "b. pozwala określić interakcje poszczególnych składników procesu", 
+                true
+            ], 
+            [
+                "c. służy do pomiaru prostego czasu reakcji (np. w badaniach sprawności zawodowej kierowców)", 
+                false
+            ], 
+            [
+                "d. wymaga pomiaru wywołanych potencjałów czynnościowych (ERP)", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Przemieszczenie jako cecha języka ludzkiego polega na tym, że", 
+        "options": [
+            [
+                "a. nowe słowa i konstrukcje językowe rozprzestrzeniają się w danej kulturze", 
+                false
+            ], 
+            [
+                "b. wyrażenia języka mogą odnosić się do rzeczy i zdarzeń odległych w czasie i przestrzeni", 
+                true
+            ], 
+            [
+                "c. różne kultury istotnie różnią się systemami znaczeń", 
+                false
+            ], 
+            [
+                "d. język kształtuje sposób spostrzegania rzeczywistości", 
+                false
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Różnicowanie fonemów", 
+        "options": [
+            [
+                "a. jest zdolnością pojawiającą się już w pierwszym roku życia", 
+                false
+            ], 
+            [
+                "b. oparte jest zarówno na wskazówkach fonetycznych, jak i ruchowych (układ narządów artykulacyjnych)", 
+                false
+            ], 
+            [
+                "c. ma charakter kategorialny", 
+                false
+            ], 
+            [
+                "d. wszystkie trzy powyższe odpowiedzi są poprawne", 
+                true
+            ]
+        ]
+    }, 
+    {
+        "prompt": "Kontroli poznawczej nie podlegają", 
+        "options": [
+            [
+                "a. procesy modułowe", 
+                true
+            ], 
+            [
+                "b. procesy wyobrażeniowe", 
+                false
+            ], 
+            [
+                "c. przywoływanie informacji z pamięci", 
+                false
+            ], 
+            [
+                "d. wnioskowanie logiczne", 
+                false
             ]
         ]
     }

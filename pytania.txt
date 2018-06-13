@@ -243,6 +243,13 @@ b. często pojawienie się w mowie dorosłych wypowiedzi korygujących nieprawid
 c. podobny przebieg nabywania języka mówionego i migowegox
 d. różnorodność gramatyk współcześnie używanych języków
 
+O biologicznych postawach nabywania języka świadczyć może następujące zjawisko
+
+a. dzieci rozumieją tylko poprawne gramatycznie wypowiedzi
+b. często pojawienie się w mowie dorosłych wypowiedzi korygujących nieprawidłowe wypowiedzi dziecka
+c. różny przebieg nabywania języka mówionego i migowego
+d. obecność okresów krytycznych podczas nauki pierwszego językax
+
 Błąd fałszywego alarmu to ____, natomiast błąd pominięcia to ______.
 
 a. reakcja w momencie pojawienia się innego bodźca niż kryterialny / brak reakcji na bodziec kryterialnyx
@@ -355,11 +362,11 @@ b. probabilistyczne
 c. egzemplarzowex
 d. żadne z powyższych
 
-Jeśli dziecko nazywa tatą każdego mężczyzne oznacza to, że popełnia błąd 
+Jeśli dziecko nazywa tatą każdego mężczyznę oznacza to, że popełnia błąd 
 
-a. abstrakcji negatywnej
-b. abstrakcji pozytywnejx
-c. kategoryzacji  
+a. abstrakcji negatywnejx
+b. abstrakcji pozytywnej
+c. kategoryzacjix  
 d. egzemplarzy
 
 Percepcja obiektu
@@ -502,7 +509,7 @@ b. pomiar potencjałów wywołanych ERP / funkcjonalnego rezonansu magnetycznego
 c. tomografia pozytronowa PET / metody podwójnej dysocjacji
 d. funkcjonalny rezonans magnetyczny fMRI / pomiaru potencjałów wywołanych ERPx
 
-W percepcji obiektu wykorzystywana jest informacja statyczna (np. _________) oraz kinematyczna (np._________).
+W percepcji obiektu wykorzystywana jest informacja statyczna (np. _________) oraz kinetyczna (np._________).
 
 a. rozkład intensywności światła / intensywność barwy
 b. intensywność barwy / ukierunkowanie krawędzi
@@ -565,7 +572,7 @@ b. wczesnych faz przetwarzania, mających charakter automatycznyx
 c. pisania tekstów i opowiadania historii
 d. uwagi dowolnej
 
-Kiedy posługujemy się dyferencjałem semantycznym, odwołujemy się do następującego sposobu ujmowania struktur poznawczych
+Kiedy posługujemy się dyferencjałem semantycznym, odwołujemy się do pewnego sposobu ujmowania struktur poznawczych, to jest do
 
 a. zbioru konstruktów
 b. czynników o wysokim poziomie artykulacji
@@ -710,7 +717,7 @@ Eksperyment 'chińskiego pokoju'
 a. to eksperyment demonstrujący złudzenie percepcyjne, w którym ludzie wydają się mniejsi niż rzeczywiście
 b. to eksperyment poznawczy zaproponowany przez J. Serle'a, wskazujący na znaczenie intencjonalności reprezentacji poznawczej
 c. to eksperyment poznawczy zaproponowany przez J. Serle'a, wykazujący całkowitą bezcelowość tworzenia systemów inteligentnych
-d. to eksperyment poznawczy zaproponowany przez J. Serle'a, wykazujący, że przy odpowiedniej instrukcji możliwe jest porozumienie się w obcym języku bez rzeczywistego zrozumienia wypowiadanych formuł językowychx
+d. to eksperyment poznawczy zaproponowany przez J. Serle'a, wykazujący, że przy odpowiedniej instrukcji możliwe jest porozumiewanie się w obcym języku bez rzeczywistego zrozumienia wypowiadanych formuł językowychx
 
 Spostrzeganie i rozpoznawanie twarzy
 
@@ -725,3 +732,234 @@ a. zwierzę znajduje się w danym punkcie przestrzeni
 b. zwierzę zbliża się do wyraźnej granicy obszaru (np. ściany)
 c. gdy punkt wyjście przestaje być widoczny
 d. odpowiedzi a i b są prawdziwex
+
+Oczekiwana subiektywna użyteczność wyniku (SEU) w procesie decyzyjnym
+
+a. oznacza wartość danej opcji jako funkcję prawdopodobieństwa jej wystąpienia i jej subiektywną wartość dla decydentax
+b. odnosi się tylko do opcji o pozytywnej wartości dla decydenta
+c. uwzględnia wyłącznie obiektywne prawdopodobieństwo wystąpienia danej opcji
+d. wszystkie powyższe odpowiedzi są prawidłowe
+
+Wskaż na poniższej liście jedyne prawidłowe połączenie badacza - prekursora psychologii poznawczej i jego odkrycia
+
+a. Phineas Gage - addytywna metoda pomiaru czasu reakcji
+b. William James - mapy poznawcze u pszczół
+c. Edward Tolman - mapy poznawcze u szczurówx
+d. Herbert Simon - paradoks ‘chińskiego pokoju’
+
+Eksperci w danej dziedzinie _____, natomiast nowicjusze _____ 
+
+a. wykazują się wyższym poziomem sprawności metapoznawczych / reprezentują problem na poziomie cech powierzchniowychx
+b. rozpatrują więcej potencjalnych rozwiązań / dłużej analizują strukturę problemu
+c. nigdy nie popełniają błędów / niemal zawsze popełniają jakiś błąd
+d. charakteryzują się prostą strukturą wiedzy w dziedzinie / tworzą zbyt skomplikowane modele umysłowe
+
+Badanie A. Kovacs i współpracowników, dotyczące przewidywania wyników zdarzenia, zachodzącego w obecności lub bez obecności drugiego obserwatora (Science, 2010)
+
+a. wykazało, że niemowlęta nie posiadają mechanizmu rozumienia fałszywych przekonań
+b. wykazało, że zarówno 7-miesięczne dzieci, jak i dorośli automatycznie uwzględniają “wiedzę” innego obserwatora zdarzeniax
+c. wykazało, że rozumienie fałszywych przekonań staje się możliwe dopiero ok. 4 roku życia
+d. wykazało, że rozumienie ukrytych emocji pojawia się w rozwoju wcześniej niż rozumienie fałszywych przekonań 
+
+Zaobserwowano, że koniunkcyjne przeszukiwanie pola percepcyjnego trwa dłużej niż przeszukiwanie proste, więc
+
+a. jest to sprzeczne z teorią integracji cech A. Treisman i współpracowników
+b.  dlatego wyszukiwanie litery Q wśród liter O trwa dłużej niż wyszukiwanie litery O wśród liter Q
+c. dlatego wyszukiwanie litery O wśród liter Q trwa dłużej niż wyszukiwanie litery Q wśród liter Ox
+d.  jest dowodem błędu koniunkcji we wnioskowaniu indukcyjnym 
+
+Wyjaśnienie funkcjonowania językowego w ramach teorii behawiorystycznej jest trudne (lub jak twierdzą niektórzy - niemożliwe), gdyż
+
+a. rozumiemy zdania, których nigdy wcześniej nie słyszeliśmyx
+b. rodzice dostarczają wystarczających wskazówek do jednoznacznego określenia znaczenia wypowiedzi
+c. mowa kierowana do dziecka różni się od mowy używanej pomiędzy dorosłymi
+d. wszystkie powyższe odpowiedzi są prawdziwe
+
+Za jedno z przełomowych zdarzeń, traktowanych jako początek współczesnej psychologii poznawczej opartej na paradygmacie przetwarzania informacji uznaje się
+
+a. opublikowanie pracy na temat ograniczeń pamięci krótkotrwałej (‘The magical number 7+/-2’) Millerax
+b. opublikowanie przez Normana koncepcji dwóch systemów przetwarzania informacji
+c. odkrycie przez Paula Brokę ośrodka mowy w płatach czołowych
+d. odkrycie przez C. Wernickego ośrodka mowy w płatach skroniowych
+
+W badaniu Posnera i Keele’a dotyczących tworzenia prototypów percepcyjnych uczestnicy badania oglądali
+
+a. klasyczne sceny przedstawione jako kombinacja kształtów i form
+b. typowe zwierzęta, rośliny i przedmioty codziennego użytku
+c. prototypu chińskich ideogramów
+d. przekształcenia prototypów prostych wzorów (liter lub układów kropek)x
+
+Według teorii modeli umysłowych Philipa Johnsona-Lairda łatwiej jest popełnić błąd w rozumowaniu sylogistycznym, ponieważ
+
+a. przesłanki opisują dobrze znane reguły społeczne
+b. przesłanki opisują zdarzenia konkretne
+c. można stworzyć wiele modeli umysłowych przesłanekx
+d. zagadnienie to nie dotyczy tej teorii
+
+Znaczne spowolnienie wykonywania zadania przy jego nieznacznej modyfikacji
+
+a. może pojawić się w poznawczym stadium automatyzacjix
+b. może pojawić się w asocjacyjnym stadium automatyzacji
+c. może pojawić się w autonomicznym stadium automatyzacji 
+d. jest typowe dla osób dwujęzycznych
+
+Badania między innymi Heider i Simmel (1994), Khulmeier i in. (2003), Hamlin i in. (2007) oraz Gergerly’ego i in. (1995) dotyczące percepcji ruchu pokazują, że
+
+a. intencje i cele działania mogą być zrozumiane tylko wtedy, gdy podmiot działania widzi cechy charakterystyczne obiektu w rodzaju twarzy, oczu, ruchomych części ciała
+b. ruch obiektu może dostarczać wystarczających wskazówek do spostrzeżenia i interpretacji działańx
+c. zdolność rozpoznawania intencji działań ludzi (i innych obiektów ożywionych) pojawia się stosunkowo późno (ok. 6 roku życia)
+d. dzieci nie rozróżniają obiektów ożywionych i nieożywionych
+
+Które z poniższych stwierdzeń dotyczących charakterystyki wiedzy i procesów poznawczych ekspertów jest prawdziwe? 
+
+a. eksperci proporcjonalnie więcej czasu niż nowicjusze poświęcają na jakościową analizę (tworzenie reprezentacji) problemux
+b. eksperci proporcjonalnie mniej czasu niż nowicjusze poświęcają na jakościową analizę (tworzenie reprezentacji) problemu
+c. eksperci tworzą reprezentacje problemu na wielu poziomach
+d. eksperci popełniają więcej błędów w przypadkach problemów typowych niż nowicjusze
+
+Modele komputerowe procesów poznawczych pozwalają
+
+a. testować kompletność teorii procesów poznawczych 
+b. formułować hipotezy, które nie były przewidywane wcześniej
+c. testować realność obliczeniową teorii procesów poznawczych
+d. wszystkie powyższe odpowiedzi są prawidłowex
+
+Termin ‘myślenie produktywne’ odnosi się do
+
+a. zdolności do względnie szybkiego generowania prawidłowych rozwiązań problemu
+b. posługiwania się regułami produkcji w rozumieniu teorii ACT* (J. Andersona)
+c. tworzenia nowych rozwiązań problemu lub nowej wiedzyx
+d. wnioskowania sylogistycznego
+
+Mając do wyboru dwa kupony totolotka, ludzie raczej kupiliby kupon ze skreśleniami _________ niż kupon ze skreśleniami _________, gdyż wydawałby im się bardziej _______.
+
+a. 1, 2, 3, 4, 5, 6 / 44, 45, 46, 47, 48, 49 / dostępny
+b. 2, 5, 14, 25, 29, 41 / 2, 4, 6, 8, 10, 12 / reprezentatywnyx 
+c. 2, 5, 14, 25, 29, 41 / 1, 2, 3, 4, 5, 6 / zakotwiczony
+d. 2, 4, 6, 8, 10, 12 / 1, 2, 3, 4, 5, 6 / przypadkowy
+
+Zgodnie z postulatem ilości Grice’a, efektywna komunikacja wymaga podawania tych informacji, które są konieczne, a w konsekwencji
+
+a. efektywna komunikacja wymaga utworzenia przez nadawcę 'naiwnej teorii umysłu'x
+b. im więcej informacji zostanie zawartych w przekazie, tym lepiej
+c. nie jest możliwa efektywna komunikacja pomiędzy dziećmi w wieku przedszkolnym
+d. przekaz zawierający błędy gramatyczne nie może spełniać postulatu ilości
+
+Nieciągłość koloru na granicy i niezależny ruch dwóch powierzchni
+
+a. są dla systemu percepcyjnego wskazówką, że powierzchnie te należą do dwóch różnych obiektów
+b. spostrzegane równocześnie są dowodem, że osoba badana uległa złudzeniu optycznemux
+c. dostarczają informacji użytecznych dla rozpoznania głębi
+d. odpowiedzi a i c są poprawne
+
+Czy wiedza deklaratywna może zostać przekształcona w proceduralną? 
+
+a. nie, gdyż te dwa systemy wiedzy są całkowicie odrębne
+b. nie, ponieważ możliwe jest tylko przekształcenie wiedzy proceduralnej w deklaratywną
+c. tak, między innymi poprzez automatyzacjęx
+d. tak, między innymi poprzez werbalizację
+
+Rozpoznawanie obiektów może opierać się na 
+
+a. analizie elementów składowych (tzw. geonów)
+b. porównywaniu obrazu do zapisanego w pamięci wzorca
+c. dokonywaniu rotacji umysłowej tak, by dopasować obraz do zapamiętanego wzorca
+d. wszystkie poprzednie trzy odpowiedzi są poprawnex
+
+Zjawisko utrzymywania pierwotnej interpretacji bodźca pomimo jego zmiany to
+
+a. zjawisko phi
+b. efekt histerezyx
+c. efekt spójności
+d. zjawisko powidoku
+
+Niektórzy pacjenci z uszkodzeniami mózgu potrafią poprawnie posłużyć się przedmiotem, choć nie potrafią go nazwać ani określić, do czego służy. Można stwierdzić, że
+
+a. zaburzona została deklaratywna reprezentacja przedmiotux
+b. zaburzona została proceduralna reprezentacja przedmiotu
+c. zaburzona została wyobrażeniowa reprezentacja przedmiotu
+d. zaburzona została zdolność planowania
+
+Efekt fiksacji funkcjonalnej polega na tym, że 
+
+a. małpy, ale nie ludzie nie potrafią użyć narzędzia wymagającego złożonej sekwencji ruchów
+b. nawet prosty problem wymagający użycia narzędzia niezgodnie z jego standardową funkcją może stać się trudnyx
+c. powtarzane jest to samo rozwiązanie, nawet, gdy w nowych warunkach nie prowadzi ono do sukcesu
+d. osobom o osobowości introwertycznej trudno porzucić wcześniejsze procedury działania po podjęciu nowego zadania (funkcji)
+
+Efekt maskowania występuje w
+
+a. badaniu pamięci krótkotrwałej, jest to ukrycie bodźca wśród bodźców podobnych
+b. badaniu pamięci ikonicznej, jest to wskazanie strzałką, który bodziec należy przywołać
+c. badaniu pamięci werbalnej, jest to podawanie badanemu skojarzeń ukrywających prawdziwe znaczenie słowa
+d. badaniu pamięci sensorycznej, jest to wymazywanie części zawartości pamięci przez następny bodziecx
+
+Które z poniższych zdań błędnie opisuje różnice w rozwiązywaniu problemów między ekspertem a nowicjuszem?
+
+a. ekspert poświęca proporcjonalnie więcej czasu na tworzenie reprezentacji problemu
+b. nowicjusz w mniejszym stopniu aktywizuje procesy metapoznawcze (np. monitorowanie strategii) 
+c. nowicjusz więcej czasu poświęca na szukanie rozwiązania niż analizę problemu
+d. nowicjusz tworzy reprezentacje problemu oparte na głębokich podobieństwach strukturalnych, a ignoruje podobieństwa zewnętrzne (powierzchniowe, percepcyjne)x
+
+Zależność między strukturą języka a funkcjonowaniem pozajęzykowym przejawia się między innymi
+
+a. tym, że istnieje związek między kodowalnością kolorów w języku a ich zapamiętywaniem
+b. tym, że jest trudno pomyśleć cokolwiek bez użycia języka
+c. tym, że jeśli w danym języku nie ma jakiejś nazwy, to użytkownicy tego języka nie mogą stworzyć odpowiadającej jej kategorii
+d. wszystkie powyższe odpowiedzi są przejawem tej zależnościx
+
+Mianem funkcji wykonawczych (zarządczych) określa się
+
+a. wzorce reakcji ruchowych (wykonanie zaplanowanych schematów ruchowych)
+b. funkcje sterujące innymi procesami umysłowymi (np. przełączanie/przerzutność, hamowanie)
+c. funkcje płata potylicznego mózgu (np. spostrzeganie, przełączanie)
+d. zarówno odpowiedź b, jak i c jest prawidłowax
+
+Zgodnie z założeniami paradygmatu przetwarzania informacji
+
+a. bodziec dystalny jest tożsamy z bodźcem proksymalnym
+b. procesy poznawcze można wyjaśnić między innymi w kategoriach reprezentacji poznawczychx
+c. badania empiryczne powinny opierać się głównie na metodach obrazowania pracy mózgu
+d. procesy poznawcze zachodzące pomiędzy pobudzeniem (bodźcem) a reakcją nie mogą być sensownie wyjaśnione
+
+Zadanie 'A nie B'
+
+a. służy do testowania różnicowania fonemów przez dzieci
+b. pokazuje, że pierwszych 9 miesiącach życia dzieci nie potrafią zachamować dominującej tendencji do ignorowania stałości przedmiotux
+c. pokazuje, że dziecko dysponuje pojęciem stałości przedmiotu przed 9. miesiącem życia
+d. służy do badania odwzorowywania fonetycznej i graficznej reprezentacji dźwięków mowy
+
+Według Gibsona (teoria percepcji bezpośredniej) informacja zawarta w środowisku jest _______ i można postrzegać ją jako _______, dlatego też znacznie mniejszą rolę przypisuje się jej przetwarzaniu.
+
+a. afordancją / semantykę
+b. myląca / złudzenie
+c. niepełna / wyuczenie 
+d. dostatecznie bogata / afordancjęx
+
+Metoda addytywna pomiaru czasu reakcji S. Sternberga
+
+a. nie wymaga skonstruowania dwóch lub więcej wersji zadania eksperymentalnego różniących się hipotetyczną liczbą i rodzajem operacji umysłowych
+b. pozwala określić interakcje poszczególnych składników procesux
+c. służy do pomiaru prostego czasu reakcji (np. w badaniach sprawności zawodowej kierowców)
+d. wymaga pomiaru wywołanych potencjałów czynnościowych (ERP)
+
+Przemieszczenie jako cecha języka ludzkiego polega na tym, że 
+
+a. nowe słowa i konstrukcje językowe rozprzestrzeniają się w danej kulturze
+b. wyrażenia języka mogą odnosić się do rzeczy i zdarzeń odległych w czasie i przestrzenix
+c. różne kultury istotnie różnią się systemami znaczeń
+d. język kształtuje sposób spostrzegania rzeczywistości
+
+Różnicowanie fonemów
+
+a. jest zdolnością pojawiającą się już w pierwszym roku życia
+b. oparte jest zarówno na wskazówkach fonetycznych, jak i ruchowych (układ narządów artykulacyjnych)
+c. ma charakter kategorialny
+d. wszystkie trzy powyższe odpowiedzi są poprawnex
+
+Kontroli poznawczej nie podlegają
+
+a. procesy modułowex 
+b. procesy wyobrażeniowe 
+c. przywoływanie informacji z pamięci 
+d. wnioskowanie logiczne
