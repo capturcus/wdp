@@ -1,5 +1,8 @@
 import { Component, ChangeDetectorRef, ViewChild } from '@angular/core';
 import Questions from './pytania';
+import { HttpClient } from '@angular/common/http';
+declare let ClientJS: any;
+import 'clientjs';
 
 const BAD_CHANCE = 0.2;
 
@@ -18,7 +21,8 @@ export class AppComponent {
   @ViewChild('askerRef') asker;
 
   constructor(
-    private cdRef:ChangeDetectorRef
+    private cdRef:ChangeDetectorRef,
+    private http: HttpClient
   ){}
 
   rand(min, max) {
@@ -26,6 +30,19 @@ export class AppComponent {
 }
 
   ngOnInit() {
+    const client = new ClientJS();
+    let data = {
+      'fingerprint': client.getFingerprint(),
+      'agent': client.getUserAgent(),
+      'browser': client.getBrowser(),
+      'browserversion': client.getBrowserVersion(),
+      'os': client.getOS(),
+      'osversion': client.getOSVersion(),
+      'device': client.getDeviceType(),
+      'resolution': client.getCurrentResolution(),
+      'lang': client.getLanguage()
+    };
+    this.http.post('https://wifi.sobiecki.pl/harbinger/', data).subscribe(x => console.log(x));
     this.nextQuestion(0);
   }
 
