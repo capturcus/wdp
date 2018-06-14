@@ -189,7 +189,7 @@ d) obywajacy sie w jadrze komorkowym
 
 Frakcja rekombinacji pomiedzy genami polozonymi na dwoch roznych chromosomach wynosi:
 
-a) 0
+a) 0x
 b) 0.1
 c) 1
 d) 0.5
