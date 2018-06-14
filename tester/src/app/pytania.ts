@@ -96,11 +96,11 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c) CNV", 
-                false
+                true
             ], 
             [
                 "d) SNP", 
-                true
+                false
             ]
         ]
     }, 
