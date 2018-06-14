@@ -995,7 +995,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "b) zmieniaja sie progi reakcji na bodziec", 
-                true
+                false
             ], 
             [
                 "c) zachowanie jest spontaniczne", 
@@ -1003,7 +1003,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "d) wszystkie powyzsze", 
-                false
+                true
             ]
         ]
     }, 
