@@ -330,8 +330,8 @@ export default class Questions { public static QUESTIONS = [
                 false
             ], 
             [
-                "d) wszystkie powyższe ???", 
-                false
+                "d) wszystkie powyższe", 
+                true
             ]
         ]
     }, 
@@ -424,7 +424,7 @@ export default class Questions { public static QUESTIONS = [
         "options": [
             [
                 "a) odruchu repulsyjnego", 
-                true
+                false
             ], 
             [
                 "b) odruchu kichania", 
@@ -432,7 +432,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "c) reakcji startowej", 
-                false
+                true
             ], 
             [
                 "d) reakcji orientacyjnej", 
@@ -571,7 +571,7 @@ export default class Questions { public static QUESTIONS = [
         "options": [
             [
                 "a) 0", 
-                false
+                true
             ], 
             [
                 "b) 0.1", 
@@ -995,7 +995,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "b) zmieniaja sie progi reakcji na bodziec", 
-                true
+                false
             ], 
             [
                 "c) zachowanie jest spontaniczne", 
@@ -1003,7 +1003,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "d) wszystkie powyzsze", 
-                false
+                true
             ]
         ]
     }, 
