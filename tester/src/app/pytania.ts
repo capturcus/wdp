@@ -424,7 +424,7 @@ export default class Questions { public static QUESTIONS = [
         "options": [
             [
                 "a) odruchu repulsyjnego", 
-                true
+                false
             ], 
             [
                 "b) odruchu kichania", 
