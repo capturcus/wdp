@@ -30,8 +30,8 @@ Najczęściej występujące polimorfizmy genetyczne to:
 
 a) VNTR
 b) mikrosatelity
-c) CNVx
-d) SNP
+c) CNV
+d) SNPx
 
 Fazy cyklu w życiu komórki, w której następuje jej podział to:
 
