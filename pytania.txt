@@ -108,7 +108,7 @@ Zachowanie zrytualizowane cechuje:
 a) typowa intensywność
 b) uproszczenie
 c) stereotypizacja
-d) wszystkie powyższe ???
+d) wszystkie powyższex
 
 Gra jastrząb-gołąb modeluje problem:
 
@@ -142,7 +142,7 @@ Odruch wzdrygnięcia to synonim:
 
 a) odruchu repulsyjnegox
 b) odruchu kichania
-c) reakcji startowej
+c) reakcji startowejx
 d) reakcji orientacyjnej 
 
 Stopniowy zanik reakcji (na bodziec) to:
