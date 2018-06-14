@@ -487,11 +487,11 @@ export default class Questions { public static QUESTIONS = [
         "options": [
             [
                 "a) broniony", 
-                false
+                true
             ], 
             [
                 "b) zaspokajający wszystkie potrzeby", 
-                true
+                false
             ], 
             [
                 "c) dający schronienie", 
@@ -583,7 +583,7 @@ export default class Questions { public static QUESTIONS = [
             ], 
             [
                 "d) 0.5", 
-                false
+                true
             ]
         ]
     }, 
