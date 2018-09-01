@@ -42,7 +42,7 @@ export class AppComponent {
       'resolution': client.getCurrentResolution(),
       'lang': client.getLanguage()
     };
-    this.http.post('https://wifi.sobiecki.pl/harbinger/', data).subscribe(x => console.log(x));
+    // this.http.post('https://wifi.sobiecki.pl/harbinger/', data).subscribe(x => console.log(x));
     this.nextQuestion(0);
   }
 
