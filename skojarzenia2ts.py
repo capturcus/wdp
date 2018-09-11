@@ -18,7 +18,7 @@ with io.open("skojarzenia.txt", "r", encoding="utf-8") as f:
     # remove whitespace characters like `\n` at the end of each line
     content = [x.strip() for x in content]
     associatedConcepts = []
-    mainConcept = jsonClean(content[line])
+    mainConcept = jsonClean(content[line])[:-1]
     line += 1
     while line < len(content):
         if content[line].strip() != "":
@@ -30,7 +30,7 @@ with io.open("skojarzenia.txt", "r", encoding="utf-8") as f:
             })
             associatedConcepts = []
             line += 1
-            mainConcept = jsonClean(content[line])
+            mainConcept = jsonClean(content[line])[:-1]
         line += 1
 
 with io.open("tester/src/app/associations.ts", "w", encoding="utf-8") as f:

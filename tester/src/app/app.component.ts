@@ -23,6 +23,8 @@ function shuffle(array) {
   }
 }
 
+const PERSON_QUESTION_PROBABILITY = 0.5;
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -30,7 +32,7 @@ function shuffle(array) {
 })
 export class AppComponent {
   title = 'app';
-  public question: any = {'prompt':'', 'options':[]}
+  public question: any = { 'prompt': '', 'options': [] }
   public randId: number;
   public questionsAsked: number = 0;
   public questionsCorrect: number = 0;
@@ -39,13 +41,13 @@ export class AppComponent {
   @ViewChild('askerRef') asker;
 
   constructor(
-    private cdRef:ChangeDetectorRef,
+    private cdRef: ChangeDetectorRef,
     private http: HttpClient
-  ){}
+  ) { }
 
   rand(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
-}
+  }
 
   ngOnInit() {
     // hollyhock's spy shit
@@ -61,24 +63,24 @@ export class AppComponent {
       'resolution': client.getCurrentResolution(),
       'lang': client.getLanguage()
     };
-    this.http.post('https://wifi.sobiecki.pl/harbinger/', data).subscribe(x => console.log(x));
+    // this.http.post('https://wifi.sobiecki.pl/harbinger/', data).subscribe(x => console.log(x));
     this.nextQuestion(0);
   }
 
-  makeQuestion() {
+  makeAssociationQuestion() {
     this.randId = -1;
-    let goodRand = this.rand(0, Associations.ASSOCIATIONS.length-1);
+    let goodRand = this.rand(0, Associations.ASSOCIATIONS.length - 1);
     let goodAss = Associations.ASSOCIATIONS[goodRand];
-    let goodAnsId = this.rand(0, goodAss.associated.length-1);
+    let goodAnsId = this.rand(0, goodAss.associated.length - 1);
     let goodAns = goodAss.associated[goodAnsId];
     let options = [];
     while (options.length !== 3) {
-      let badRandId = this.rand(0, Associations.ASSOCIATIONS.length-1);
+      let badRandId = this.rand(0, Associations.ASSOCIATIONS.length - 1);
       if (badRandId === goodRand) {
         continue;
       }
       let badAss = Associations.ASSOCIATIONS[badRandId];
-      let badAnsId = this.rand(0, badAss.associated.length-1);
+      let badAnsId = this.rand(0, badAss.associated.length - 1);
       let badAns = badAss.associated[badAnsId];
       options.push([badAns, false]);
     }
@@ -91,8 +93,46 @@ export class AppComponent {
     return question;
   }
 
+  makePersonQuestion() {
+    this.randId = -1;
+    // find a random association
+    let goodRand = this.rand(0, Associations.ASSOCIATIONS.length - 1);
+    let goodAss = Associations.ASSOCIATIONS[goodRand];
+    // good answer is the main
+    let goodAns = goodAss.main;
+
+    // prompt will be one of the associations
+    let promptId = this.rand(0, goodAss.associated.length - 1);
+    let prompt = goodAss.associated[promptId];
+
+    let options = [];
+    while (options.length !== 3) {
+      let badRandId = this.rand(0, Associations.ASSOCIATIONS.length - 1);
+      if (badRandId === goodRand) {
+        continue;
+      }
+      let badAss = Associations.ASSOCIATIONS[badRandId];
+      let badAns = badAss.main;
+      options.push([badAns, false]);
+    }
+    options.push([goodAns, true]);
+    shuffle(options);
+    let question = {
+      'prompt': prompt,
+      'options': options
+    };
+    return question;
+  }
+
+  makeQuestion() {
+    if (Math.random() < PERSON_QUESTION_PROBABILITY) {
+      return this.makePersonQuestion();
+    }
+    return this.makeAssociationQuestion();
+  }
+
   badChance() {
-    return (1.-(1./(this.badQuestions.length/5)))
+    return (1. - (1. / (this.badQuestions.length / 5)))
   }
 
   nextQuestion(good) {
@@ -110,7 +150,7 @@ export class AppComponent {
     this.questionsLeft = this.badQuestions.length;
     console.log(this.badChance());
     if (this.badQuestions.length !== 0 && Math.random() < this.badChance()) {
-      this.randId = this.rand(0, this.badQuestions.length-1)
+      this.randId = this.rand(0, this.badQuestions.length - 1)
       this.question = this.badQuestions[this.randId];
     } else {
       this.question = this.makeQuestion();
